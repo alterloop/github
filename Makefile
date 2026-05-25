@@ -9,7 +9,7 @@ WATCH_USERS_FILE ?= data/watchusers.txt
 IGNORE_ORGS_FILE ?= data/ignoreorgs.txt
 DATE_ARG := $(if $(SNAPSHOT_DATE),--date $(SNAPSHOT_DATE),)
 
-.PHONY: serve populate trending
+.PHONY: serve populate trending service-data
 serve:
 	python3 -m http.server $(PORT) --bind $(HOST) --directory $(ROOT)
 
@@ -18,3 +18,6 @@ populate:
 
 trending:
 	python3 scripts/trending.py --limit $(TRENDING_LIMIT)
+
+service-data:
+	python3 scripts/service_data.py

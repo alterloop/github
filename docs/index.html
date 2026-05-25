@@ -177,8 +177,8 @@
         </div>
         <aside class="status" aria-label="Stato dataset">
           <h2>Stato registro</h2>
-          <div class="metric"><span>Organizzazioni</span><strong>22</strong></div>
-          <div class="metric"><span>Snapshot</span><strong>1</strong></div>
+          <div class="metric"><span>Organizzazioni</span><strong id="organizations-count">104</strong></div>
+          <div class="metric"><span>Snapshot</span><strong id="snapshots-count">1</strong></div>
         </aside>
       </section>
 
@@ -217,5 +217,16 @@
       <a href="https://alterloop.dev">Creato e mantenuto da Alterloop</a>
     </div>
   </footer>
+
+  <script>
+    fetch("data/service.json")
+      .then((response) => response.json())
+      .then((data) => {
+        const fmt = new Intl.NumberFormat("it-IT");
+        document.querySelector("#organizations-count").textContent = fmt.format(data.organizations_count || 0);
+        document.querySelector("#snapshots-count").textContent = fmt.format(data.snapshots_count || 0);
+      })
+      .catch(() => {});
+  </script>
 </body>
 </html>

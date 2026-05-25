@@ -27,6 +27,7 @@ Il server espone direttamente la cartella `docs/`.
 - `data/organizations.csv`: esportazione tabellare dell'ultima fotografia.
 - `data/trending.json`: classifica trending corrente.
 - `data/trending.csv`: esportazione tabellare della classifica.
+- `data/service.json`: metadati di servizio usati dalla home, come conteggio organizzazioni e snapshot.
 - `data/YYYY/MM/DD/`: snapshot storici giornalieri.
 - `docs/data/`: copia pubblicabile via GitHub Pages.
 
@@ -133,8 +134,9 @@ Le baseline a 30 giorni usano interpolazione lineare tra le letture disponibili.
 1. Aggiornare watchlist, ignorelist o dati sorgente.
 2. Eseguire `make populate`.
 3. Eseguire `make trending`.
-4. Verificare il sito con `make serve`.
-5. Committare dati, snapshot e pagine aggiornate.
+4. Eseguire `make service-data`.
+5. Verificare il sito con `make serve`.
+6. Committare dati, snapshot e pagine aggiornate.
 
 ## Segnala una organizzazione
 
