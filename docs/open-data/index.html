@@ -23,6 +23,7 @@
     table { width:100%; min-width:1120px; border-collapse:collapse; table-layout:fixed; }
     th, td { height:42px; padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:middle; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     th { background:#edf0ee; font-size:.76rem; text-transform:uppercase; letter-spacing:.04em; user-select:none; cursor:pointer; }
+    th:first-child, td:first-child { width: 190px; }
     th[aria-sort="ascending"]::after { content:" ▲"; }
     th[aria-sort="descending"]::after { content:" ▼"; }
     tr:last-child td { border-bottom:0; }
@@ -31,6 +32,9 @@
     .verified { color:var(--ok); font-weight:800; }
     .empty { display:none; padding:28px 12px; border:1px solid var(--line); background:var(--panel); color:var(--muted); text-align:center; }
     @media (max-width:720px) { nav { align-items:start; } .toolbar { grid-template-columns:1fr; } main, header { padding-inline:14px; } }
+      footer { border-top:1px solid var(--line); background:#fff; padding:18px 20px; }
+    footer a { color:var(--blue); font-weight:800; text-decoration:none; }
+    footer a:hover { text-decoration:underline; }
   </style>
 </head>
 <body>
@@ -49,10 +53,16 @@
     function value(item,key){ if(key==="verified") return item.verified ? 1 : 0; return item[key] ?? ""; }
     function matches(item){ const query=search.value.trim().toLowerCase(); const selected=sector.value; const itemSector=item.sector||"Da classificare"; const haystack=[item.login,item.name,item.location,itemSector,item.account_type].join(" ").toLowerCase(); return (!query||haystack.includes(query))&&(!selected||itemSector===selected); }
     function sorted(items){ return [...items].sort((a,b)=>{ const av=value(a,sortKey), bv=value(b,sortKey); const order=(typeof av==="number"||typeof bv==="number") ? Number(av)-Number(bv) : String(av).localeCompare(String(bv),"it"); return sortDir==="asc" ? order : -order; }); }
-    function render(){ const filtered=sorted(organizations.filter(matches)); rows.replaceChildren(); filtered.forEach(item=>{ const itemSector=item.sector||"Da classificare"; const checked=item.last_checked||item.snapshot_date||"-"; const tr=document.createElement("tr"); tr.innerHTML=`<td title="${item.name||item.login}"><a class="login" href="${item.github_url}">@${item.login}</a></td><td>${item.account_type||"Organization"}</td><td>${fmt.format(item.followers||0)}</td><td>${fmt.format(item.public_repos||0)}</td><td>${fmt.format(item.total_stargazers||0)}</td><td><span class="badge" title="${itemSector}">${itemSector}</span></td><td title="${item.location||""}">${item.location||"-"}</td><td class="${item.verified?"verified":""}">${item.verified?"Si":"-"}</td><td><a href="${item.source_url||item.github_url}">${checked}</a></td>`; rows.append(tr); }); count.textContent=filtered.length; empty.style.display=filtered.length?"none":"block"; heads.forEach(th=>th.setAttribute("aria-sort",th.dataset.sort===sortKey?(sortDir==="asc"?"ascending":"descending"):"none")); }
+    function render(){ const filtered=sorted(organizations.filter(matches)); rows.replaceChildren(); filtered.forEach(item=>{ const itemSector=item.sector||"Da classificare"; const checked=item.last_checked||item.snapshot_date||"-"; const tr=document.createElement("tr"); tr.innerHTML=`<td title="${item.name||item.login}"><a class="login" href="${item.github_url}">@${item.login}</a></td><td>${(item.account_type||"Organization")==="Organization"?"Org":"User"}</td><td>${fmt.format(item.followers||0)}</td><td>${fmt.format(item.public_repos||0)}</td><td>${fmt.format(item.total_stargazers||0)}</td><td><span class="badge" title="${itemSector}">${itemSector}</span></td><td title="${item.location||""}">${item.location||"-"}</td><td class="${item.verified?"verified":""}">${item.verified?"Si":"-"}</td><td><a href="${item.source_url||item.github_url}">${checked}</a></td>`; rows.append(tr); }); count.textContent=filtered.length; empty.style.display=filtered.length?"none":"block"; heads.forEach(th=>th.setAttribute("aria-sort",th.dataset.sort===sortKey?(sortDir==="asc"?"ascending":"descending"):"none")); }
     heads.forEach(th=>th.addEventListener("click",()=>{ const key=th.dataset.sort; sortDir=sortKey===key&&sortDir==="desc"?"asc":"desc"; sortKey=key; render(); }));
     fetch("../data/organizations.json").then(response=>response.json()).then(data=>{ organizations=data; fillSectors(); render(); }).catch(()=>{ empty.textContent="Impossibile caricare il dataset."; empty.style.display="block"; });
     search.addEventListener("input",render); sector.addEventListener("change",render);
   </script>
+
+  <footer>
+    <div class="wrap">
+      <a href="https://github.com/alterloop/github#segnala-una-organizzazione">Vuoi aggiungere la tua organizzazione in questo dataset? Clicca questo link.</a>
+    </div>
+  </footer>
 </body>
 </html>

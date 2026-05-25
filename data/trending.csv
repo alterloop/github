@@ -1,6 +1,6 @@
 rank,login,name,github_url,account_type,sector,location,verified,followers,followers_30d_ago_estimate,followers_delta_30d,followers_growth_rate_30d,public_repos,public_repos_30d_ago_estimate,public_repos_delta_30d,total_stargazers,total_stargazers_30d_ago_estimate,total_stargazers_delta_30d,score,score_followers_growth,score_repositories_growth,score_stars_growth,score_audience,score_repository_base,score_verified,snapshot_date
 1,italia,Developers Italia,https://github.com/italia,Organization,PA,Italy,True,1854,1854.0,0.0,0.0,426,426.0,0.0,6670,6670.0,0.0,28.7893,0.0,0.0,0.0,14.6512,9.1381,5.0,2026-05-25
-2,pagopa,PagoPA S.p.A.,https://github.com/pagopa,Organization,Soc. pubblica,Italy,True,315,315.0,0.0,0.0,755,755.0,0.0,1662,1662.0,0.0,26.2055,0.0,0.0,0.0,11.2055,10.0,5.0,2026-05-25
+2,pagopa,PagoPA S.p.A.,https://github.com/pagopa,Organization,PMI,Italy,True,315,315.0,0.0,0.0,755,755.0,0.0,1662,1662.0,0.0,26.2055,0.0,0.0,0.0,11.2055,10.0,5.0,2026-05-25
 3,OpenIPC,OpenIPC,https://github.com/OpenIPC,Organization,N/D,Italy,False,2218,2218.0,0.0,0.0,134,134.0,0.0,5908,5908.0,0.0,22.4008,0.0,0.0,0.0,15.0,7.4008,0.0,2026-05-25
 4,teamdigitale,Team Digitale,https://github.com/teamdigitale,Organization,PA,"Rome, Italy",True,142,142.0,0.0,0.0,150,150.0,0.0,328,328.0,0.0,22.2316,0.0,0.0,0.0,9.6618,7.5698,5.0,2026-05-25
 5,volumio,Volumio Srl,https://github.com/volumio,User,N/D,Firenze - Italia,False,1058,1058.0,0.0,0.0,134,134.0,0.0,2370,2370.0,0.0,20.9607,0.0,0.0,0.0,13.5599,7.4008,0.0,2026-05-25

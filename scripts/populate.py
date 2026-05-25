@@ -63,7 +63,8 @@ PRESERVED_FIELDS = {
 
 SECTOR_LABELS = {
     "Pubblica amministrazione": "PA",
-    "Societa pubblica": "Soc. pubblica",
+    "Societa pubblica": "PMI",
+    "Soc. pubblica": "PMI",
     "Ricerca e statistica": "Ricerca",
     "Civic tech": "Civic tech",
     "Da classificare": "N/D",

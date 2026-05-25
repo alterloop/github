@@ -120,3 +120,15 @@ Il risultato viene scritto in `data/trending.json`, `data/trending.csv` e nello 
 Le baseline a 30 giorni usano interpolazione lineare tra le letture disponibili. Se non esiste una lettura piu vecchia della finestra richiesta, il valore piu vecchio disponibile viene considerato costante andando indietro nel tempo.
 
 Il workflow `.github/workflows/tranding.yml` aggiorna la classifica ogni notte e committa solo se cambia.
+
+## Segnala una organizzazione
+
+Vuoi aggiungere la tua organizzazione a questo dataset? Apri una issue nel repository indicando:
+
+- login GitHub dell'organizzazione o account utente storico;
+- nome pubblico dell'organizzazione;
+- sito ufficiale, se disponibile;
+- settore suggerito;
+- motivo per cui dovrebbe essere inclusa nel registro.
+
+Apri una nuova segnalazione da qui: https://github.com/alterloop/github/issues/new
