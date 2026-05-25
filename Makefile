@@ -1,7 +1,7 @@
 PORT ?= 8000
 HOST ?= 127.0.0.1
 ROOT ?= docs
-QUERY ?= location:Italy type:org followers:>231
+QUERY ?= location:Italy type:org followers:>50
 MAX_ORGS ?= 100
 TRENDING_LIMIT ?= 100
 WATCH_ORGS_FILE ?= data/watchorgs.txt

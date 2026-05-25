@@ -27,7 +27,7 @@ CSV_FIELDS = [
     "public_repos", "public_repos_30d_ago_estimate", "public_repos_delta_30d",
     "total_stargazers", "total_stargazers_30d_ago_estimate", "total_stargazers_delta_30d",
     "score", "score_followers_growth", "score_repositories_growth", "score_stars_growth",
-    "score_audience", "score_repository_base", "score_verified", "snapshot_date",
+    "snapshot_date",
 ]
 
 
@@ -148,8 +148,6 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
     max_followers_delta = 0.0
     max_repos_delta = 0.0
     max_stars_delta = 0.0
-    max_followers = 0
-    max_repos = 0
 
     for login, item in latest_by_login.items():
         readings = history.get(login) or [(snapshot_date, item)]
@@ -165,8 +163,6 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
         max_followers_delta = max(max_followers_delta, followers_delta)
         max_repos_delta = max(max_repos_delta, repos_delta)
         max_stars_delta = max(max_stars_delta, stars_delta)
-        max_followers = max(max_followers, followers)
-        max_repos = max(max_repos, repos)
         candidates.append({
             "item": item,
             "followers_base": followers_base,
@@ -189,13 +185,10 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
         stars_delta = candidate["stars_delta"]
         growth_rate = followers_delta / followers_base if followers_base > 0 else (1.0 if followers_delta > 0 else 0.0)
 
-        score_followers_growth = 35.0 * ((followers_delta / max_followers_delta) if max_followers_delta else 0.0)
-        score_repositories_growth = 20.0 * ((repos_delta / max_repos_delta) if max_repos_delta else 0.0)
-        score_stars_growth = 15.0 * ((stars_delta / max_stars_delta) if max_stars_delta else 0.0)
-        score_audience = 15.0 * normalized_log(followers, max_followers)
-        score_repository_base = 10.0 * normalized_log(repos, max_repos)
-        score_verified = 5.0 if item.get("verified") else 0.0
-        score = score_followers_growth + score_repositories_growth + score_stars_growth + score_audience + score_repository_base + score_verified
+        score_followers_growth = 40.0 * ((followers_delta / max_followers_delta) if max_followers_delta else 0.0)
+        score_repositories_growth = 30.0 * ((repos_delta / max_repos_delta) if max_repos_delta else 0.0)
+        score_stars_growth = 30.0 * ((stars_delta / max_stars_delta) if max_stars_delta else 0.0)
+        score = score_followers_growth + score_repositories_growth + score_stars_growth
 
         ranked.append({
             "rank": 0,
@@ -220,9 +213,6 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
             "score_followers_growth": round(score_followers_growth, 4),
             "score_repositories_growth": round(score_repositories_growth, 4),
             "score_stars_growth": round(score_stars_growth, 4),
-            "score_audience": round(score_audience, 4),
-            "score_repository_base": round(score_repository_base, 4),
-            "score_verified": round(score_verified, 4),
             "snapshot_date": snapshot_date.isoformat(),
         })
 
@@ -236,14 +226,11 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
         "window_days": WINDOW_DAYS,
         "limit": limit,
         "records": len(ranked),
-        "method": "30-day follower, repository and star baselines use linear interpolation between available snapshots; before the oldest snapshot, the oldest value is treated as constant backward in time.",
+        "method": "30-day follower, repository and star baselines use linear interpolation between available snapshots; before the oldest snapshot, the oldest value is treated as constant backward in time. The score uses growth only.",
         "score_weights": {
-            "followers_growth": 35,
-            "repositories_growth": 20,
-            "stars_growth": 15,
-            "audience": 15,
-            "repository_base": 10,
-            "verified": 5,
+            "followers_growth": 40,
+            "repositories_growth": 30,
+            "stars_growth": 30
         },
         "watched_orgs": watched,
         "ignored_orgs": sorted(ignored),

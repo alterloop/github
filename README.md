@@ -82,7 +82,7 @@ make populate
 Il target usa `scripts/populate.py`, interroga GitHub Search API con la query predefinita:
 
 ```text
-location:Italy type:org followers:>231
+location:Italy type:org followers:>50
 ```
 
 Variabili utili:
@@ -119,7 +119,7 @@ make trending
 
 Il risultato viene scritto in `data/trending.json`, `data/trending.csv`, `docs/data/trending.json`, `docs/data/trending.csv` e nello snapshot giornaliero `data/YYYY/MM/DD/`.
 
-Lo score combina crescita stimata a 30 giorni di follower, repository e stelle totali, piu base audience, base repository e verifica.
+Lo score combina crescita stimata a 30 giorni di follower, repository e stelle totali.
 
 Le baseline a 30 giorni usano interpolazione lineare tra le letture disponibili. Se non esiste una lettura piu vecchia della finestra richiesta, il valore piu vecchio disponibile viene considerato costante andando indietro nel tempo.
 
