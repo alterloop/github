@@ -216,7 +216,7 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
             "snapshot_date": snapshot_date.isoformat(),
         })
 
-    ranked.sort(key=lambda item: (-item["score"], -item["followers_delta_30d"], -item["public_repos_delta_30d"], -item["total_stargazers_delta_30d"], item["login"].lower()))
+    ranked.sort(key=lambda item: (-item["score"], -item["followers"], -item["followers_delta_30d"], -item["public_repos_delta_30d"], -item["total_stargazers_delta_30d"], item["login"].lower()))
     ranked = ranked[:limit]
     for index, item in enumerate(ranked, start=1):
         item["rank"] = index

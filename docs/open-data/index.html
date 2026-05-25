@@ -12,6 +12,7 @@
     .wrap { width:min(1180px,100%); margin:0 auto; }
     nav { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:40px; }
     nav a { color:#fff; text-decoration:none; font-weight:750; }
+    nav a.nav-cta { min-height:40px; display:inline-flex; align-items:center; border-radius:6px; padding:0 12px; background:#fff; color:var(--blue); }
     h1 { margin:0 0 10px; font-size:clamp(2.2rem,6vw,5rem); line-height:.96; letter-spacing:0; }
     .lead { max-width:760px; margin:0; color:#dce5e8; font-size:1.05rem; }
     main { padding:22px 20px 48px; }
@@ -39,7 +40,7 @@
   </style>
 </head>
 <body>
-  <header><div class="wrap"><nav><a href="../">Registro GitHub Italia</a><a href="../trending/">Trend</a></nav><h1>Open Data</h1><p class="lead">Dataset consultabile delle organizzazioni italiane su GitHub, con metriche, storico e fonti.</p></div></header>
+  <header><div class="wrap"><nav><a href="../">Registro GitHub Italia</a><a class="nav-cta" href="../trending/">Trend</a></nav><h1>Open Data</h1><p class="lead">Dataset consultabile delle organizzazioni italiane su GitHub, con metriche, storico e fonti.</p></div></header>
   <main><div class="wrap">
     <div class="toolbar" aria-label="Filtri Open Data"><input id="search" type="search" placeholder="Cerca per nome, login, settore o localita" autocomplete="off"><select id="sector"><option value="">Tutti i settori</option></select></div>
     <div class="meta"><span><strong id="count">0</strong> organizzazioni</span><span>Scarica: <a href="../data/organizations.json">JSON</a> · <a href="../data/organizations.csv">CSV</a></span></div>
