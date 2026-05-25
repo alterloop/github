@@ -1,0 +1,9 @@
+{
+  "snapshot_date": "2026-05-25",
+  "query": "location:Italy type:org followers:>231",
+  "max_orgs": 20,
+  "records": 20,
+  "generated_at": "2026-05-25T16:45:09.044188+00:00",
+  "source": "GitHub Search API and Organizations API",
+  "errors": []
+}

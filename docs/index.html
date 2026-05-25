@@ -1,1 +1,127 @@
-Hello!
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Registro GitHub Italia</title>
+  <style>
+    :root {
+      --ink: #15191f;
+      --muted: #dce5e8;
+      --bg: #f5f6f4;
+      --blue: #16637a;
+      --blue-dark: #0e4455;
+      --line: rgba(255,255,255,.24);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font: 16px/1.5 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .hero {
+      min-height: 100vh;
+      display: grid;
+      align-items: end;
+      padding: 28px 20px 38px;
+      color: #fff;
+      background:
+        linear-gradient(180deg, rgba(12, 20, 26, .22), rgba(12, 20, 26, .9)),
+        url("https://images.unsplash.com/photo-1522199710521-72d69614c702?auto=format&fit=crop&w=1800&q=80") center/cover;
+    }
+    nav {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      padding: 18px 20px;
+    }
+    .wrap, .nav-inner {
+      width: min(1120px, 100%);
+      margin: 0 auto;
+    }
+    .nav-inner {
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: center;
+    }
+    .brand { font-weight: 850; letter-spacing: 0; }
+    .nav-links, .actions { display: flex; flex-wrap: wrap; gap: 10px; }
+    a { color: inherit; }
+    .nav-links a, .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      border-radius: 6px;
+      padding: 0 14px;
+      background: rgba(255,255,255,.13);
+      color: #fff;
+      text-decoration: none;
+      font-weight: 750;
+      backdrop-filter: blur(8px);
+    }
+    .button.primary { background: #fff; color: var(--blue-dark); }
+    h1 {
+      max-width: 940px;
+      margin: 0 0 16px;
+      font-size: clamp(2.8rem, 9vw, 7rem);
+      line-height: .92;
+      letter-spacing: 0;
+    }
+    .lead {
+      max-width: 760px;
+      margin: 0 0 24px;
+      color: var(--muted);
+      font-size: clamp(1.05rem, 2vw, 1.35rem);
+    }
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 1px;
+      width: min(860px, 100%);
+      margin-top: 32px;
+      background: var(--line);
+      border: 1px solid var(--line);
+    }
+    .metric { background: rgba(9, 18, 24, .52); padding: 18px; }
+    .metric strong { display: block; font-size: 2rem; line-height: 1; }
+    .metric span { color: var(--muted); font-size: .95rem; }
+    @media (max-width: 760px) {
+      .hero { min-height: 92vh; }
+      .nav-inner { align-items: start; }
+      .nav-links { justify-content: end; }
+      .metrics { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <nav aria-label="Navigazione principale">
+    <div class="nav-inner">
+      <div class="brand">Registro GitHub Italia</div>
+      <div class="nav-links">
+        <a href="open-data/">Open Data</a>
+        <a href="trending/">Trend</a>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="wrap">
+      <h1>Organizzazioni italiane su GitHub</h1>
+      <p class="lead">Un registro aperto per scoprire enti pubblici, societa, comunita e progetti italiani che pubblicano codice e dati su GitHub.</p>
+      <div class="actions">
+        <a class="button primary" href="open-data/">Consulta Open Data</a>
+        <a class="button" href="trending/">Visualizza organizzazioni in trend</a>
+      </div>
+      <div class="metrics" aria-label="Statistiche registro">
+        <div class="metric"><strong>6</strong><span>organizzazioni censite</span></div>
+        <div class="metric"><strong>4</strong><span>settori rappresentati</span></div>
+        <div class="metric"><strong>3</strong><span>profili verificati</span></div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

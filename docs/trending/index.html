@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trend - Registro GitHub Italia</title>
+  <style>
+    :root { --bg:#f6f7f5; --panel:#fff; --ink:#171b20; --muted:#626a74; --line:#d9ddd9; --blue:#16637a; --green:#2e7d58; --amber:#a85f14; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    header { background:#17212b; color:#fff; padding:24px 20px 34px; }
+    .wrap { width:min(1120px,100%); margin:0 auto; }
+    nav { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:44px; }
+    nav a { color:#fff; text-decoration:none; font-weight:750; }
+    h1 { margin:0 0 10px; font-size:clamp(2.2rem,6vw,5rem); line-height:.96; letter-spacing:0; }
+    .lead { max-width:780px; margin:0; color:#dce5e8; font-size:1.08rem; }
+    main { padding:24px 20px 54px; }
+    .note { margin:0 0 18px; color:var(--muted); }
+    .grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
+    .card { min-height:260px; border:1px solid var(--line); border-radius:8px; background:var(--panel); padding:18px; display:flex; flex-direction:column; justify-content:space-between; }
+    .rank { width:42px; height:42px; border-radius:50%; display:grid; place-items:center; background:#e7f2f5; color:var(--blue); font-weight:850; }
+    .top { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:16px; }
+    h2 { margin:0 0 6px; font-size:1.35rem; line-height:1.1; letter-spacing:0; }
+    .login { color:var(--blue); font-weight:800; text-decoration:none; }
+    p { margin:0; color:var(--muted); }
+    .score { margin-top:16px; }
+    .score-line { height:10px; border-radius:999px; background:#e8ebe8; overflow:hidden; margin-top:8px; }
+    .score-line span { display:block; height:100%; background:linear-gradient(90deg,var(--blue),var(--green)); }
+    .facts { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:8px; margin-top:16px; }
+    .fact { border:1px solid var(--line); border-radius:6px; padding:10px; }
+    .fact strong { display:block; line-height:1; }
+    .fact span { color:var(--muted); font-size:.85rem; }
+    .cta { color:var(--blue); font-weight:800; text-decoration:none; margin-top:18px; display:inline-flex; }
+    @media (max-width:900px) { .grid { grid-template-columns:1fr; } main, header { padding-inline:14px; } nav { align-items:start; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <nav><a href="../">Registro GitHub Italia</a><a href="../open-data/">Open Data</a></nav>
+      <h1>Organizzazioni in trend</h1>
+      <p class="lead">Vista sintetica delle organizzazioni piu rilevanti nel registro, ordinata con uno score editoriale basato su verifica, volume pubblico e attivita osservata.</p>
+    </div>
+  </header>
+  <main>
+    <div class="wrap">
+      <p class="note">Lo score e' statico e va aggiornato quando si aggiorna il dataset. La pagina non usa API GitHub in tempo reale.</p>
+      <div class="grid">
+        <article class="card">
+          <div>
+            <div class="top"><div class="rank">1</div><strong>Score 96</strong></div>
+            <h2>Developers Italia</h2>
+            <a class="login" href="https://github.com/italia">@italia</a>
+            <p>Hub pubblico per codice, standard e community dei servizi digitali italiani.</p>
+            <div class="score"><div class="score-line"><span style="width:96%"></span></div></div>
+            <div class="facts"><div class="fact"><strong>Verificata</strong><span>profilo</span></div><div class="fact"><strong>PA</strong><span>settore</span></div></div>
+          </div>
+          <a class="cta" href="../open-data/">Vedi nel dataset</a>
+        </article>
+        <article class="card">
+          <div>
+            <div class="top"><div class="rank">2</div><strong>Score 92</strong></div>
+            <h2>PagoPA S.p.A.</h2>
+            <a class="login" href="https://github.com/pagopa">@pagopa</a>
+            <p>Organizzazione centrale per pagamenti digitali, app IO e piattaforme pubbliche.</p>
+            <div class="score"><div class="score-line"><span style="width:92%"></span></div></div>
+            <div class="facts"><div class="fact"><strong>Verificata</strong><span>profilo</span></div><div class="fact"><strong>Societa</strong><span>settore</span></div></div>
+          </div>
+          <a class="cta" href="../open-data/">Vedi nel dataset</a>
+        </article>
+        <article class="card">
+          <div>
+            <div class="top"><div class="rank">3</div><strong>Score 84</strong></div>
+            <h2>Team Digitale</h2>
+            <a class="login" href="https://github.com/teamdigitale">@teamdigitale</a>
+            <p>Archivio e progetti collegati alla trasformazione digitale della Presidenza del Consiglio.</p>
+            <div class="score"><div class="score-line"><span style="width:84%"></span></div></div>
+            <div class="facts"><div class="fact"><strong>Verificata</strong><span>profilo</span></div><div class="fact"><strong>PA</strong><span>settore</span></div></div>
+          </div>
+          <a class="cta" href="../open-data/">Vedi nel dataset</a>
+        </article>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
