@@ -21,14 +21,16 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-DEFAULT_QUERY = "location:Italy type:org followers:>231"
+DEFAULT_QUERY = "location:Italy type:org followers:>50"
 DEFAULT_MAX_ORGS = 100
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
+DOCS_DATA_DIR = ROOT / "docs" / "data"
 LATEST_JSON = DATA_DIR / "organizations.json"
 LATEST_CSV = DATA_DIR / "organizations.csv"
 DEFAULT_WATCHORGS = DATA_DIR / "watchorgs.txt"
 DEFAULT_IGNOREORGS = DATA_DIR / "ignoreorgs.txt"
+DEFAULT_WATCHUSERS = DATA_DIR / "watchusers.txt"
 
 CSV_FIELDS = [
     "snapshot_date",
@@ -39,6 +41,7 @@ CSV_FIELDS = [
     "location",
     "sector",
     "verified",
+    "account_type",
     "description",
     "followers",
     "following",
@@ -56,6 +59,14 @@ PRESERVED_FIELDS = {
     "sector",
     "verified",
     "archived_at",
+}
+
+SECTOR_LABELS = {
+    "Pubblica amministrazione": "PA",
+    "Societa pubblica": "Soc. pubblica",
+    "Ricerca e statistica": "Ricerca",
+    "Civic tech": "Civic tech",
+    "Da classificare": "N/D",
 }
 
 
@@ -142,12 +153,17 @@ def normalize_url(value: str | None) -> str:
     return value or ""
 
 
-def fetch_total_stargazers(login: str, token: str | None) -> int:
+def normalize_sector(value: str | None) -> str:
+    value = value or "Da classificare"
+    return SECTOR_LABELS.get(value, value)
+
+
+def fetch_total_stargazers(login: str, token: str | None, account_type: str = "Organization") -> int:
     total = 0
     page = 1
     while True:
         url = (
-            f"https://api.github.com/orgs/{urllib.parse.quote(login)}/repos"
+            f"https://api.github.com/{'orgs' if account_type == 'Organization' else 'users'}/{urllib.parse.quote(login)}/repos"
             f"?type=public&per_page=100&page={page}"
         )
         repos = github_request(url, token)
@@ -160,7 +176,7 @@ def fetch_total_stargazers(login: str, token: str | None) -> int:
     return total
 
 
-def merge_org(api_org: dict, previous: dict, snapshot_date: str, total_stargazers: int | None = None) -> dict:
+def merge_org(api_org: dict, previous: dict, snapshot_date: str, total_stargazers: int | None = None, account_type: str = "Organization") -> dict:
     record = {
         "snapshot_date": snapshot_date,
         "login": api_org.get("login", previous.get("login", "")),
@@ -173,9 +189,10 @@ def merge_org(api_org: dict, previous: dict, snapshot_date: str, total_stargazer
         "location": normalize_url(api_org.get("location") or previous.get("location")),
         "email": normalize_url(api_org.get("email") or previous.get("email")),
         "twitter_username": normalize_url(api_org.get("twitter_username") or previous.get("twitter_username")),
-        "sector": previous.get("sector", "Da classificare"),
+        "sector": normalize_sector(previous.get("sector", "Da classificare")),
         "verified": bool(previous.get("verified", False)),
-        "description": api_org.get("description") or previous.get("description", ""),
+        "account_type": account_type,
+        "description": api_org.get("description") or api_org.get("bio") or previous.get("description", ""),
         "followers": int(api_org.get("followers") or previous.get("followers") or 0),
         "following": int(api_org.get("following") or previous.get("following") or 0),
         "public_repos": int(api_org.get("public_repos") or previous.get("public_repos") or 0),
@@ -190,7 +207,7 @@ def merge_org(api_org: dict, previous: dict, snapshot_date: str, total_stargazer
 
     for field in PRESERVED_FIELDS:
         if previous.get(field) not in (None, ""):
-            record[field] = previous[field]
+            record[field] = normalize_sector(previous[field]) if field == "sector" else previous[field]
 
     return record
 
@@ -247,6 +264,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--max-orgs", type=int, default=int(os.getenv("MAX_ORGS", DEFAULT_MAX_ORGS)))
     parser.add_argument("--date", default=os.getenv("SNAPSHOT_DATE", utc_today()))
     parser.add_argument("--watch-orgs", type=Path, default=Path(os.getenv("WATCH_ORGS_FILE", DEFAULT_WATCHORGS)))
+    parser.add_argument("--watch-users", type=Path, default=Path(os.getenv("WATCH_USERS_FILE", DEFAULT_WATCHUSERS)))
     parser.add_argument("--ignore-orgs", type=Path, default=Path(os.getenv("IGNORE_ORGS_FILE", DEFAULT_IGNOREORGS)))
     parser.add_argument("--keep-existing", action=argparse.BooleanOptionalAction, default=True)
     return parser.parse_args()
@@ -258,35 +276,42 @@ def main() -> int:
     previous = load_previous_records()
 
     watched_logins = read_org_list(args.watch_orgs)
+    watched_user_logins = read_org_list(args.watch_users)
     ignored_logins = set(read_org_list(args.ignore_orgs))
     watched_logins = [login for login in watched_logins if login not in ignored_logins]
+    watched_user_logins = [login for login in watched_user_logins if login not in ignored_logins]
     searched_logins = [login for login in search_organizations(args.query, token, args.max_orgs) if login not in ignored_logins]
-    logins: list[str] = []
-    for login in watched_logins:
-        if login not in logins:
-            logins.append(login)
-    for login in searched_logins:
-        if login not in logins:
-            logins.append(login)
-    if args.keep_existing:
-        for login in previous:
-            if login not in ignored_logins and login not in logins:
-                logins.append(login)
+    targets: list[tuple[str, str]] = []
 
-    if not logins:
+    def add_target(login: str, account_type: str) -> None:
+        if login and login not in ignored_logins and not any(existing == login for existing, _ in targets):
+            targets.append((login, account_type))
+
+    for login in watched_logins:
+        add_target(login, "Organization")
+    for login in watched_user_logins:
+        add_target(login, "User")
+    for login in searched_logins:
+        add_target(login, "Organization")
+    if args.keep_existing:
+        for login, record in previous.items():
+            add_target(login, record.get("account_type", "Organization"))
+
+    if not targets:
         raise RuntimeError("No GitHub organizations found")
 
     records: list[dict] = []
     errors: list[str] = []
-    for login in logins:
+    for login, account_type in targets:
         try:
-            api_org = github_request(f"https://api.github.com/orgs/{urllib.parse.quote(login)}", token)
+            endpoint = "orgs" if account_type == "Organization" else "users"
+            api_org = github_request(f"https://api.github.com/{endpoint}/{urllib.parse.quote(login)}", token)
             try:
-                total_stargazers = fetch_total_stargazers(login, token)
+                total_stargazers = fetch_total_stargazers(login, token, account_type)
             except RuntimeError as exc:
                 total_stargazers = previous.get(login, {}).get("total_stargazers")
                 errors.append(f"kept previous total_stargazers for {login}: {exc}")
-            records.append(merge_org(api_org, previous.get(login, {}), args.date, total_stargazers))
+            records.append(merge_org(api_org, previous.get(login, {}), args.date, total_stargazers, account_type))
         except RuntimeError as exc:
             if login in previous:
                 stale = dict(previous[login])
@@ -306,8 +331,10 @@ def main() -> int:
         "query": args.query,
         "max_orgs": args.max_orgs,
         "watch_orgs_file": str(args.watch_orgs.relative_to(ROOT) if args.watch_orgs.is_relative_to(ROOT) else args.watch_orgs),
+        "watch_users_file": str(args.watch_users.relative_to(ROOT) if args.watch_users.is_relative_to(ROOT) else args.watch_users),
         "ignore_orgs_file": str(args.ignore_orgs.relative_to(ROOT) if args.ignore_orgs.is_relative_to(ROOT) else args.ignore_orgs),
         "watched_orgs": watched_logins,
+        "watched_users": watched_user_logins,
         "ignored_orgs": sorted(ignored_logins),
         "records": len(records),
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
@@ -318,9 +345,13 @@ def main() -> int:
     write_json(snapshot_dir / "organizations.json", records)
     write_csv(snapshot_dir / "organizations.csv", records)
     write_json(snapshot_dir / "metadata.json", metadata)
+    latest_payload = {"snapshot": f"{year}/{month}/{day}", "metadata": metadata}
     write_json(LATEST_JSON, records)
     write_csv(LATEST_CSV, records)
-    write_json(DATA_DIR / "latest.json", {"snapshot": f"{year}/{month}/{day}", "metadata": metadata})
+    write_json(DATA_DIR / "latest.json", latest_payload)
+    write_json(DOCS_DATA_DIR / "organizations.json", records)
+    write_csv(DOCS_DATA_DIR / "organizations.csv", records)
+    write_json(DOCS_DATA_DIR / "latest.json", latest_payload)
 
     print(f"Wrote {len(records)} organizations to {snapshot_dir.relative_to(ROOT)}")
     if errors:

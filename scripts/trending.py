@@ -12,6 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
+DOCS_DATA_DIR = ROOT / "docs" / "data"
 LATEST_JSON = DATA_DIR / "organizations.json"
 TRENDING_JSON = DATA_DIR / "trending.json"
 TRENDING_CSV = DATA_DIR / "trending.csv"
@@ -21,7 +22,7 @@ WINDOW_DAYS = 30
 TOP_LIMIT = 100
 
 CSV_FIELDS = [
-    "rank", "login", "name", "github_url", "sector", "location", "verified",
+    "rank", "login", "name", "github_url", "account_type", "sector", "location", "verified",
     "followers", "followers_30d_ago_estimate", "followers_delta_30d", "followers_growth_rate_30d",
     "public_repos", "public_repos_30d_ago_estimate", "public_repos_delta_30d",
     "total_stargazers", "total_stargazers_30d_ago_estimate", "total_stargazers_delta_30d",
@@ -201,6 +202,7 @@ def build_trending(snapshot_date: dt.date, limit: int) -> tuple[list[dict], dict
             "login": item.get("login", ""),
             "name": item.get("name") or item.get("login", ""),
             "github_url": item.get("github_url", ""),
+            "account_type": item.get("account_type", "Organization"),
             "sector": item.get("sector") or "Da classificare",
             "location": item.get("location", ""),
             "verified": bool(item.get("verified")),
@@ -272,9 +274,12 @@ def main() -> int:
     year, month, day = snapshot_date.isoformat().split("-")
     snapshot_dir = DATA_DIR / year / month / day
 
-    write_json(TRENDING_JSON, {"metadata": metadata, "items": ranked})
+    trending_payload = {"metadata": metadata, "items": ranked}
+    write_json(TRENDING_JSON, trending_payload)
     write_csv(TRENDING_CSV, ranked)
-    write_json(snapshot_dir / "trending.json", {"metadata": metadata, "items": ranked})
+    write_json(DOCS_DATA_DIR / "trending.json", trending_payload)
+    write_csv(DOCS_DATA_DIR / "trending.csv", ranked)
+    write_json(snapshot_dir / "trending.json", trending_payload)
     write_csv(snapshot_dir / "trending.csv", ranked)
     print(f"Wrote {len(ranked)} trending organizations")
     return 0

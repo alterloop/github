@@ -1,22 +1,23 @@
-rank,login,name,github_url,sector,location,verified,followers,followers_30d_ago_estimate,followers_delta_30d,followers_growth_rate_30d,public_repos,public_repos_30d_ago_estimate,public_repos_delta_30d,total_stargazers,total_stargazers_30d_ago_estimate,total_stargazers_delta_30d,score,score_followers_growth,score_repositories_growth,score_stars_growth,score_audience,score_repository_base,score_verified,snapshot_date
-1,italia,Developers Italia,https://github.com/italia,Pubblica amministrazione,Italy,True,1854,1854.0,0.0,0.0,426,426.0,0.0,6670,6670.0,0.0,28.7893,0.0,0.0,0.0,14.6512,9.1381,5.0,2026-05-25
-2,pagopa,PagoPA S.p.A.,https://github.com/pagopa,Societa pubblica,Italy,True,315,315.0,0.0,0.0,755,755.0,0.0,1662,1662.0,0.0,26.2055,0.0,0.0,0.0,11.2055,10.0,5.0,2026-05-25
-3,OpenIPC,OpenIPC,https://github.com/OpenIPC,Da classificare,Italy,False,2218,2218.0,0.0,0.0,134,134.0,0.0,5908,5908.0,0.0,22.4008,0.0,0.0,0.0,15.0,7.4008,0.0,2026-05-25
-4,teamdigitale,Team Digitale,https://github.com/teamdigitale,Pubblica amministrazione,"Rome, Italy",True,142,142.0,0.0,0.0,150,150.0,0.0,328,328.0,0.0,22.2316,0.0,0.0,0.0,9.6618,7.5698,5.0,2026-05-25
-5,cartabinaria,CartaBinaria,https://github.com/cartabinaria,Da classificare,Italy,False,279,279.0,0.0,0.0,198,198.0,0.0,156,156.0,0.0,18.9562,0.0,0.0,0.0,10.97,7.9862,0.0,2026-05-25
-6,robotology,Robotology,https://github.com/robotology,Da classificare,Italy,False,324,324.0,0.0,0.0,147,147.0,0.0,2685,2685.0,0.0,18.7997,0.0,0.0,0.0,11.2602,7.5395,0.0,2026-05-25
-7,ami-iit,Artificial and Mechanical Intelligence ,https://github.com/ami-iit,Da classificare,Italy,False,254,254.0,0.0,0.0,168,168.0,0.0,575,575.0,0.0,18.5276,0.0,0.0,0.0,10.7879,7.7397,0.0,2026-05-25
-8,NyarchLinux,Nyarch Linux,https://github.com/NyarchLinux,Da classificare,Italy,False,648,648.0,0.0,0.0,33,33.0,0.0,1685,1685.0,0.0,17.927,0.0,0.0,0.0,12.6066,5.3204,0.0,2026-05-25
-9,cheshire-cat-ai,Cheshire Cat AI,https://github.com/cheshire-cat-ai,Da classificare,Italy,False,623,623.0,0.0,0.0,25,25.0,0.0,3375,3375.0,0.0,17.4457,0.0,0.0,0.0,12.5301,4.9156,0.0,2026-05-25
-10,Tiledesk,Tiledesk,https://github.com/Tiledesk,Da classificare,Italy,False,418,418.0,0.0,0.0,41,41.0,0.0,1615,1615.0,0.0,17.3939,0.0,0.0,0.0,11.7547,5.6392,0.0,2026-05-25
-11,cnr-isti-vclab,Visual Computing Lab - ISTI - CNR,https://github.com/cnr-isti-vclab,Da classificare,Italy,False,296,296.0,0.0,0.0,39,39.0,0.0,9593,9593.0,0.0,16.6503,0.0,0.0,0.0,11.0848,5.5656,0.0,2026-05-25
-12,sapienzastudentsnetwork,Sapienza Students Network,https://github.com/sapienzastudentsnetwork,Da classificare,Italy,False,307,307.0,0.0,0.0,30,30.0,0.0,377,377.0,0.0,16.3366,0.0,0.0,0.0,11.1556,5.181,0.0,2026-05-25
-13,unitn-drive,UniTN - DISI Drive,https://github.com/unitn-drive,Da classificare,Italy,False,791,791.0,0.0,0.0,5,5.0,0.0,19,19.0,0.0,15.6976,0.0,0.0,0.0,12.9943,2.7033,0.0,2026-05-25
-14,ministero-salute,Ministero della Salute,https://github.com/ministero-salute,Pubblica amministrazione,Italy,False,73,73.0,0.0,0.0,103,103.0,0.0,434,434.0,0.0,15.3865,0.0,0.0,0.0,8.3793,7.0072,0.0,2026-05-25
-15,DevExpPlatform,Developer Experience Platform for Eng Group,https://github.com/DevExpPlatform,Da classificare,Italy,False,484,484.0,0.0,0.0,6,6.0,0.0,1,1.0,0.0,14.9754,0.0,0.0,0.0,12.0395,2.9359,0.0,2026-05-25
-16,openpolis,Openpolis,https://github.com/openpolis,Civic tech,"Roma, Italia",False,49,49.0,0.0,0.0,71,71.0,0.0,463,463.0,0.0,14.0684,0.0,0.0,0.0,7.6161,6.4524,0.0,2026-05-25
-17,SPDM-Team,SPDM Team,https://github.com/SPDM-Team,Da classificare,Italy,False,398,398.0,0.0,0.0,3,3.0,0.0,82,82.0,0.0,13.7511,0.0,0.0,0.0,11.6595,2.0916,0.0,2026-05-25
-18,BendingSpoons,Bending Spoons,https://github.com/BendingSpoons,Da classificare,"Milan, Italy",False,274,274.0,0.0,0.0,3,3.0,0.0,2957,2957.0,0.0,13.0265,0.0,0.0,0.0,10.9349,2.0916,0.0,2026-05-25
-19,openapi,Openapi®,https://github.com/openapi,Da classificare,Home of 🍕,False,56,56.0,0.0,0.0,17,17.0,0.0,199,199.0,0.0,12.232,0.0,0.0,0.0,7.8712,4.3608,0.0,2026-05-25
-20,istat,istat,https://github.com/istat,Ricerca e statistica,"Via Cesare Balbo 16, 00184 Rome",False,9,9.0,0.0,0.0,12,12.0,0.0,7,7.0,0.0,8.3526,0.0,0.0,0.0,4.4828,3.8698,0.0,2026-05-25
-21,alterloop,Alterloop | Francesco Bianco,https://github.com/alterloop,Da classificare,Italy,False,1,1.0,0.0,0.0,5,5.0,0.0,5,5.0,0.0,4.0527,0.0,0.0,0.0,1.3494,2.7033,0.0,2026-05-25
+rank,login,name,github_url,account_type,sector,location,verified,followers,followers_30d_ago_estimate,followers_delta_30d,followers_growth_rate_30d,public_repos,public_repos_30d_ago_estimate,public_repos_delta_30d,total_stargazers,total_stargazers_30d_ago_estimate,total_stargazers_delta_30d,score,score_followers_growth,score_repositories_growth,score_stars_growth,score_audience,score_repository_base,score_verified,snapshot_date
+1,italia,Developers Italia,https://github.com/italia,Organization,PA,Italy,True,1854,1854.0,0.0,0.0,426,426.0,0.0,6670,6670.0,0.0,28.7893,0.0,0.0,0.0,14.6512,9.1381,5.0,2026-05-25
+2,pagopa,PagoPA S.p.A.,https://github.com/pagopa,Organization,Soc. pubblica,Italy,True,315,315.0,0.0,0.0,755,755.0,0.0,1662,1662.0,0.0,26.2055,0.0,0.0,0.0,11.2055,10.0,5.0,2026-05-25
+3,OpenIPC,OpenIPC,https://github.com/OpenIPC,Organization,N/D,Italy,False,2218,2218.0,0.0,0.0,134,134.0,0.0,5908,5908.0,0.0,22.4008,0.0,0.0,0.0,15.0,7.4008,0.0,2026-05-25
+4,teamdigitale,Team Digitale,https://github.com/teamdigitale,Organization,PA,"Rome, Italy",True,142,142.0,0.0,0.0,150,150.0,0.0,328,328.0,0.0,22.2316,0.0,0.0,0.0,9.6618,7.5698,5.0,2026-05-25
+5,volumio,Volumio Srl,https://github.com/volumio,User,N/D,Firenze - Italia,False,1058,1058.0,0.0,0.0,134,134.0,0.0,2370,2370.0,0.0,20.9607,0.0,0.0,0.0,13.5599,7.4008,0.0,2026-05-25
+6,cartabinaria,CartaBinaria,https://github.com/cartabinaria,Organization,N/D,Italy,False,279,279.0,0.0,0.0,198,198.0,0.0,156,156.0,0.0,18.9562,0.0,0.0,0.0,10.97,7.9862,0.0,2026-05-25
+7,robotology,Robotology,https://github.com/robotology,Organization,N/D,Italy,False,324,324.0,0.0,0.0,147,147.0,0.0,2685,2685.0,0.0,18.7997,0.0,0.0,0.0,11.2602,7.5395,0.0,2026-05-25
+8,ami-iit,Artificial and Mechanical Intelligence ,https://github.com/ami-iit,Organization,N/D,Italy,False,254,254.0,0.0,0.0,168,168.0,0.0,575,575.0,0.0,18.5276,0.0,0.0,0.0,10.7879,7.7397,0.0,2026-05-25
+9,NyarchLinux,Nyarch Linux,https://github.com/NyarchLinux,Organization,N/D,Italy,False,648,648.0,0.0,0.0,33,33.0,0.0,1685,1685.0,0.0,17.927,0.0,0.0,0.0,12.6066,5.3204,0.0,2026-05-25
+10,cheshire-cat-ai,Cheshire Cat AI,https://github.com/cheshire-cat-ai,Organization,N/D,Italy,False,623,623.0,0.0,0.0,25,25.0,0.0,3375,3375.0,0.0,17.4457,0.0,0.0,0.0,12.5301,4.9156,0.0,2026-05-25
+11,Tiledesk,Tiledesk,https://github.com/Tiledesk,Organization,N/D,Italy,False,418,418.0,0.0,0.0,41,41.0,0.0,1615,1615.0,0.0,17.3939,0.0,0.0,0.0,11.7547,5.6392,0.0,2026-05-25
+12,cnr-isti-vclab,Visual Computing Lab - ISTI - CNR,https://github.com/cnr-isti-vclab,Organization,N/D,Italy,False,296,296.0,0.0,0.0,39,39.0,0.0,9594,9594.0,0.0,16.6503,0.0,0.0,0.0,11.0848,5.5656,0.0,2026-05-25
+13,sapienzastudentsnetwork,Sapienza Students Network,https://github.com/sapienzastudentsnetwork,Organization,N/D,Italy,False,307,307.0,0.0,0.0,30,30.0,0.0,377,377.0,0.0,16.3366,0.0,0.0,0.0,11.1556,5.181,0.0,2026-05-25
+14,unitn-drive,UniTN - DISI Drive,https://github.com/unitn-drive,Organization,N/D,Italy,False,791,791.0,0.0,0.0,5,5.0,0.0,19,19.0,0.0,15.6976,0.0,0.0,0.0,12.9943,2.7033,0.0,2026-05-25
+15,ministero-salute,Ministero della Salute,https://github.com/ministero-salute,Organization,PA,Italy,False,73,73.0,0.0,0.0,103,103.0,0.0,434,434.0,0.0,15.3865,0.0,0.0,0.0,8.3793,7.0072,0.0,2026-05-25
+16,DevExpPlatform,Developer Experience Platform for Eng Group,https://github.com/DevExpPlatform,Organization,N/D,Italy,False,484,484.0,0.0,0.0,6,6.0,0.0,1,1.0,0.0,14.9754,0.0,0.0,0.0,12.0395,2.9359,0.0,2026-05-25
+17,openpolis,Openpolis,https://github.com/openpolis,Organization,Civic tech,"Roma, Italia",False,49,49.0,0.0,0.0,71,71.0,0.0,463,463.0,0.0,14.0684,0.0,0.0,0.0,7.6161,6.4524,0.0,2026-05-25
+18,SPDM-Team,SPDM Team,https://github.com/SPDM-Team,Organization,N/D,Italy,False,398,398.0,0.0,0.0,3,3.0,0.0,82,82.0,0.0,13.7511,0.0,0.0,0.0,11.6595,2.0916,0.0,2026-05-25
+19,BendingSpoons,Bending Spoons,https://github.com/BendingSpoons,Organization,N/D,"Milan, Italy",False,274,274.0,0.0,0.0,3,3.0,0.0,2957,2957.0,0.0,13.0265,0.0,0.0,0.0,10.9349,2.0916,0.0,2026-05-25
+20,openapi,Openapi®,https://github.com/openapi,Organization,N/D,Home of 🍕,False,56,56.0,0.0,0.0,17,17.0,0.0,199,199.0,0.0,12.232,0.0,0.0,0.0,7.8712,4.3608,0.0,2026-05-25
+21,istat,istat,https://github.com/istat,Organization,Ricerca,"Via Cesare Balbo 16, 00184 Rome",False,9,9.0,0.0,0.0,12,12.0,0.0,7,7.0,0.0,8.3526,0.0,0.0,0.0,4.4828,3.8698,0.0,2026-05-25
+22,alterloop,Alterloop | Francesco Bianco,https://github.com/alterloop,Organization,N/D,Italy,False,1,1.0,0.0,0.0,5,5.0,0.0,5,5.0,0.0,4.0527,0.0,0.0,0.0,1.3494,2.7033,0.0,2026-05-25

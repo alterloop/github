@@ -19,6 +19,7 @@ L'obiettivo e' mantenere un indice semplice, verificabile e riusabile da persone
 - `location`: localita' dichiarata su GitHub.
 - `sector`: classificazione sintetica.
 - `verified`: `true` se GitHub mostra l'organizzazione come verificata.
+- `account_type`: `Organization` o `User`, per account utente storici monitorati da `watchusers.txt`.
 - `description`: descrizione breve.
 - `source_url`: fonte usata per la verifica.
 - `last_checked`: data di ultimo controllo in formato `YYYY-MM-DD`.
@@ -69,6 +70,12 @@ Se presenti, `GITHUB_TOKEN` o `GH_TOKEN` vengono usati per aumentare i limiti AP
 ### Organizzazioni ignorate
 
 `data/ignoreorgs.txt` contiene i login GitHub da escludere sempre dai dati e dalle classifiche. La ignorelist ha precedenza sulla watchlist, sulla query GitHub e sugli snapshot precedenti.
+
+### Account utente monitorati
+
+`data/watchusers.txt` contiene account GitHub di tipo utente che rappresentano organizzazioni storiche. Vengono processati come gli elementi di `watchorgs.txt`, ma usando gli endpoint `/users/{login}` e `/users/{login}/repos`. Nel dataset sono distinguibili con `account_type: User`.
+
+La ignorelist `data/ignoreorgs.txt` ha precedenza anche su `watchusers.txt`.
 
 ### Organizzazioni sempre monitorate
 
