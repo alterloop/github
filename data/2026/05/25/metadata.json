@@ -2,8 +2,17 @@
   "snapshot_date": "2026-05-25",
   "query": "location:Italy type:org followers:>231",
   "max_orgs": 20,
-  "records": 20,
-  "generated_at": "2026-05-25T16:45:09.044188+00:00",
+  "watch_orgs_file": "data/watchorgs.txt",
+  "ignore_orgs_file": "data/ignoreorgs.txt",
+  "watched_orgs": [
+    "openapi",
+    "alterloop"
+  ],
+  "ignored_orgs": [
+    "mybatis"
+  ],
+  "records": 21,
+  "generated_at": "2026-05-25T17:07:16.892225+00:00",
   "source": "GitHub Search API and Organizations API",
   "errors": []
 }

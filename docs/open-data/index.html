@@ -6,59 +6,53 @@
   <title>Open Data - Registro GitHub Italia</title>
   <style>
     :root { --bg:#f6f7f5; --panel:#fff; --ink:#171b20; --muted:#626a74; --line:#d9ddd9; --blue:#16637a; --soft:#e7f2f5; --ok:#26734d; }
-    * { box-sizing: border-box; }
-    body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.5 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink); font:14px/1.35 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
     header { background:#1f2933; color:#fff; padding:24px 20px 28px; }
-    .wrap { width:min(1120px,100%); margin:0 auto; }
-    nav { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:44px; }
+    .wrap { width:min(1180px,100%); margin:0 auto; }
+    nav { display:flex; justify-content:space-between; gap:12px; align-items:center; margin-bottom:40px; }
     nav a { color:#fff; text-decoration:none; font-weight:750; }
     h1 { margin:0 0 10px; font-size:clamp(2.2rem,6vw,5rem); line-height:.96; letter-spacing:0; }
-    .lead { max-width:760px; margin:0; color:#dce5e8; font-size:1.08rem; }
+    .lead { max-width:760px; margin:0; color:#dce5e8; font-size:1.05rem; }
     main { padding:22px 20px 48px; }
     .toolbar { display:grid; grid-template-columns:minmax(220px,1fr) minmax(180px,260px); gap:12px; margin-bottom:14px; }
-    input, select { width:100%; min-height:44px; border:1px solid var(--line); border-radius:6px; background:var(--panel); color:var(--ink); padding:0 12px; font:inherit; }
+    input, select { width:100%; min-height:42px; border:1px solid var(--line); border-radius:6px; background:var(--panel); color:var(--ink); padding:0 12px; font:inherit; }
     .meta { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:18px; color:var(--muted); }
     .meta a, td a { color:var(--blue); font-weight:750; text-decoration:none; }
     .table-wrap { overflow-x:auto; border:1px solid var(--line); background:var(--panel); }
-    table { width:100%; min-width:980px; border-collapse:collapse; }
-    th, td { padding:14px 12px; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
-    th { background:#edf0ee; font-size:.82rem; text-transform:uppercase; letter-spacing:.04em; }
+    table { width:100%; min-width:1120px; border-collapse:collapse; table-layout:fixed; }
+    th, td { height:42px; padding:8px 10px; border-bottom:1px solid var(--line); text-align:left; vertical-align:middle; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    th { background:#edf0ee; font-size:.76rem; text-transform:uppercase; letter-spacing:.04em; user-select:none; cursor:pointer; }
+    th[aria-sort="ascending"]::after { content:" ▲"; }
+    th[aria-sort="descending"]::after { content:" ▼"; }
     tr:last-child td { border-bottom:0; }
-    .login { white-space:nowrap; font-weight:800; }
-    .badge { display:inline-flex; border-radius:999px; background:var(--soft); color:#12495c; padding:2px 9px; font-size:.85rem; font-weight:750; white-space:nowrap; }
+    .login { font-weight:800; }
+    .badge { display:inline-flex; max-width:100%; border-radius:999px; background:var(--soft); color:#12495c; padding:2px 8px; font-size:.82rem; font-weight:750; overflow:hidden; text-overflow:ellipsis; }
     .verified { color:var(--ok); font-weight:800; }
     .empty { display:none; padding:28px 12px; border:1px solid var(--line); background:var(--panel); color:var(--muted); text-align:center; }
     @media (max-width:720px) { nav { align-items:start; } .toolbar { grid-template-columns:1fr; } main, header { padding-inline:14px; } }
   </style>
 </head>
 <body>
-  <header>
-    <div class="wrap">
-      <nav><a href="../">Registro GitHub Italia</a><a href="../trending/">Trend</a></nav>
-      <h1>Open Data</h1>
-      <p class="lead">Consulta il dataset delle organizzazioni italiane su GitHub, con fonti, metriche, settore e data di verifica.</p>
-    </div>
-  </header>
-  <main>
-    <div class="wrap">
-      <div class="toolbar" aria-label="Filtri Open Data">
-        <input id="search" type="search" placeholder="Cerca per nome, login, settore o descrizione" autocomplete="off">
-        <select id="sector"><option value="">Tutti i settori</option></select>
-      </div>
-      <div class="meta"><span><strong id="count">0</strong> organizzazioni</span><span>Scarica: <a href="../../data/organizations.json">JSON</a> · <a href="../../data/organizations.csv">CSV</a></span></div>
-      <div class="table-wrap"><table><thead><tr><th>Organizzazione</th><th>Follower</th><th>Repo</th><th>Settore</th><th>Localita</th><th>Verifica</th><th>Descrizione</th><th>Controllo</th></tr></thead><tbody id="rows"></tbody></table></div>
-      <div id="empty" class="empty">Nessuna organizzazione corrisponde ai filtri.</div>
-    </div>
-  </main>
+  <header><div class="wrap"><nav><a href="../">Registro GitHub Italia</a><a href="../trending/">Trend</a></nav><h1>Open Data</h1><p class="lead">Dataset consultabile delle organizzazioni italiane su GitHub, con metriche, storico e fonti.</p></div></header>
+  <main><div class="wrap">
+    <div class="toolbar" aria-label="Filtri Open Data"><input id="search" type="search" placeholder="Cerca per nome, login, settore o localita" autocomplete="off"><select id="sector"><option value="">Tutti i settori</option></select></div>
+    <div class="meta"><span><strong id="count">0</strong> organizzazioni</span><span>Scarica: <a href="../../data/organizations.json">JSON</a> · <a href="../../data/organizations.csv">CSV</a></span></div>
+    <div class="table-wrap"><table><thead><tr><th data-sort="login">Org</th><th data-sort="followers" data-type="number">Follower</th><th data-sort="public_repos" data-type="number">Repo</th><th data-sort="total_stargazers" data-type="number">Stelle</th><th data-sort="sector">Settore</th><th data-sort="location">Localita</th><th data-sort="verified">Verifica</th><th data-sort="last_checked">Controllo</th></tr></thead><tbody id="rows"></tbody></table></div>
+    <div id="empty" class="empty">Nessuna organizzazione corrisponde ai filtri.</div>
+  </div></main>
   <script>
-    let organizations = [];
-    const rows=document.querySelector("#rows"), search=document.querySelector("#search"), sector=document.querySelector("#sector"), count=document.querySelector("#count"), empty=document.querySelector("#empty");
-    const fmt = new Intl.NumberFormat("it-IT");
-    function fillSectors(){ sector.querySelectorAll("option:not(:first-child)").forEach(item=>item.remove()); [...new Set(organizations.map(item=>item.sector || "Da classificare"))].sort().forEach(item=>{ const option=document.createElement("option"); option.value=item; option.textContent=item; sector.append(option); }); }
-    function matches(item){ const query=search.value.trim().toLowerCase(); const selected=sector.value; const itemSector=item.sector || "Da classificare"; const haystack=[item.login,item.name,item.location,itemSector,item.description].join(" ").toLowerCase(); return (!query || haystack.includes(query)) && (!selected || itemSector===selected); }
-    function render(){ const filtered=organizations.filter(matches); rows.replaceChildren(); filtered.forEach(item=>{ const itemSector=item.sector || "Da classificare"; const tr=document.createElement("tr"); tr.innerHTML=`<td><a class="login" href="${item.github_url}">@${item.login}</a><br>${item.name || item.login}</td><td>${fmt.format(item.followers || 0)}</td><td>${fmt.format(item.public_repos || 0)}</td><td><span class="badge">${itemSector}</span></td><td>${item.location || "-"}</td><td class="${item.verified ? "verified" : ""}">${item.verified ? "Verificata" : "Non indicata"}</td><td>${item.description || ""}</td><td><a href="${item.source_url || item.github_url}">${item.last_checked || item.snapshot_date || "-"}</a></td>`; rows.append(tr); }); count.textContent=filtered.length; empty.style.display=filtered.length ? "none" : "block"; }
+    let organizations=[]; let sortKey="followers"; let sortDir="desc";
+    const rows=document.querySelector("#rows"), search=document.querySelector("#search"), sector=document.querySelector("#sector"), count=document.querySelector("#count"), empty=document.querySelector("#empty"), heads=[...document.querySelectorAll("th[data-sort]")];
+    const fmt=new Intl.NumberFormat("it-IT");
+    function fillSectors(){ sector.querySelectorAll("option:not(:first-child)").forEach(item=>item.remove()); [...new Set(organizations.map(item=>item.sector||"Da classificare"))].sort().forEach(item=>{ const option=document.createElement("option"); option.value=item; option.textContent=item; sector.append(option); }); }
+    function value(item,key){ if(key==="verified") return item.verified ? 1 : 0; return item[key] ?? ""; }
+    function matches(item){ const query=search.value.trim().toLowerCase(); const selected=sector.value; const itemSector=item.sector||"Da classificare"; const haystack=[item.login,item.name,item.location,itemSector].join(" ").toLowerCase(); return (!query||haystack.includes(query))&&(!selected||itemSector===selected); }
+    function sorted(items){ return [...items].sort((a,b)=>{ const av=value(a,sortKey), bv=value(b,sortKey); const order=(typeof av==="number"||typeof bv==="number") ? Number(av)-Number(bv) : String(av).localeCompare(String(bv),"it"); return sortDir==="asc" ? order : -order; }); }
+    function render(){ const filtered=sorted(organizations.filter(matches)); rows.replaceChildren(); filtered.forEach(item=>{ const itemSector=item.sector||"Da classificare"; const checked=item.last_checked||item.snapshot_date||"-"; const tr=document.createElement("tr"); tr.innerHTML=`<td title="${item.name||item.login}"><a class="login" href="${item.github_url}">@${item.login}</a></td><td>${fmt.format(item.followers||0)}</td><td>${fmt.format(item.public_repos||0)}</td><td>${fmt.format(item.total_stargazers||0)}</td><td><span class="badge" title="${itemSector}">${itemSector}</span></td><td title="${item.location||""}">${item.location||"-"}</td><td class="${item.verified?"verified":""}">${item.verified?"Si":"-"}</td><td><a href="${item.source_url||item.github_url}">${checked}</a></td>`; rows.append(tr); }); count.textContent=filtered.length; empty.style.display=filtered.length?"none":"block"; heads.forEach(th=>th.setAttribute("aria-sort",th.dataset.sort===sortKey?(sortDir==="asc"?"ascending":"descending"):"none")); }
+    heads.forEach(th=>th.addEventListener("click",()=>{ const key=th.dataset.sort; sortDir=sortKey===key&&sortDir==="desc"?"asc":"desc"; sortKey=key; render(); }));
     fetch("../../data/organizations.json").then(response=>response.json()).then(data=>{ organizations=data; fillSectors(); render(); }).catch(()=>{ empty.textContent="Impossibile caricare il dataset."; empty.style.display="block"; });
-    search.addEventListener("input", render); sector.addEventListener("change", render);
+    search.addEventListener("input",render); sector.addEventListener("change",render);
   </script>
 </body>
 </html>

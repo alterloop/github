@@ -27,6 +27,8 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 LATEST_JSON = DATA_DIR / "organizations.json"
 LATEST_CSV = DATA_DIR / "organizations.csv"
+DEFAULT_WATCHORGS = DATA_DIR / "watchorgs.txt"
+DEFAULT_IGNOREORGS = DATA_DIR / "ignoreorgs.txt"
 
 CSV_FIELDS = [
     "snapshot_date",
@@ -42,6 +44,7 @@ CSV_FIELDS = [
     "following",
     "public_repos",
     "public_gists",
+    "total_stargazers",
     "created_at",
     "updated_at",
     "archived_at",
@@ -139,7 +142,25 @@ def normalize_url(value: str | None) -> str:
     return value or ""
 
 
-def merge_org(api_org: dict, previous: dict, snapshot_date: str) -> dict:
+def fetch_total_stargazers(login: str, token: str | None) -> int:
+    total = 0
+    page = 1
+    while True:
+        url = (
+            f"https://api.github.com/orgs/{urllib.parse.quote(login)}/repos"
+            f"?type=public&per_page=100&page={page}"
+        )
+        repos = github_request(url, token)
+        if not isinstance(repos, list) or not repos:
+            break
+        total += sum(int(repo.get("stargazers_count") or 0) for repo in repos)
+        if len(repos) < 100:
+            break
+        page += 1
+    return total
+
+
+def merge_org(api_org: dict, previous: dict, snapshot_date: str, total_stargazers: int | None = None) -> dict:
     record = {
         "snapshot_date": snapshot_date,
         "login": api_org.get("login", previous.get("login", "")),
@@ -159,6 +180,7 @@ def merge_org(api_org: dict, previous: dict, snapshot_date: str) -> dict:
         "following": int(api_org.get("following") or previous.get("following") or 0),
         "public_repos": int(api_org.get("public_repos") or previous.get("public_repos") or 0),
         "public_gists": int(api_org.get("public_gists") or previous.get("public_gists") or 0),
+        "total_stargazers": int(total_stargazers if total_stargazers is not None else previous.get("total_stargazers") or 0),
         "created_at": normalize_url(api_org.get("created_at") or previous.get("created_at")),
         "updated_at": normalize_url(api_org.get("updated_at") or previous.get("updated_at")),
         "archived_at": previous.get("archived_at", ""),
@@ -196,11 +218,36 @@ def load_previous_records() -> dict[str, dict]:
     return {item["login"]: item for item in records if item.get("login")}
 
 
+def normalize_login(value: str) -> str:
+    value = value.strip()
+    if not value:
+        return ""
+    value = value.removeprefix("https://github.com/")
+    value = value.removeprefix("http://github.com/")
+    value = value.strip("/")
+    return value.split("/", 1)[0]
+
+
+def read_org_list(path: Path) -> list[str]:
+    if not path.exists():
+        return []
+
+    logins: list[str] = []
+    with path.open("r", encoding="utf-8") as handle:
+        for line in handle:
+            login = normalize_login(line.split("#", 1)[0])
+            if login and login not in logins:
+                logins.append(login)
+    return logins
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Populate Italian GitHub organization snapshots")
     parser.add_argument("--query", default=os.getenv("GITHUB_SEARCH_QUERY", DEFAULT_QUERY))
     parser.add_argument("--max-orgs", type=int, default=int(os.getenv("MAX_ORGS", DEFAULT_MAX_ORGS)))
     parser.add_argument("--date", default=os.getenv("SNAPSHOT_DATE", utc_today()))
+    parser.add_argument("--watch-orgs", type=Path, default=Path(os.getenv("WATCH_ORGS_FILE", DEFAULT_WATCHORGS)))
+    parser.add_argument("--ignore-orgs", type=Path, default=Path(os.getenv("IGNORE_ORGS_FILE", DEFAULT_IGNOREORGS)))
     parser.add_argument("--keep-existing", action=argparse.BooleanOptionalAction, default=True)
     return parser.parse_args()
 
@@ -210,14 +257,20 @@ def main() -> int:
     token = os.getenv("GITHUB_TOKEN") or os.getenv("GH_TOKEN")
     previous = load_previous_records()
 
-    searched_logins = search_organizations(args.query, token, args.max_orgs)
+    watched_logins = read_org_list(args.watch_orgs)
+    ignored_logins = set(read_org_list(args.ignore_orgs))
+    watched_logins = [login for login in watched_logins if login not in ignored_logins]
+    searched_logins = [login for login in search_organizations(args.query, token, args.max_orgs) if login not in ignored_logins]
     logins: list[str] = []
+    for login in watched_logins:
+        if login not in logins:
+            logins.append(login)
     for login in searched_logins:
         if login not in logins:
             logins.append(login)
     if args.keep_existing:
         for login in previous:
-            if login not in logins:
+            if login not in ignored_logins and login not in logins:
                 logins.append(login)
 
     if not logins:
@@ -228,7 +281,12 @@ def main() -> int:
     for login in logins:
         try:
             api_org = github_request(f"https://api.github.com/orgs/{urllib.parse.quote(login)}", token)
-            records.append(merge_org(api_org, previous.get(login, {}), args.date))
+            try:
+                total_stargazers = fetch_total_stargazers(login, token)
+            except RuntimeError as exc:
+                total_stargazers = previous.get(login, {}).get("total_stargazers")
+                errors.append(f"kept previous total_stargazers for {login}: {exc}")
+            records.append(merge_org(api_org, previous.get(login, {}), args.date, total_stargazers))
         except RuntimeError as exc:
             if login in previous:
                 stale = dict(previous[login])
@@ -247,6 +305,10 @@ def main() -> int:
         "snapshot_date": args.date,
         "query": args.query,
         "max_orgs": args.max_orgs,
+        "watch_orgs_file": str(args.watch_orgs.relative_to(ROOT) if args.watch_orgs.is_relative_to(ROOT) else args.watch_orgs),
+        "ignore_orgs_file": str(args.ignore_orgs.relative_to(ROOT) if args.ignore_orgs.is_relative_to(ROOT) else args.ignore_orgs),
+        "watched_orgs": watched_logins,
+        "ignored_orgs": sorted(ignored_logins),
         "records": len(records),
         "generated_at": dt.datetime.now(dt.timezone.utc).isoformat(),
         "source": "GitHub Search API and Organizations API",

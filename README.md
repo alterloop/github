@@ -22,6 +22,7 @@ L'obiettivo e' mantenere un indice semplice, verificabile e riusabile da persone
 - `description`: descrizione breve.
 - `source_url`: fonte usata per la verifica.
 - `last_checked`: data di ultimo controllo in formato `YYYY-MM-DD`.
+- `total_stargazers`: somma delle stelle su tutte le repository pubbliche dell'organizzazione.
 
 ## Criteri di inclusione
 
@@ -65,6 +66,22 @@ make populate SNAPSHOT_DATE=2026-05-25
 
 Se presenti, `GITHUB_TOKEN` o `GH_TOKEN` vengono usati per aumentare i limiti API.
 
+### Organizzazioni ignorate
+
+`data/ignoreorgs.txt` contiene i login GitHub da escludere sempre dai dati e dalle classifiche. La ignorelist ha precedenza sulla watchlist, sulla query GitHub e sugli snapshot precedenti.
+
+### Organizzazioni sempre monitorate
+
+`data/watchorgs.txt` contiene i login GitHub delle organizzazioni da processare sempre, anche quando non rientrano nella query di popolamento. Il file accetta una organizzazione per riga, righe vuote, commenti con `#` e URL GitHub completi.
+
+Questo file e' parte del contratto dati del progetto: anche gli script futuri di scoring o trending devono leggerlo per includere sempre le organizzazioni monitorate manualmente.
+
+Per usare una watchlist diversa:
+
+```bash
+make populate WATCH_ORGS_FILE=data/watchorgs.txt
+```
+
 Ogni esecuzione crea una fotografia in:
 
 ```text
@@ -82,3 +99,17 @@ I file `data/organizations.json` e `data/organizations.csv` rappresentano sempre
 ## Automazione GitHub Actions
 
 Il workflow `.github/workflows/populate.yml` esegue `make populate` ogni notte, committa le modifiche in `data/` solo se lo snapshot cambia e pusha sul branch corrente.
+
+## Trending
+
+La classifica viene generata con:
+
+```bash
+make trending
+```
+
+Il risultato viene scritto in `data/trending.json`, `data/trending.csv` e nello snapshot giornaliero `data/YYYY/MM/DD/`. Lo score combina crescita stimata a 30 giorni di follower, repository e stelle totali, piu base audience, base repository e verifica.
+
+Le baseline a 30 giorni usano interpolazione lineare tra le letture disponibili. Se non esiste una lettura piu vecchia della finestra richiesta, il valore piu vecchio disponibile viene considerato costante andando indietro nel tempo.
+
+Il workflow `.github/workflows/tranding.yml` aggiorna la classifica ogni notte e committa solo se cambia.

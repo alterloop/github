@@ -1,0 +1,34 @@
+name: tranding
+
+on:
+  schedule:
+    - cron: "43 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build trending ranking
+        run: make trending
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/trending.json data/trending.csv data/[0-9][0-9][0-9][0-9]/
+          if git diff --cached --quiet; then
+            echo "No trending changes to commit"
+            exit 0
+          fi
+          SNAPSHOT_DATE="$(date -u +%F)"
+          git commit -m "Update trending ranking ${SNAPSHOT_DATE}"
+          git push
