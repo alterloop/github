@@ -1,8 +1,6 @@
-name: tranding
+name: Trending ranking
 
 on:
-  schedule:
-    - cron: "43 2 * * *"
   workflow_dispatch:
 
 permissions:
@@ -24,7 +22,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/trending.json data/trending.csv data/[0-9][0-9][0-9][0-9]/
+          git add data/trending.json data/trending.csv docs/data/trending.json docs/data/trending.csv data/[0-9][0-9][0-9][0-9]/
           if git diff --cached --quiet; then
             echo "No trending changes to commit"
             exit 0

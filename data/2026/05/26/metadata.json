@@ -13,10 +13,11 @@
     "volumio"
   ],
   "ignored_orgs": [
-    "mybatis"
+    "mybatis",
+    "vira-themes"
   ],
   "records": 104,
-  "generated_at": "2026-05-26T06:22:10.877910+00:00",
+  "generated_at": "2026-05-26T21:37:26.798883+00:00",
   "source": "GitHub Search API and Organizations API",
   "errors": []
 }

@@ -22,6 +22,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           make populate
+          make trending
           make service-data
 
       - name: Commit and push changes
