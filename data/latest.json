@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026/05/29",
+  "snapshot": "2026/05/30",
   "metadata": {
-    "snapshot_date": "2026-05-29",
+    "snapshot_date": "2026-05-30",
     "query": "location:Italy type:org followers:>50",
     "max_orgs": 100,
     "watch_orgs_file": "data/watchorgs.txt",
@@ -19,7 +19,7 @@
       "vira-themes"
     ],
     "records": 104,
-    "generated_at": "2026-05-29T06:38:18.572596+00:00",
+    "generated_at": "2026-05-30T06:00:35.457575+00:00",
     "source": "GitHub Search API and Organizations API",
     "errors": []
   }
