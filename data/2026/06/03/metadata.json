@@ -1,0 +1,23 @@
+{
+  "snapshot_date": "2026-06-03",
+  "query": "location:Italy type:org followers:>50",
+  "max_orgs": 100,
+  "watch_orgs_file": "data/watchorgs.txt",
+  "watch_users_file": "data/watchusers.txt",
+  "ignore_orgs_file": "data/ignoreorgs.txt",
+  "watched_orgs": [
+    "openapi",
+    "alterloop"
+  ],
+  "watched_users": [
+    "volumio"
+  ],
+  "ignored_orgs": [
+    "mybatis",
+    "vira-themes"
+  ],
+  "records": 104,
+  "generated_at": "2026-06-03T07:19:01.970130+00:00",
+  "source": "GitHub Search API and Organizations API",
+  "errors": []
+}
