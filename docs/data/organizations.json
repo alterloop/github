@@ -1,6 +1,6 @@
 [
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "OpenIPC",
     "id": 46071473,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2MDcxNDcz",
@@ -15,19 +15,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Alternative IP Camera firmware from an open community",
-    "followers": 2233,
+    "followers": 2236,
     "following": 0,
-    "public_repos": 136,
+    "public_repos": 137,
     "public_gists": 0,
-    "total_stargazers": 5877,
+    "total_stargazers": 5884,
     "created_at": "2018-12-22T15:41:17Z",
     "updated_at": "2025-09-03T09:21:11Z",
     "archived_at": "",
     "source_url": "https://github.com/OpenIPC",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "italia",
     "id": 15377824,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Mzc3ODI0",
@@ -42,19 +42,19 @@
     "verified": true,
     "account_type": "Organization",
     "description": "Open source code and developers community of the Italian government",
-    "followers": 1866,
+    "followers": 1867,
     "following": 0,
     "public_repos": 427,
     "public_gists": 0,
-    "total_stargazers": 6680,
+    "total_stargazers": 6681,
     "created_at": "2015-10-29T10:07:29Z",
     "updated_at": "2026-05-24T12:04:11Z",
     "archived_at": "",
     "source_url": "https://github.com/italia",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "volumio",
     "id": 5835489,
     "node_id": "MDQ6VXNlcjU4MzU0ODk=",
@@ -73,15 +73,15 @@
     "following": 3,
     "public_repos": 135,
     "public_gists": 0,
-    "total_stargazers": 2374,
+    "total_stargazers": 2375,
     "created_at": "2013-11-02T01:38:15Z",
     "updated_at": "2026-06-01T09:07:23Z",
     "archived_at": "",
     "source_url": "https://github.com/volumio",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "unitn-drive",
     "id": 106105507,
     "node_id": "O_kgDOBlMKow",
@@ -96,7 +96,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "",
-    "followers": 793,
+    "followers": 794,
     "following": 0,
     "public_repos": 5,
     "public_gists": 0,
@@ -105,10 +105,10 @@
     "updated_at": "2023-06-16T11:36:14Z",
     "archived_at": "",
     "source_url": "https://github.com/unitn-drive",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "NyarchLinux",
     "id": 121677241,
     "node_id": "O_kgDOB0CluQ",
@@ -123,7 +123,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Nyarch Linux is a (meme) linux distribution based on Arch Linux made for very degenerated weebs",
-    "followers": 653,
+    "followers": 654,
     "following": 0,
     "public_repos": 33,
     "public_gists": 0,
@@ -132,10 +132,10 @@
     "updated_at": "2024-01-27T20:07:31Z",
     "archived_at": "",
     "source_url": "https://github.com/NyarchLinux",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "cheshire-cat-ai",
     "id": 135242343,
     "node_id": "O_kgDOCA-iZw",
@@ -150,19 +150,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "",
-    "followers": 623,
+    "followers": 622,
     "following": 0,
     "public_repos": 25,
     "public_gists": 0,
-    "total_stargazers": 3378,
+    "total_stargazers": 3377,
     "created_at": "2023-06-01T14:02:25Z",
     "updated_at": "2024-03-06T16:11:54Z",
     "archived_at": "",
     "source_url": "https://github.com/cheshire-cat-ai",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "DevExpPlatform",
     "id": 173068394,
     "node_id": "O_kgDOClDQag",
@@ -177,7 +177,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Sperimentazione Piattaforma Corporate per gli sviluppatori",
-    "followers": 502,
+    "followers": 509,
     "following": 0,
     "public_repos": 6,
     "public_gists": 0,
@@ -186,10 +186,10 @@
     "updated_at": "2026-04-24T01:55:39Z",
     "archived_at": "",
     "source_url": "https://github.com/DevExpPlatform",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Tiledesk",
     "id": 39886277,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5ODg2Mjc3",
@@ -213,10 +213,10 @@
     "updated_at": "2025-09-14T17:10:10Z",
     "archived_at": "",
     "source_url": "https://github.com/Tiledesk",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "SPDM-Team",
     "id": 105880469,
     "node_id": "O_kgDOBk-blQ",
@@ -240,10 +240,10 @@
     "updated_at": "2022-05-19T17:49:35Z",
     "archived_at": "",
     "source_url": "https://github.com/SPDM-Team",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "robotology",
     "id": 1587191,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1ODcxOTE=",
@@ -267,10 +267,10 @@
     "updated_at": "2025-10-31T17:18:17Z",
     "archived_at": "",
     "source_url": "https://github.com/robotology",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "pagopa",
     "id": 57742367,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3NzQyMzY3",
@@ -287,17 +287,17 @@
     "description": "Software e servizi digitali pubblici gestiti da PagoPA S.p.A.",
     "followers": 316,
     "following": 0,
-    "public_repos": 758,
+    "public_repos": 759,
     "public_gists": 0,
     "total_stargazers": 1666,
     "created_at": "2019-11-14T05:21:03Z",
     "updated_at": "2026-06-01T22:26:15Z",
     "archived_at": "",
     "source_url": "https://github.com/pagopa",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "sapienzastudentsnetwork",
     "id": 95304569,
     "node_id": "O_kgDOBa47eQ",
@@ -316,15 +316,15 @@
     "following": 0,
     "public_repos": 30,
     "public_gists": 0,
-    "total_stargazers": 379,
+    "total_stargazers": 380,
     "created_at": "2021-11-30T16:47:18Z",
     "updated_at": "2025-10-05T16:32:29Z",
     "archived_at": "",
     "source_url": "https://github.com/sapienzastudentsnetwork",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "cnr-isti-vclab",
     "id": 13378289,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzc4Mjg5",
@@ -343,15 +343,15 @@
     "following": 0,
     "public_repos": 39,
     "public_gists": 0,
-    "total_stargazers": 9611,
+    "total_stargazers": 9615,
     "created_at": "2015-07-17T08:45:26Z",
     "updated_at": "2022-02-19T22:20:22Z",
     "archived_at": "",
     "source_url": "https://github.com/cnr-isti-vclab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "cartabinaria",
     "id": 90678054,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjkwNjc4MDU0",
@@ -375,10 +375,10 @@
     "updated_at": "2024-10-25T15:49:36Z",
     "archived_at": "",
     "source_url": "https://github.com/cartabinaria",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "BendingSpoons",
     "id": 4347291,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzNDcyOTE=",
@@ -402,10 +402,10 @@
     "updated_at": "2026-04-24T00:52:57Z",
     "archived_at": "",
     "source_url": "https://github.com/BendingSpoons",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ami-iit",
     "id": 28398961,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4Mzk4OTYx",
@@ -429,10 +429,10 @@
     "updated_at": "2025-03-27T12:33:36Z",
     "archived_at": "",
     "source_url": "https://github.com/ami-iit",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "polito",
     "id": 108975660,
     "node_id": "O_kgDOBn7WLA",
@@ -456,10 +456,10 @@
     "updated_at": "2023-05-29T03:23:09Z",
     "archived_at": "",
     "source_url": "https://github.com/polito",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "mathLab",
     "id": 14195552,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTk1NTUy",
@@ -478,15 +478,15 @@
     "following": 0,
     "public_repos": 30,
     "public_gists": 0,
-    "total_stargazers": 1757,
+    "total_stargazers": 1758,
     "created_at": "2015-09-09T08:32:18Z",
     "updated_at": "2015-09-09T08:38:43Z",
     "archived_at": "",
     "source_url": "https://github.com/mathLab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "geosolutions-it",
     "id": 775710,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3NTcxMA==",
@@ -505,15 +505,15 @@
     "following": 0,
     "public_repos": 155,
     "public_gists": 0,
-    "total_stargazers": 1780,
+    "total_stargazers": 1781,
     "created_at": "2011-05-08T21:54:27Z",
-    "updated_at": "2026-04-20T08:41:41Z",
+    "updated_at": "2026-06-03T15:15:18Z",
     "archived_at": "",
     "source_url": "https://github.com/geosolutions-it",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Schroedinger-Hat",
     "id": 65608804,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY1NjA4ODA0",
@@ -537,10 +537,10 @@
     "updated_at": "2026-01-28T09:16:51Z",
     "archived_at": "",
     "source_url": "https://github.com/Schroedinger-Hat",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Il-Libro-Open-Source",
     "id": 141745245,
     "node_id": "O_kgDOCHLcXQ",
@@ -564,10 +564,10 @@
     "updated_at": "2026-05-27T17:02:40Z",
     "archived_at": "",
     "source_url": "https://github.com/Il-Libro-Open-Source",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "agentvoiceresponse",
     "id": 183541133,
     "node_id": "O_kgDOCvCdjQ",
@@ -591,10 +591,10 @@
     "updated_at": "2025-09-17T13:06:06Z",
     "archived_at": "",
     "source_url": "https://github.com/agentvoiceresponse",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "AlmavivA",
     "id": 8995426,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5OTU0MjY=",
@@ -618,10 +618,10 @@
     "updated_at": "2026-06-02T10:38:57Z",
     "archived_at": "",
     "source_url": "https://github.com/AlmavivA",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "iit-DLSLab",
     "id": 14836675,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM2Njc1",
@@ -636,7 +636,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Dynamic Legged Systems Lab - Design and control of high-performance, versatile legged robots, including planning and perception",
-    "followers": 202,
+    "followers": 203,
     "following": 0,
     "public_repos": 61,
     "public_gists": 0,
@@ -645,10 +645,10 @@
     "updated_at": "2026-05-12T11:52:14Z",
     "archived_at": "",
     "source_url": "https://github.com/iit-DLSLab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "illustrated-machine-learning",
     "id": 121721443,
     "node_id": "O_kgDOB0FSYw",
@@ -672,10 +672,10 @@
     "updated_at": "2022-12-31T13:58:38Z",
     "archived_at": "",
     "source_url": "https://github.com/illustrated-machine-learning",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Sisal-Org",
     "id": 136463951,
     "node_id": "O_kgDOCCJGTw",
@@ -699,10 +699,10 @@
     "updated_at": "2026-05-15T22:04:51Z",
     "archived_at": "",
     "source_url": "https://github.com/Sisal-Org",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "aimagelab",
     "id": 32870596,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyODcwNTk2",
@@ -719,17 +719,17 @@
     "description": "AImageLab is a research laboratory of the Dipartimento di Ingegneria \"Enzo Ferrari\" at the University of Modena and Reggio Emilia, Italy.",
     "followers": 184,
     "following": 0,
-    "public_repos": 111,
+    "public_repos": 112,
     "public_gists": 0,
-    "total_stargazers": 4881,
+    "total_stargazers": 4884,
     "created_at": "2017-10-17T11:47:27Z",
     "updated_at": "2025-08-30T17:47:53Z",
     "archived_at": "",
     "source_url": "https://github.com/aimagelab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "usbarmory",
     "id": 92912052,
     "node_id": "O_kgDOBYm5tA",
@@ -748,15 +748,15 @@
     "following": 0,
     "public_repos": 37,
     "public_gists": 0,
-    "total_stargazers": 4960,
+    "total_stargazers": 4961,
     "created_at": "2021-10-21T07:07:55Z",
     "updated_at": "2025-09-11T12:54:00Z",
     "archived_at": "",
     "source_url": "https://github.com/usbarmory",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "EtheaDev",
     "id": 25226619,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MjI2NjE5",
@@ -771,19 +771,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Ethea: to create software products in a quick and customized way.",
-    "followers": 178,
+    "followers": 179,
     "following": 0,
     "public_repos": 21,
     "public_gists": 0,
-    "total_stargazers": 1932,
+    "total_stargazers": 1947,
     "created_at": "2017-01-19T15:02:10Z",
     "updated_at": "2017-01-19T15:12:41Z",
     "archived_at": "",
     "source_url": "https://github.com/EtheaDev",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "singularityos-lab",
     "id": 195755123,
     "node_id": "O_kgDOC6r8cw",
@@ -798,19 +798,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "An ever-evolving OS.",
-    "followers": 170,
+    "followers": 179,
     "following": 0,
-    "public_repos": 35,
+    "public_repos": 37,
     "public_gists": 0,
-    "total_stargazers": 143,
+    "total_stargazers": 178,
     "created_at": "2025-01-20T11:11:35Z",
     "updated_at": "2026-01-20T20:37:17Z",
     "archived_at": "",
     "source_url": "https://github.com/singularityos-lab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "TheWebScrapingClub",
     "id": 112824438,
     "node_id": "O_kgDOBrmQdg",
@@ -829,15 +829,15 @@
     "following": 0,
     "public_repos": 6,
     "public_gists": 0,
-    "total_stargazers": 1954,
+    "total_stargazers": 1955,
     "created_at": "2022-09-04T18:42:39Z",
     "updated_at": "2024-08-22T16:20:29Z",
     "archived_at": "",
     "source_url": "https://github.com/TheWebScrapingClub",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "polito-webapp1",
     "id": 159048876,
     "node_id": "O_kgDOCXrkrA",
@@ -861,10 +861,10 @@
     "updated_at": "2024-02-21T12:42:56Z",
     "archived_at": "",
     "source_url": "https://github.com/polito-webapp1",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "meetecho",
     "id": 4520545,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1MjA1NDU=",
@@ -879,19 +879,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "",
-    "followers": 158,
+    "followers": 159,
     "following": 0,
     "public_repos": 18,
     "public_gists": 0,
-    "total_stargazers": 9759,
+    "total_stargazers": 9761,
     "created_at": "2013-05-24T15:24:13Z",
     "updated_at": "2020-04-08T04:50:35Z",
     "archived_at": "",
     "source_url": "https://github.com/meetecho",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "cybersecurity-polito",
     "id": 162710333,
     "node_id": "O_kgDOCbLDPQ",
@@ -915,10 +915,10 @@
     "updated_at": "2026-05-01T11:37:06Z",
     "archived_at": "",
     "source_url": "https://github.com/cybersecurity-polito",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "cyberpandino",
     "id": 208287471,
     "node_id": "O_kgDODGo27w",
@@ -942,10 +942,10 @@
     "updated_at": "2025-11-16T20:27:30Z",
     "archived_at": "",
     "source_url": "https://github.com/cyberpandino",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "polito-informatica",
     "id": 145029551,
     "node_id": "O_kgDOCKT5rw",
@@ -969,10 +969,10 @@
     "updated_at": "2026-05-14T15:54:17Z",
     "archived_at": "",
     "source_url": "https://github.com/polito-informatica",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "teamdigitale",
     "id": 25081492,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MDgxNDky",
@@ -989,17 +989,17 @@
     "description": "Team per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri - Italia",
     "followers": 144,
     "following": 0,
-    "public_repos": 151,
+    "public_repos": 153,
     "public_gists": 0,
-    "total_stargazers": 330,
+    "total_stargazers": 332,
     "created_at": "2017-01-12T14:12:28Z",
     "updated_at": "2026-03-30T15:42:56Z",
     "archived_at": "",
     "source_url": "https://github.com/teamdigitale",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "NethServer",
     "id": 6469208,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY0NjkyMDg=",
@@ -1023,10 +1023,10 @@
     "updated_at": "2026-05-18T11:44:22Z",
     "archived_at": "",
     "source_url": "https://github.com/NethServer",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "clastix",
     "id": 39170129,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5MTcwMTI5",
@@ -1041,7 +1041,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Bringing Kubernetes Multi-Tenancy over the top: avoid clusters sprawl and save from the operational burden",
-    "followers": 136,
+    "followers": 137,
     "following": 0,
     "public_repos": 50,
     "public_gists": 0,
@@ -1050,10 +1050,10 @@
     "updated_at": "2023-11-17T19:36:27Z",
     "archived_at": "",
     "source_url": "https://github.com/clastix",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "SapienzaNLP",
     "id": 61417997,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDE3OTk3",
@@ -1068,19 +1068,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "The NLP group at the Sapienza University of Rome",
-    "followers": 130,
+    "followers": 131,
     "following": 0,
     "public_repos": 84,
     "public_gists": 0,
-    "total_stargazers": 1457,
+    "total_stargazers": 1458,
     "created_at": "2020-02-24T13:11:57Z",
     "updated_at": "2025-12-02T16:36:12Z",
     "archived_at": "",
     "source_url": "https://github.com/SapienzaNLP",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "refactoringhq",
     "id": 263141683,
     "node_id": "O_kgDOD685Mw",
@@ -1099,15 +1099,15 @@
     "following": 0,
     "public_repos": 4,
     "public_gists": 0,
-    "total_stargazers": 11844,
+    "total_stargazers": 11873,
     "created_at": "2026-02-22T09:55:51Z",
     "updated_at": "2026-04-28T07:24:10Z",
     "archived_at": "",
     "source_url": "https://github.com/refactoringhq",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Home-Assistant-Pro-Team",
     "id": 124792871,
     "node_id": "O_kgDOB3AwJw",
@@ -1131,10 +1131,10 @@
     "updated_at": "2023-06-25T20:04:35Z",
     "archived_at": "",
     "source_url": "https://github.com/Home-Assistant-Pro-Team",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "openforis",
     "id": 1212750,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTI3NTA=",
@@ -1158,10 +1158,10 @@
     "updated_at": "2026-05-29T11:29:31Z",
     "archived_at": "",
     "source_url": "https://github.com/openforis",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "gem",
     "id": 316546,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNjU0Ng==",
@@ -1180,15 +1180,15 @@
     "following": 0,
     "public_repos": 96,
     "public_gists": 0,
-    "total_stargazers": 691,
+    "total_stargazers": 692,
     "created_at": "2010-06-28T14:58:26Z",
     "updated_at": "2026-05-17T10:16:21Z",
     "archived_at": "",
     "source_url": "https://github.com/gem",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ondata",
     "id": 10263296,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMjYzMjk2",
@@ -1203,19 +1203,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Public repositories by onData association",
-    "followers": 122,
+    "followers": 123,
     "following": 0,
     "public_repos": 138,
     "public_gists": 0,
-    "total_stargazers": 747,
+    "total_stargazers": 754,
     "created_at": "2014-12-21T20:54:19Z",
     "updated_at": "2026-05-17T11:43:57Z",
     "archived_at": "",
     "source_url": "https://github.com/ondata",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "un-fao",
     "id": 100308443,
     "node_id": "O_kgDOBfqV2w",
@@ -1239,10 +1239,10 @@
     "updated_at": "2026-03-20T20:41:26Z",
     "archived_at": "",
     "source_url": "https://github.com/un-fao",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Corsinvest",
     "id": 35846984,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1ODQ2OTg0",
@@ -1261,15 +1261,42 @@
     "following": 0,
     "public_repos": 28,
     "public_gists": 0,
-    "total_stargazers": 3129,
+    "total_stargazers": 3131,
     "created_at": "2018-01-26T17:33:04Z",
     "updated_at": "2021-03-12T20:14:53Z",
     "archived_at": "",
     "source_url": "https://github.com/Corsinvest",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
+    "login": "virgili0",
+    "id": 50679161,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwNjc5MTYx",
+    "name": "Virgilio Data Science",
+    "github_url": "https://github.com/virgili0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/50679161?v=4",
+    "website": "https://virgili0.github.io/Virgilio",
+    "location": "Italy",
+    "email": "",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "Meet Virgilio, your New E-Mentor for Data Science and Machine Learning.",
+    "followers": 114,
+    "following": 0,
+    "public_repos": 1,
+    "public_gists": 0,
+    "total_stargazers": 14584,
+    "created_at": "2019-05-15T20:04:33Z",
+    "updated_at": "2020-06-26T23:19:24Z",
+    "archived_at": "",
+    "source_url": "https://github.com/virgili0",
+    "last_checked": "2026-06-04"
+  },
+  {
+    "snapshot_date": "2026-06-04",
     "login": "mkinf-io",
     "id": 170032439,
     "node_id": "O_kgDOCiJ9Nw",
@@ -1293,37 +1320,10 @@
     "updated_at": "2025-03-11T11:33:05Z",
     "archived_at": "",
     "source_url": "https://github.com/mkinf-io",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
-    "login": "virgili0",
-    "id": 50679161,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwNjc5MTYx",
-    "name": "Virgilio Data Science",
-    "github_url": "https://github.com/virgili0",
-    "avatar_url": "https://avatars.githubusercontent.com/u/50679161?v=4",
-    "website": "https://virgili0.github.io/Virgilio",
-    "location": "Italy",
-    "email": "",
-    "twitter_username": "",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "Meet Virgilio, your New E-Mentor for Data Science and Machine Learning.",
-    "followers": 113,
-    "following": 0,
-    "public_repos": 1,
-    "public_gists": 0,
-    "total_stargazers": 14569,
-    "created_at": "2019-05-15T20:04:33Z",
-    "updated_at": "2020-06-26T23:19:24Z",
-    "archived_at": "",
-    "source_url": "https://github.com/virgili0",
-    "last_checked": "2026-06-03"
-  },
-  {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ChibiOS",
     "id": 2803041,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MDMwNDE=",
@@ -1347,10 +1347,10 @@
     "updated_at": "2022-10-03T09:02:26Z",
     "archived_at": "",
     "source_url": "https://github.com/ChibiOS",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "RealityNet",
     "id": 16462377,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDYyMzc3",
@@ -1374,10 +1374,10 @@
     "updated_at": "2015-12-28T11:04:34Z",
     "archived_at": "",
     "source_url": "https://github.com/RealityNet",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "vira-soft",
     "id": 54356225,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0MzU2MjI1",
@@ -1401,10 +1401,10 @@
     "updated_at": "2026-05-26T07:50:57Z",
     "archived_at": "",
     "source_url": "https://github.com/vira-soft",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Programmazione-Avanzata-2025-26",
     "id": 231263109,
     "node_id": "O_kgDODcjLhQ",
@@ -1428,10 +1428,10 @@
     "updated_at": "2025-09-18T08:11:48Z",
     "archived_at": "",
     "source_url": "https://github.com/Programmazione-Avanzata-2025-26",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "informatici",
     "id": 3084709,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwODQ3MDk=",
@@ -1455,10 +1455,10 @@
     "updated_at": "2026-05-22T11:53:38Z",
     "archived_at": "",
     "source_url": "https://github.com/informatici",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "mia-platform",
     "id": 10514842,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTE0ODQy",
@@ -1482,10 +1482,10 @@
     "updated_at": "2025-04-17T16:31:08Z",
     "archived_at": "",
     "source_url": "https://github.com/mia-platform",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "mesh-iit",
     "id": 52755190,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjUyNzU1MTkw",
@@ -1509,10 +1509,10 @@
     "updated_at": "2026-03-20T13:58:46Z",
     "archived_at": "",
     "source_url": "https://github.com/mesh-iit",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "italia-opensource",
     "id": 112731178,
     "node_id": "O_kgDOBrgkKg",
@@ -1536,10 +1536,10 @@
     "updated_at": "2024-11-29T18:01:03Z",
     "archived_at": "",
     "source_url": "https://github.com/italia-opensource",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "opencitations",
     "id": 886535,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NjUzNQ==",
@@ -1563,10 +1563,10 @@
     "updated_at": "2025-07-08T09:48:41Z",
     "archived_at": "",
     "source_url": "https://github.com/opencitations",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ASEM-S-R-L",
     "id": 78094217,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4MDk0MjE3",
@@ -1590,10 +1590,10 @@
     "updated_at": "2024-01-13T00:49:48Z",
     "archived_at": "",
     "source_url": "https://github.com/ASEM-S-R-L",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ZapprTV",
     "id": 154741714,
     "node_id": "O_kgDOCTkr0g",
@@ -1617,10 +1617,10 @@
     "updated_at": "2025-10-07T15:42:28Z",
     "archived_at": "",
     "source_url": "https://github.com/ZapprTV",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "typeonce-dev",
     "id": 175473065,
     "node_id": "O_kgDOCnWBqQ",
@@ -1639,15 +1639,15 @@
     "following": 0,
     "public_repos": 13,
     "public_gists": 0,
-    "total_stargazers": 620,
+    "total_stargazers": 621,
     "created_at": "2024-07-13T07:31:24Z",
     "updated_at": "2024-07-20T14:58:38Z",
     "archived_at": "",
     "source_url": "https://github.com/typeonce-dev",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "UNICT-DMI",
     "id": 25122687,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MTIyNjg3",
@@ -1671,10 +1671,10 @@
     "updated_at": "2024-02-08T22:32:12Z",
     "archived_at": "",
     "source_url": "https://github.com/UNICT-DMI",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "commercelayer",
     "id": 13379592,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzc5NTky",
@@ -1689,7 +1689,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Composable commerce API for developers.",
-    "followers": 97,
+    "followers": 98,
     "following": 0,
     "public_repos": 86,
     "public_gists": 0,
@@ -1698,10 +1698,10 @@
     "updated_at": "2026-05-28T07:24:39Z",
     "archived_at": "",
     "source_url": "https://github.com/commercelayer",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "CompEngMS",
     "id": 87469785,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg3NDY5Nzg1",
@@ -1725,10 +1725,10 @@
     "updated_at": "2025-01-25T08:03:29Z",
     "archived_at": "",
     "source_url": "https://github.com/CompEngMS",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "KatharaFramework",
     "id": 42912149,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyOTEyMTQ5",
@@ -1752,10 +1752,10 @@
     "updated_at": "2025-09-11T14:07:25Z",
     "archived_at": "",
     "source_url": "https://github.com/KatharaFramework",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "nephila",
     "id": 630341,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMDM0MQ==",
@@ -1779,10 +1779,10 @@
     "updated_at": "2026-05-24T11:31:05Z",
     "archived_at": "",
     "source_url": "https://github.com/nephila",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "polimi-ispl",
     "id": 35815236,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1ODE1MjM2",
@@ -1801,15 +1801,15 @@
     "following": 0,
     "public_repos": 69,
     "public_gists": 0,
-    "total_stargazers": 880,
+    "total_stargazers": 881,
     "created_at": "2018-01-25T19:00:15Z",
     "updated_at": "2025-12-19T17:11:14Z",
     "archived_at": "",
     "source_url": "https://github.com/polimi-ispl",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "gbionics",
     "id": 191146588,
     "node_id": "O_kgDOC2SqXA",
@@ -1828,15 +1828,15 @@
     "following": 0,
     "public_repos": 62,
     "public_gists": 0,
-    "total_stargazers": 3037,
+    "total_stargazers": 3038,
     "created_at": "2024-12-09T16:43:14Z",
     "updated_at": "2026-05-27T22:52:28Z",
     "archived_at": "",
     "source_url": "https://github.com/gbionics",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "pythonitalia",
     "id": 3573467,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NzM0Njc=",
@@ -1851,19 +1851,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "",
-    "followers": 89,
+    "followers": 88,
     "following": 0,
     "public_repos": 46,
     "public_gists": 0,
-    "total_stargazers": 260,
+    "total_stargazers": 261,
     "created_at": "2013-02-12T17:26:37Z",
     "updated_at": "2026-05-26T11:34:46Z",
     "archived_at": "",
     "source_url": "https://github.com/pythonitalia",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "datocms",
     "id": 19649794,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjQ5Nzk0",
@@ -1887,10 +1887,10 @@
     "updated_at": "2026-03-04T12:38:46Z",
     "archived_at": "",
     "source_url": "https://github.com/datocms",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "freelensapp",
     "id": 172038998,
     "node_id": "O_kgDOCkEbVg",
@@ -1909,15 +1909,15 @@
     "following": 0,
     "public_repos": 19,
     "public_gists": 0,
-    "total_stargazers": 5334,
+    "total_stargazers": 5339,
     "created_at": "2024-06-07T12:05:27Z",
     "updated_at": "2025-05-17T16:00:48Z",
     "archived_at": "",
     "source_url": "https://github.com/freelensapp",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "immobiliare",
     "id": 10090828,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMDkwODI4",
@@ -1941,10 +1941,10 @@
     "updated_at": "2026-06-02T12:13:00Z",
     "archived_at": "",
     "source_url": "https://github.com/immobiliare",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "unipr-org",
     "id": 155580100,
     "node_id": "O_kgDOCUX2xA",
@@ -1968,10 +1968,10 @@
     "updated_at": "2024-10-21T11:04:12Z",
     "archived_at": "",
     "source_url": "https://github.com/unipr-org",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "XENONnT",
     "id": 38148762,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTQ4NzYy",
@@ -1995,10 +1995,10 @@
     "updated_at": "2024-07-03T18:36:41Z",
     "archived_at": "",
     "source_url": "https://github.com/XENONnT",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "TdP-2024",
     "id": 158473828,
     "node_id": "O_kgDOCXIeZA",
@@ -2022,10 +2022,10 @@
     "updated_at": "2024-02-11T21:18:35Z",
     "archived_at": "",
     "source_url": "https://github.com/TdP-2024",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "Polito-DS-Python",
     "id": 100859065,
     "node_id": "O_kgDOBgL8uQ",
@@ -2049,10 +2049,10 @@
     "updated_at": "2022-03-03T17:31:00Z",
     "archived_at": "",
     "source_url": "https://github.com/Polito-DS-Python",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "MilaNLProc",
     "id": 61321459,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMzIxNDU5",
@@ -2076,10 +2076,10 @@
     "updated_at": "2023-06-26T14:02:40Z",
     "archived_at": "",
     "source_url": "https://github.com/MilaNLProc",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "neuron-core",
     "id": 230101083,
     "node_id": "O_kgDODbcQWw",
@@ -2103,10 +2103,10 @@
     "updated_at": "2026-05-02T10:34:43Z",
     "archived_at": "",
     "source_url": "https://github.com/neuron-core",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "AIRLab-POLIMI",
     "id": 4557759,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1NTc3NTk=",
@@ -2130,10 +2130,10 @@
     "updated_at": "2023-11-02T15:27:30Z",
     "archived_at": "",
     "source_url": "https://github.com/AIRLab-POLIMI",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ASEM-ApplicationSoftwareEngineers",
     "id": 108118798,
     "node_id": "O_kgDOBnHDDg",
@@ -2157,10 +2157,10 @@
     "updated_at": "2025-04-08T09:49:04Z",
     "archived_at": "",
     "source_url": "https://github.com/ASEM-ApplicationSoftwareEngineers",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "krateoplatformops",
     "id": 92428760,
     "node_id": "O_kgDOBYJZ2A",
@@ -2184,10 +2184,10 @@
     "updated_at": "2026-01-20T13:17:13Z",
     "archived_at": "",
     "source_url": "https://github.com/krateoplatformops",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "buildwiththeta",
     "id": 101754464,
     "node_id": "O_kgDOBhCmYA",
@@ -2211,10 +2211,10 @@
     "updated_at": "2023-11-18T08:00:00Z",
     "archived_at": "",
     "source_url": "https://github.com/buildwiththeta",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ministero-salute",
     "id": 83289033,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgzMjg5MDMz",
@@ -2238,10 +2238,10 @@
     "updated_at": "2026-05-11T14:21:27Z",
     "archived_at": "",
     "source_url": "https://github.com/ministero-salute",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "ReactBricks",
     "id": 60979227,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwOTc5MjI3",
@@ -2265,10 +2265,10 @@
     "updated_at": "2023-12-27T10:08:18Z",
     "archived_at": "",
     "source_url": "https://github.com/ReactBricks",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "mosaico-labs",
     "id": 214657134,
     "node_id": "O_kgDODMtobg",
@@ -2287,15 +2287,15 @@
     "following": 0,
     "public_repos": 5,
     "public_gists": 0,
-    "total_stargazers": 1065,
+    "total_stargazers": 1067,
     "created_at": "2025-06-03T12:30:17Z",
     "updated_at": "2025-10-01T08:11:00Z",
     "archived_at": "",
     "source_url": "https://github.com/mosaico-labs",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "g3w-suite",
     "id": 36107737,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MTA3NzM3",
@@ -2319,10 +2319,10 @@
     "updated_at": "2026-04-23T12:35:00Z",
     "archived_at": "",
     "source_url": "https://github.com/g3w-suite",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "OliCyberIT",
     "id": 84079599,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0MDc5NTk5",
@@ -2346,10 +2346,10 @@
     "updated_at": "2023-09-14T08:06:38Z",
     "archived_at": "",
     "source_url": "https://github.com/OliCyberIT",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "hack-gpon",
     "id": 110607292,
     "node_id": "O_kgDOBpe7vA",
@@ -2373,10 +2373,10 @@
     "updated_at": "2022-12-17T15:03:26Z",
     "archived_at": "",
     "source_url": "https://github.com/hack-gpon",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "FIUP",
     "id": 8012686,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwMTI2ODY=",
@@ -2400,10 +2400,10 @@
     "updated_at": "2017-09-15T06:27:29Z",
     "archived_at": "",
     "source_url": "https://github.com/FIUP",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "builders-garden",
     "id": 151579357,
     "node_id": "O_kgDOCQjq3Q",
@@ -2427,10 +2427,10 @@
     "updated_at": "2026-03-12T11:43:46Z",
     "archived_at": "",
     "source_url": "https://github.com/builders-garden",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "INGV",
     "id": 6804786,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY4MDQ3ODY=",
@@ -2454,10 +2454,10 @@
     "updated_at": "2025-10-17T12:55:54Z",
     "archived_at": "",
     "source_url": "https://github.com/INGV",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "noi-techpark",
     "id": 20104760,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMTA0NzYw",
@@ -2474,17 +2474,17 @@
     "description": "",
     "followers": 67,
     "following": 0,
-    "public_repos": 255,
+    "public_repos": 256,
     "public_gists": 0,
     "total_stargazers": 207,
     "created_at": "2016-06-23T06:54:34Z",
     "updated_at": "2026-03-11T10:13:16Z",
     "archived_at": "",
     "source_url": "https://github.com/noi-techpark",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "CybersecNatLab",
     "id": 100370534,
     "node_id": "O_kgDOBfuIZg",
@@ -2508,10 +2508,10 @@
     "updated_at": "2026-03-24T08:23:51Z",
     "archived_at": "",
     "source_url": "https://github.com/CybersecNatLab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "UniversitaDellaCalabria",
     "id": 46786919,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2Nzg2OTE5",
@@ -2535,10 +2535,37 @@
     "updated_at": "2025-04-04T11:55:34Z",
     "archived_at": "",
     "source_url": "https://github.com/UniversitaDellaCalabria",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
+    "login": "ZiggyCreatures",
+    "id": 111681189,
+    "node_id": "O_kgDOBqgepQ",
+    "name": "ZiggyCreatures",
+    "github_url": "https://github.com/ZiggyCreatures",
+    "avatar_url": "https://avatars.githubusercontent.com/u/111681189?v=4",
+    "website": "",
+    "location": "Italy",
+    "email": "",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "",
+    "followers": 66,
+    "following": 0,
+    "public_repos": 1,
+    "public_gists": 0,
+    "total_stargazers": 3766,
+    "created_at": "2022-08-21T08:50:54Z",
+    "updated_at": "2022-08-21T10:06:53Z",
+    "archived_at": "",
+    "source_url": "https://github.com/ZiggyCreatures",
+    "last_checked": "2026-06-04"
+  },
+  {
+    "snapshot_date": "2026-06-04",
     "login": "TdP-2023",
     "id": 123157902,
     "node_id": "O_kgDOB1c9jg",
@@ -2562,37 +2589,10 @@
     "updated_at": "2023-02-20T23:23:38Z",
     "archived_at": "",
     "source_url": "https://github.com/TdP-2023",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
-    "login": "ZiggyCreatures",
-    "id": 111681189,
-    "node_id": "O_kgDOBqgepQ",
-    "name": "ZiggyCreatures",
-    "github_url": "https://github.com/ZiggyCreatures",
-    "avatar_url": "https://avatars.githubusercontent.com/u/111681189?v=4",
-    "website": "",
-    "location": "Italy",
-    "email": "",
-    "twitter_username": "",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "",
-    "followers": 65,
-    "following": 0,
-    "public_repos": 1,
-    "public_gists": 0,
-    "total_stargazers": 3764,
-    "created_at": "2022-08-21T08:50:54Z",
-    "updated_at": "2022-08-21T10:06:53Z",
-    "archived_at": "",
-    "source_url": "https://github.com/ZiggyCreatures",
-    "last_checked": "2026-06-03"
-  },
-  {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "robotics-knowledgebase-iit",
     "id": 128598448,
     "node_id": "O_kgDOB6pBsA",
@@ -2616,10 +2616,10 @@
     "updated_at": "2026-05-22T22:08:20Z",
     "archived_at": "",
     "source_url": "https://github.com/robotics-knowledgebase-iit",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "antares-sql",
     "id": 102599443,
     "node_id": "O_kgDOBh2LEw",
@@ -2643,10 +2643,10 @@
     "updated_at": "2024-01-08T12:04:14Z",
     "archived_at": "",
     "source_url": "https://github.com/antares-sql",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "unibo",
     "id": 1649599,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDk1OTk=",
@@ -2670,10 +2670,10 @@
     "updated_at": "2021-06-28T08:41:55Z",
     "archived_at": "",
     "source_url": "https://github.com/unibo",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "unicam-cs-algorithms-lab",
     "id": 75489059,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1NDg5MDU5",
@@ -2697,10 +2697,10 @@
     "updated_at": "2025-10-02T07:03:15Z",
     "archived_at": "",
     "source_url": "https://github.com/unicam-cs-algorithms-lab",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "openapi",
     "id": 239177194,
     "node_id": "O_kgDODkGN6g",
@@ -2715,7 +2715,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "The Largest Certified API Marketplace & Open Source Ecosystem",
-    "followers": 59,
+    "followers": 60,
     "following": 0,
     "public_repos": 18,
     "public_gists": 0,
@@ -2724,10 +2724,10 @@
     "updated_at": "2026-05-05T09:36:26Z",
     "archived_at": "",
     "source_url": "https://github.com/openapi",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "openpolis",
     "id": 165444,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NTQ0NA==",
@@ -2751,10 +2751,10 @@
     "updated_at": "2020-06-01T18:16:26Z",
     "archived_at": "",
     "source_url": "https://github.com/openpolis",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "istat",
     "id": 125044602,
     "node_id": "O_kgDOB3QHeg",
@@ -2778,10 +2778,10 @@
     "updated_at": "2025-11-13T13:00:36Z",
     "archived_at": "",
     "source_url": "https://github.com/istat",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   },
   {
-    "snapshot_date": "2026-06-03",
+    "snapshot_date": "2026-06-04",
     "login": "alterloop",
     "id": 48035951,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4MDM1OTUx",
@@ -2805,6 +2805,6 @@
     "updated_at": "2025-02-17T10:34:33Z",
     "archived_at": "",
     "source_url": "https://github.com/alterloop",
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-04"
   }
 ]
