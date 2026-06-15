@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "snapshot_date": "2026-06-14",
+    "snapshot_date": "2026-06-15",
     "window_days": 30,
     "limit": 100,
     "records": 100,
@@ -18,7 +18,7 @@
       "mybatis",
       "vira-themes"
     ],
-    "generated_at": "2026-06-14T07:02:03.564043+00:00"
+    "generated_at": "2026-06-15T07:44:05.341877+00:00"
   },
   "items": [
     {
@@ -30,21 +30,21 @@
       "sector": "N/D",
       "location": "Italy",
       "verified": false,
-      "followers": 200,
+      "followers": 201,
       "followers_30d_ago_estimate": 161.0,
-      "followers_delta_30d": 39.0,
-      "followers_growth_rate_30d": 0.242236,
+      "followers_delta_30d": 40.0,
+      "followers_growth_rate_30d": 0.248447,
       "public_repos": 36,
       "public_repos_30d_ago_estimate": 18.0,
       "public_repos_delta_30d": 18.0,
       "total_stargazers": 196,
       "total_stargazers_30d_ago_estimate": 82.0,
       "total_stargazers_delta_30d": 114.0,
-      "score": 62.5681,
-      "score_followers_growth": 31.8367,
+      "score": 63.3605,
+      "score_followers_growth": 32.6531,
       "score_repositories_growth": 30.0,
-      "score_stars_growth": 0.7314,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.7075,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 2,
@@ -55,21 +55,21 @@
       "sector": "N/D",
       "location": "Italy",
       "verified": false,
-      "followers": 152,
+      "followers": 155,
       "followers_30d_ago_estimate": 124.0,
-      "followers_delta_30d": 28.0,
-      "followers_growth_rate_30d": 0.225806,
+      "followers_delta_30d": 31.0,
+      "followers_growth_rate_30d": 0.25,
       "public_repos": 4,
       "public_repos_30d_ago_estimate": 4.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 16238,
+      "total_stargazers": 16396,
       "total_stargazers_30d_ago_estimate": 11562.0,
-      "total_stargazers_delta_30d": 4676.0,
-      "score": 52.8571,
-      "score_followers_growth": 22.8571,
+      "total_stargazers_delta_30d": 4834.0,
+      "score": 55.3061,
+      "score_followers_growth": 25.3061,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 30.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 3,
@@ -94,7 +94,7 @@
       "score_followers_growth": 40.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 4,
@@ -112,14 +112,14 @@
       "public_repos": 137,
       "public_repos_30d_ago_estimate": 133.0,
       "public_repos_delta_30d": 4.0,
-      "total_stargazers": 5927,
+      "total_stargazers": 5932,
       "total_stargazers_30d_ago_estimate": 5846.0,
-      "total_stargazers_delta_30d": 81.0,
-      "score": 32.4925,
+      "total_stargazers_delta_30d": 86.0,
+      "score": 32.5065,
       "score_followers_growth": 25.3061,
       "score_repositories_growth": 6.6667,
-      "score_stars_growth": 0.5197,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.5337,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 5,
@@ -140,11 +140,11 @@
       "total_stargazers": 1670,
       "total_stargazers_30d_ago_estimate": 1662.0,
       "total_stargazers_delta_30d": 8.0,
-      "score": 19.9833,
+      "score": 19.9816,
       "score_followers_growth": 3.2653,
       "score_repositories_growth": 16.6667,
-      "score_stars_growth": 0.0513,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0496,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 6,
@@ -162,14 +162,14 @@
       "public_repos": 1,
       "public_repos_30d_ago_estimate": 1.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 14686,
+      "total_stargazers": 14698,
       "total_stargazers_30d_ago_estimate": 14339.0,
-      "total_stargazers_delta_30d": 347.0,
-      "score": 19.3691,
+      "total_stargazers_delta_30d": 359.0,
+      "score": 19.3708,
       "score_followers_growth": 17.1429,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 2.2263,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 2.228,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 7,
@@ -190,11 +190,11 @@
       "total_stargazers": 6681,
       "total_stargazers_30d_ago_estimate": 6670.0,
       "total_stargazers_delta_30d": 11.0,
-      "score": 14.7985,
+      "score": 14.7962,
       "score_followers_growth": 13.0612,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.0706,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0683,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 8,
@@ -205,21 +205,21 @@
       "sector": "N/D",
       "location": "Italy",
       "verified": false,
-      "followers": 664,
+      "followers": 663,
       "followers_30d_ago_estimate": 648.0,
-      "followers_delta_30d": 16.0,
-      "followers_growth_rate_30d": 0.024691,
+      "followers_delta_30d": 15.0,
+      "followers_growth_rate_30d": 0.023148,
       "public_repos": 33,
       "public_repos_30d_ago_estimate": 33.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1723,
+      "total_stargazers": 1727,
       "total_stargazers_30d_ago_estimate": 1685.0,
-      "total_stargazers_delta_30d": 38.0,
-      "score": 13.305,
-      "score_followers_growth": 13.0612,
+      "total_stargazers_delta_30d": 42.0,
+      "score": 12.5056,
+      "score_followers_growth": 12.2449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.2438,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2607,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 9,
@@ -244,7 +244,7 @@
       "score_followers_growth": 12.2449,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 10,
@@ -255,21 +255,21 @@
       "sector": "N/D",
       "location": "Genova, Italy",
       "verified": false,
-      "followers": 204,
+      "followers": 205,
       "followers_30d_ago_estimate": 191.0,
-      "followers_delta_30d": 13.0,
-      "followers_growth_rate_30d": 0.068063,
+      "followers_delta_30d": 14.0,
+      "followers_growth_rate_30d": 0.073298,
       "public_repos": 61,
       "public_repos_30d_ago_estimate": 61.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1538,
+      "total_stargazers": 1540,
       "total_stargazers_30d_ago_estimate": 1470.0,
-      "total_stargazers_delta_30d": 68.0,
-      "score": 11.0485,
-      "score_followers_growth": 10.6122,
+      "total_stargazers_delta_30d": 70.0,
+      "score": 11.863,
+      "score_followers_growth": 11.4286,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.4363,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.4344,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 11,
@@ -287,14 +287,14 @@
       "public_repos": 139,
       "public_repos_30d_ago_estimate": 137.0,
       "public_repos_delta_30d": 2.0,
-      "total_stargazers": 772,
+      "total_stargazers": 773,
       "total_stargazers_30d_ago_estimate": 726.0,
-      "total_stargazers_delta_30d": 46.0,
-      "score": 10.1591,
+      "total_stargazers_delta_30d": 47.0,
+      "score": 10.1556,
       "score_followers_growth": 6.5306,
       "score_repositories_growth": 3.3333,
-      "score_stars_growth": 0.2951,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2917,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 12,
@@ -315,11 +315,11 @@
       "total_stargazers": 333,
       "total_stargazers_30d_ago_estimate": 328.0,
       "total_stargazers_delta_30d": 5.0,
-      "score": 9.9641,
+      "score": 9.963,
       "score_followers_growth": 3.2653,
       "score_repositories_growth": 6.6667,
-      "score_stars_growth": 0.0321,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.031,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 13,
@@ -340,14 +340,64 @@
       "total_stargazers": 207,
       "total_stargazers_30d_ago_estimate": 199.0,
       "total_stargazers_delta_30d": 8.0,
-      "score": 7.4663,
+      "score": 7.4646,
       "score_followers_growth": 4.0816,
       "score_repositories_growth": 3.3333,
-      "score_stars_growth": 0.0513,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0496,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 14,
+      "login": "sapienzastudentsnetwork",
+      "name": "Sapienza Students Network",
+      "github_url": "https://github.com/sapienzastudentsnetwork",
+      "account_type": "Organization",
+      "sector": "N/D",
+      "location": "Italy",
+      "verified": false,
+      "followers": 316,
+      "followers_30d_ago_estimate": 307.0,
+      "followers_delta_30d": 9.0,
+      "followers_growth_rate_30d": 0.029316,
+      "public_repos": 30,
+      "public_repos_30d_ago_estimate": 30.0,
+      "public_repos_delta_30d": 0.0,
+      "total_stargazers": 387,
+      "total_stargazers_30d_ago_estimate": 377.0,
+      "total_stargazers_delta_30d": 10.0,
+      "score": 7.409,
+      "score_followers_growth": 7.3469,
+      "score_repositories_growth": 0.0,
+      "score_stars_growth": 0.0621,
+      "snapshot_date": "2026-06-15"
+    },
+    {
+      "rank": 15,
+      "login": "unitn-drive",
+      "name": "UniTN - DISI Drive",
+      "github_url": "https://github.com/unitn-drive",
+      "account_type": "Organization",
+      "sector": "N/D",
+      "location": "Italy",
+      "verified": false,
+      "followers": 800,
+      "followers_30d_ago_estimate": 791.0,
+      "followers_delta_30d": 9.0,
+      "followers_growth_rate_30d": 0.011378,
+      "public_repos": 5,
+      "public_repos_30d_ago_estimate": 5.0,
+      "public_repos_delta_30d": 0.0,
+      "total_stargazers": 20,
+      "total_stargazers_30d_ago_estimate": 19.0,
+      "total_stargazers_delta_30d": 1.0,
+      "score": 7.3531,
+      "score_followers_growth": 7.3469,
+      "score_repositories_growth": 0.0,
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
+    },
+    {
+      "rank": 16,
       "login": "noi-techpark",
       "name": "NOI Techpark - Südtirol / Alto Adige",
       "github_url": "https://github.com/noi-techpark",
@@ -365,61 +415,11 @@
       "total_stargazers": 208,
       "total_stargazers_30d_ago_estimate": 206.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 6.6455,
+      "score": 6.6451,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 5.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
-    },
-    {
-      "rank": 15,
-      "login": "sapienzastudentsnetwork",
-      "name": "Sapienza Students Network",
-      "github_url": "https://github.com/sapienzastudentsnetwork",
-      "account_type": "Organization",
-      "sector": "N/D",
-      "location": "Italy",
-      "verified": false,
-      "followers": 315,
-      "followers_30d_ago_estimate": 307.0,
-      "followers_delta_30d": 8.0,
-      "followers_growth_rate_30d": 0.026059,
-      "public_repos": 30,
-      "public_repos_30d_ago_estimate": 30.0,
-      "public_repos_delta_30d": 0.0,
-      "total_stargazers": 385,
-      "total_stargazers_30d_ago_estimate": 377.0,
-      "total_stargazers_delta_30d": 8.0,
-      "score": 6.5819,
-      "score_followers_growth": 6.5306,
-      "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0513,
-      "snapshot_date": "2026-06-14"
-    },
-    {
-      "rank": 16,
-      "login": "unitn-drive",
-      "name": "UniTN - DISI Drive",
-      "github_url": "https://github.com/unitn-drive",
-      "account_type": "Organization",
-      "sector": "N/D",
-      "location": "Italy",
-      "verified": false,
-      "followers": 799,
-      "followers_30d_ago_estimate": 791.0,
-      "followers_delta_30d": 8.0,
-      "followers_growth_rate_30d": 0.010114,
-      "public_repos": 5,
-      "public_repos_30d_ago_estimate": 5.0,
-      "public_repos_delta_30d": 0.0,
-      "total_stargazers": 20,
-      "total_stargazers_30d_ago_estimate": 19.0,
-      "total_stargazers_delta_30d": 1.0,
-      "score": 6.537,
-      "score_followers_growth": 6.5306,
-      "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 17,
@@ -444,7 +444,7 @@
       "score_followers_growth": 6.5306,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 18,
@@ -462,14 +462,14 @@
       "public_repos": 63,
       "public_repos_30d_ago_estimate": 62.0,
       "public_repos_delta_30d": 1.0,
-      "total_stargazers": 3053,
+      "total_stargazers": 3052,
       "total_stargazers_30d_ago_estimate": 3022.0,
-      "total_stargazers_delta_30d": 31.0,
-      "score": 5.9472,
+      "total_stargazers_delta_30d": 30.0,
+      "score": 5.9345,
       "score_followers_growth": 4.0816,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.1989,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.1862,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 19,
@@ -487,14 +487,14 @@
       "public_repos": 41,
       "public_repos_30d_ago_estimate": 41.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1633,
+      "total_stargazers": 1634,
       "total_stargazers_30d_ago_estimate": 1615.0,
-      "total_stargazers_delta_30d": 18.0,
-      "score": 5.8298,
+      "total_stargazers_delta_30d": 19.0,
+      "score": 5.8322,
       "score_followers_growth": 5.7143,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.1155,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.1179,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 20,
@@ -515,11 +515,11 @@
       "total_stargazers": 40,
       "total_stargazers_30d_ago_estimate": 36.0,
       "total_stargazers_delta_30d": 4.0,
-      "score": 5.7399,
+      "score": 5.7391,
       "score_followers_growth": 5.7143,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0248,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 21,
@@ -537,14 +537,14 @@
       "public_repos": 52,
       "public_repos_30d_ago_estimate": 50.0,
       "public_repos_delta_30d": 2.0,
-      "total_stargazers": 2362,
+      "total_stargazers": 2364,
       "total_stargazers_30d_ago_estimate": 2345.0,
-      "total_stargazers_delta_30d": 17.0,
-      "score": 5.0751,
+      "total_stargazers_delta_30d": 19.0,
+      "score": 5.0839,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 3.3333,
-      "score_stars_growth": 0.1091,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.1179,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 22,
@@ -565,11 +565,11 @@
       "total_stargazers": 192,
       "total_stargazers_30d_ago_estimate": 188.0,
       "total_stargazers_delta_30d": 4.0,
-      "score": 4.9576,
+      "score": 4.9568,
       "score_followers_growth": 3.2653,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0248,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 23,
@@ -590,11 +590,11 @@
       "total_stargazers": 221,
       "total_stargazers_30d_ago_estimate": 219.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 4.9448,
+      "score": 4.9444,
       "score_followers_growth": 3.2653,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 24,
@@ -615,11 +615,11 @@
       "total_stargazers": 346,
       "total_stargazers_30d_ago_estimate": 345.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 4.9044,
+      "score": 4.9042,
       "score_followers_growth": 4.898,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 25,
@@ -640,11 +640,11 @@
       "total_stargazers": 2377,
       "total_stargazers_30d_ago_estimate": 2370.0,
       "total_stargazers_delta_30d": 7.0,
-      "score": 4.1606,
+      "score": 4.1591,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.0449,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0434,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 26,
@@ -669,7 +669,7 @@
       "score_followers_growth": 4.0816,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 27,
@@ -690,14 +690,39 @@
       "total_stargazers": 4905,
       "total_stargazers_30d_ago_estimate": 4865.0,
       "total_stargazers_delta_30d": 40.0,
-      "score": 3.5559,
+      "score": 3.5476,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.2566,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2482,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 28,
+      "login": "usbarmory",
+      "name": "USB armory",
+      "github_url": "https://github.com/usbarmory",
+      "account_type": "Organization",
+      "sector": "N/D",
+      "location": "Italy",
+      "verified": false,
+      "followers": 185,
+      "followers_30d_ago_estimate": 181.0,
+      "followers_delta_30d": 4.0,
+      "followers_growth_rate_30d": 0.022099,
+      "public_repos": 37,
+      "public_repos_30d_ago_estimate": 37.0,
+      "public_repos_delta_30d": 0.0,
+      "total_stargazers": 4977,
+      "total_stargazers_30d_ago_estimate": 4951.0,
+      "total_stargazers_delta_30d": 26.0,
+      "score": 3.4267,
+      "score_followers_growth": 3.2653,
+      "score_repositories_growth": 0.0,
+      "score_stars_growth": 0.1614,
+      "snapshot_date": "2026-06-15"
+    },
+    {
+      "rank": 29,
       "login": "NethServer",
       "name": "NethServer",
       "github_url": "https://github.com/NethServer",
@@ -715,14 +740,14 @@
       "total_stargazers": 654,
       "total_stargazers_30d_ago_estimate": 650.0,
       "total_stargazers_delta_30d": 4.0,
-      "score": 3.325,
+      "score": 3.3241,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0248,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "login": "neuron-core",
       "name": "Neuron",
       "github_url": "https://github.com/neuron-core",
@@ -740,14 +765,14 @@
       "total_stargazers": 2283,
       "total_stargazers_30d_ago_estimate": 2243.0,
       "total_stargazers_delta_30d": 40.0,
-      "score": 2.7056,
+      "score": 2.6972,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.2566,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2482,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "login": "meetecho",
       "name": "Meetecho",
       "github_url": "https://github.com/meetecho",
@@ -762,42 +787,42 @@
       "public_repos": 18,
       "public_repos_30d_ago_estimate": 17.0,
       "public_repos_delta_30d": 1.0,
-      "total_stargazers": 9769,
+      "total_stargazers": 9770,
       "total_stargazers_30d_ago_estimate": 9746.0,
-      "total_stargazers_delta_30d": 23.0,
-      "score": 2.6306,
+      "total_stargazers_delta_30d": 24.0,
+      "score": 2.6319,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.1476,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.1489,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 31,
-      "login": "usbarmory",
-      "name": "USB armory",
-      "github_url": "https://github.com/usbarmory",
+      "rank": 32,
+      "login": "robotology",
+      "name": "Robotology",
+      "github_url": "https://github.com/robotology",
       "account_type": "Organization",
       "sector": "N/D",
       "location": "Italy",
       "verified": false,
-      "followers": 184,
-      "followers_30d_ago_estimate": 181.0,
+      "followers": 327,
+      "followers_30d_ago_estimate": 324.0,
       "followers_delta_30d": 3.0,
-      "followers_growth_rate_30d": 0.016575,
-      "public_repos": 37,
-      "public_repos_30d_ago_estimate": 37.0,
+      "followers_growth_rate_30d": 0.009259,
+      "public_repos": 147,
+      "public_repos_30d_ago_estimate": 147.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 4975,
-      "total_stargazers_30d_ago_estimate": 4951.0,
-      "total_stargazers_delta_30d": 24.0,
-      "score": 2.603,
+      "total_stargazers": 2699,
+      "total_stargazers_30d_ago_estimate": 2685.0,
+      "total_stargazers_delta_30d": 14.0,
+      "score": 2.5359,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.154,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0869,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "login": "geosolutions-it",
       "name": "GeoSolutions",
       "github_url": "https://github.com/geosolutions-it",
@@ -815,14 +840,39 @@
       "total_stargazers": 1782,
       "total_stargazers_30d_ago_estimate": 1776.0,
       "total_stargazers_delta_30d": 6.0,
-      "score": 2.5215,
+      "score": 2.5202,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 1.6667,
-      "score_stars_growth": 0.0385,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0372,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 33,
+      "rank": 34,
+      "login": "cheshire-cat-ai",
+      "name": "Cheshire Cat AI",
+      "github_url": "https://github.com/cheshire-cat-ai",
+      "account_type": "Organization",
+      "sector": "N/D",
+      "location": "Italy",
+      "verified": false,
+      "followers": 626,
+      "followers_30d_ago_estimate": 623.0,
+      "followers_delta_30d": 3.0,
+      "followers_growth_rate_30d": 0.004815,
+      "public_repos": 25,
+      "public_repos_30d_ago_estimate": 25.0,
+      "public_repos_delta_30d": 0.0,
+      "total_stargazers": 3385,
+      "total_stargazers_30d_ago_estimate": 3375.0,
+      "total_stargazers_delta_30d": 10.0,
+      "score": 2.511,
+      "score_followers_growth": 2.449,
+      "score_repositories_growth": 0.0,
+      "score_stars_growth": 0.0621,
+      "snapshot_date": "2026-06-15"
+    },
+    {
+      "rank": 35,
       "login": "SapienzaNLP",
       "name": "Sapienza NLP group",
       "github_url": "https://github.com/SapienzaNLP",
@@ -837,17 +887,17 @@
       "public_repos": 84,
       "public_repos_30d_ago_estimate": 84.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1463,
+      "total_stargazers": 1462,
       "total_stargazers_30d_ago_estimate": 1455.0,
-      "total_stargazers_delta_30d": 8.0,
-      "score": 2.5003,
+      "total_stargazers_delta_30d": 7.0,
+      "score": 2.4924,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0513,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0434,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "login": "INGV",
       "name": "Istituto Nazionale di Geofisica e Vulcanologia",
       "github_url": "https://github.com/INGV",
@@ -869,10 +919,10 @@
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 1.6667,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "login": "ChibiOS",
       "name": "ChibiOS",
       "github_url": "https://github.com/ChibiOS",
@@ -890,14 +940,14 @@
       "total_stargazers": 1024,
       "total_stargazers_30d_ago_estimate": 1019.0,
       "total_stargazers_delta_30d": 5.0,
-      "score": 2.4811,
+      "score": 2.48,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0321,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.031,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 36,
+      "rank": 38,
       "login": "opencitations",
       "name": "OpenCitations",
       "github_url": "https://github.com/opencitations",
@@ -915,14 +965,14 @@
       "total_stargazers": 308,
       "total_stargazers_30d_ago_estimate": 306.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 2.4618,
+      "score": 2.4614,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "login": "commercelayer",
       "name": "Commerce Layer",
       "github_url": "https://github.com/commercelayer",
@@ -940,14 +990,14 @@
       "total_stargazers": 669,
       "total_stargazers_30d_ago_estimate": 667.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 2.4618,
+      "score": 2.4614,
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "login": "UniversitaDellaCalabria",
       "name": "Università della Calabria",
       "github_url": "https://github.com/UniversitaDellaCalabria",
@@ -969,10 +1019,10 @@
       "score_followers_growth": 2.449,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 39,
+      "rank": 41,
       "login": "cnr-isti-vclab",
       "name": "Visual Computing Lab - ISTI - CNR",
       "github_url": "https://github.com/cnr-isti-vclab",
@@ -987,17 +1037,17 @@
       "public_repos": 39,
       "public_repos_30d_ago_estimate": 39.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 9641,
+      "total_stargazers": 9642,
       "total_stargazers_30d_ago_estimate": 9594.0,
-      "total_stargazers_delta_30d": 47.0,
-      "score": 1.9342,
+      "total_stargazers_delta_30d": 48.0,
+      "score": 1.9305,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.3015,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2979,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "login": "ZiggyCreatures",
       "name": "ZiggyCreatures",
       "github_url": "https://github.com/ZiggyCreatures",
@@ -1015,39 +1065,14 @@
       "total_stargazers": 3783,
       "total_stargazers_30d_ago_estimate": 3754.0,
       "total_stargazers_delta_30d": 29.0,
-      "score": 1.8187,
+      "score": 1.8126,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.1861,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.18,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 41,
-      "login": "robotology",
-      "name": "Robotology",
-      "github_url": "https://github.com/robotology",
-      "account_type": "Organization",
-      "sector": "N/D",
-      "location": "Italy",
-      "verified": false,
-      "followers": 326,
-      "followers_30d_ago_estimate": 324.0,
-      "followers_delta_30d": 2.0,
-      "followers_growth_rate_30d": 0.006173,
-      "public_repos": 147,
-      "public_repos_30d_ago_estimate": 147.0,
-      "public_repos_delta_30d": 0.0,
-      "total_stargazers": 2699,
-      "total_stargazers_30d_ago_estimate": 2685.0,
-      "total_stargazers_delta_30d": 14.0,
-      "score": 1.7225,
-      "score_followers_growth": 1.6327,
-      "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0898,
-      "snapshot_date": "2026-06-14"
-    },
-    {
-      "rank": 42,
+      "rank": 43,
       "login": "XENONnT",
       "name": "XENONnT Dark Matter experiment",
       "github_url": "https://github.com/XENONnT",
@@ -1062,17 +1087,17 @@
       "public_repos": 49,
       "public_repos_30d_ago_estimate": 48.0,
       "public_repos_delta_30d": 1.0,
-      "total_stargazers": 97,
+      "total_stargazers": 96,
       "total_stargazers_30d_ago_estimate": 98.0,
       "total_stargazers_delta_30d": 0.0,
       "score": 1.6667,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 1.6667,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "login": "cyberpandino",
       "name": "Cyberpandino",
       "github_url": "https://github.com/cyberpandino",
@@ -1090,14 +1115,14 @@
       "total_stargazers": 478,
       "total_stargazers_30d_ago_estimate": 476.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 1.6455,
+      "score": 1.6451,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "login": "datocms",
       "name": "DatoCMS",
       "github_url": "https://github.com/datocms",
@@ -1115,14 +1140,14 @@
       "total_stargazers": 1305,
       "total_stargazers_30d_ago_estimate": 1303.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 1.6455,
+      "score": 1.6451,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "login": "KatharaFramework",
       "name": "Kathará",
       "github_url": "https://github.com/KatharaFramework",
@@ -1140,14 +1165,14 @@
       "total_stargazers": 912,
       "total_stargazers_30d_ago_estimate": 911.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 1.6391,
+      "score": 1.6389,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "login": "pythonitalia",
       "name": "Python Italia",
       "github_url": "https://github.com/pythonitalia",
@@ -1165,14 +1190,14 @@
       "total_stargazers": 261,
       "total_stargazers_30d_ago_estimate": 260.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 1.6391,
+      "score": 1.6389,
       "score_followers_growth": 1.6327,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "login": "freelensapp",
       "name": "Freelens",
       "github_url": "https://github.com/freelensapp",
@@ -1187,17 +1212,17 @@
       "public_repos": 19,
       "public_repos_30d_ago_estimate": 19.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 5364,
+      "total_stargazers": 5368,
       "total_stargazers_30d_ago_estimate": 5292.0,
-      "total_stargazers_delta_30d": 72.0,
-      "score": 1.2783,
+      "total_stargazers_delta_30d": 76.0,
+      "score": 1.288,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.4619,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.4717,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "login": "Corsinvest",
       "name": "Corsinvest Srl",
       "github_url": "https://github.com/Corsinvest",
@@ -1212,17 +1237,17 @@
       "public_repos": 28,
       "public_repos_30d_ago_estimate": 28.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 3151,
+      "total_stargazers": 3153,
       "total_stargazers_30d_ago_estimate": 3106.0,
-      "total_stargazers_delta_30d": 45.0,
-      "score": 1.105,
+      "total_stargazers_delta_30d": 47.0,
+      "score": 1.108,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.2887,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2917,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "login": "ami-iit",
       "name": "Artificial and Mechanical Intelligence ",
       "github_url": "https://github.com/ami-iit",
@@ -1240,14 +1265,14 @@
       "total_stargazers": 608,
       "total_stargazers_30d_ago_estimate": 575.0,
       "total_stargazers_delta_30d": 33.0,
-      "score": 1.028,
+      "score": 1.0211,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.2117,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.2048,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "login": "EtheaDev",
       "name": "Ethea S.r.l.",
       "github_url": "https://github.com/EtheaDev",
@@ -1262,17 +1287,42 @@
       "public_repos": 21,
       "public_repos_30d_ago_estimate": 21.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1958,
+      "total_stargazers": 1961,
       "total_stargazers_30d_ago_estimate": 1930.0,
-      "total_stargazers_delta_30d": 28.0,
-      "score": 0.996,
+      "total_stargazers_delta_30d": 31.0,
+      "score": 1.0087,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.1796,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.1924,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 51,
+      "rank": 52,
+      "login": "mathLab",
+      "name": "SISSA mathLab",
+      "github_url": "https://github.com/mathLab",
+      "account_type": "Organization",
+      "sector": "N/D",
+      "location": "Via Bonomea 265, 34133 Trieste, TS, Italy",
+      "verified": false,
+      "followers": 229,
+      "followers_30d_ago_estimate": 228.0,
+      "followers_delta_30d": 1.0,
+      "followers_growth_rate_30d": 0.004386,
+      "public_repos": 30,
+      "public_repos_30d_ago_estimate": 30.0,
+      "public_repos_delta_30d": 0.0,
+      "total_stargazers": 1772,
+      "total_stargazers_30d_ago_estimate": 1754.0,
+      "total_stargazers_delta_30d": 18.0,
+      "score": 0.928,
+      "score_followers_growth": 0.8163,
+      "score_repositories_growth": 0.0,
+      "score_stars_growth": 0.1117,
+      "snapshot_date": "2026-06-15"
+    },
+    {
+      "rank": 53,
       "login": "polimi-ispl",
       "name": "Image and Sound Processing Lab",
       "github_url": "https://github.com/polimi-ispl",
@@ -1290,14 +1340,14 @@
       "total_stargazers": 886,
       "total_stargazers_30d_ago_estimate": 875.0,
       "total_stargazers_delta_30d": 11.0,
-      "score": 0.8869,
+      "score": 0.8846,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0706,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0683,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 52,
+      "rank": 54,
       "login": "RealityNet",
       "name": "RealityNet",
       "github_url": "https://github.com/RealityNet",
@@ -1315,14 +1365,14 @@
       "total_stargazers": 1769,
       "total_stargazers_30d_ago_estimate": 1763.0,
       "total_stargazers_delta_30d": 6.0,
-      "score": 0.8548,
+      "score": 0.8536,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0385,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0372,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 53,
+      "rank": 55,
       "login": "TheWebScrapingClub",
       "name": "The Web Scraping Club",
       "github_url": "https://github.com/TheWebScrapingClub",
@@ -1337,17 +1387,17 @@
       "public_repos": 6,
       "public_repos_30d_ago_estimate": 6.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1959,
+      "total_stargazers": 1960,
       "total_stargazers_30d_ago_estimate": 1955.0,
-      "total_stargazers_delta_30d": 4.0,
-      "score": 0.842,
+      "total_stargazers_delta_30d": 5.0,
+      "score": 0.8474,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.031,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 54,
+      "rank": 56,
       "login": "typeonce-dev",
       "name": "Typeonce",
       "github_url": "https://github.com/typeonce-dev",
@@ -1365,14 +1415,39 @@
       "total_stargazers": 622,
       "total_stargazers_30d_ago_estimate": 618.0,
       "total_stargazers_delta_30d": 4.0,
-      "score": 0.842,
+      "score": 0.8412,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0248,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 55,
+      "rank": 57,
+      "login": "gem",
+      "name": "Global Earthquake Model",
+      "github_url": "https://github.com/gem",
+      "account_type": "Organization",
+      "sector": "N/D",
+      "location": "Pavia, Italy",
+      "verified": false,
+      "followers": 125,
+      "followers_30d_ago_estimate": 124.0,
+      "followers_delta_30d": 1.0,
+      "followers_growth_rate_30d": 0.008065,
+      "public_repos": 96,
+      "public_repos_30d_ago_estimate": 96.0,
+      "public_repos_delta_30d": 0.0,
+      "total_stargazers": 692,
+      "total_stargazers_30d_ago_estimate": 689.0,
+      "total_stargazers_delta_30d": 3.0,
+      "score": 0.8349,
+      "score_followers_growth": 0.8163,
+      "score_repositories_growth": 0.0,
+      "score_stars_growth": 0.0186,
+      "snapshot_date": "2026-06-15"
+    },
+    {
+      "rank": 58,
       "login": "ministero-salute",
       "name": "Ministero della Salute",
       "github_url": "https://github.com/ministero-salute",
@@ -1390,14 +1465,14 @@
       "total_stargazers": 437,
       "total_stargazers_30d_ago_estimate": 434.0,
       "total_stargazers_delta_30d": 3.0,
-      "score": 0.8356,
+      "score": 0.8349,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0192,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0186,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 56,
+      "rank": 59,
       "login": "polito-informatica",
       "name": " Informatica (Politecnico di Torino)",
       "github_url": "https://github.com/polito-informatica",
@@ -1415,14 +1490,14 @@
       "total_stargazers": 91,
       "total_stargazers_30d_ago_estimate": 89.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 0.8292,
+      "score": 0.8287,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 57,
+      "rank": 60,
       "login": "Il-Libro-Open-Source",
       "name": "Il Libro Open Source",
       "github_url": "https://github.com/Il-Libro-Open-Source",
@@ -1440,14 +1515,14 @@
       "total_stargazers": 426,
       "total_stargazers_30d_ago_estimate": 425.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 0.8227,
+      "score": 0.8225,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 58,
+      "rank": 61,
       "login": "mia-platform",
       "name": "Mia-Platform",
       "github_url": "https://github.com/mia-platform",
@@ -1465,14 +1540,14 @@
       "total_stargazers": 332,
       "total_stargazers_30d_ago_estimate": 331.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 0.8227,
+      "score": 0.8225,
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 59,
+      "rank": 62,
       "login": "AlmavivA",
       "name": "AlmavivA S.p.A.",
       "github_url": "https://github.com/AlmavivA",
@@ -1494,10 +1569,10 @@
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 60,
+      "rank": 63,
       "login": "ASEM-S-R-L",
       "name": "ASEM S.r.l",
       "github_url": "https://github.com/ASEM-S-R-L",
@@ -1519,10 +1594,10 @@
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 61,
+      "rank": 64,
       "login": "nephila",
       "name": "Nephila",
       "github_url": "https://github.com/nephila",
@@ -1544,10 +1619,10 @@
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 62,
+      "rank": 65,
       "login": "krateoplatformops",
       "name": "Krateo PlatformOps",
       "github_url": "https://github.com/krateoplatformops",
@@ -1569,10 +1644,10 @@
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 63,
+      "rank": 66,
       "login": "g3w-suite",
       "name": "G3W-SUITE",
       "github_url": "https://github.com/g3w-suite",
@@ -1594,35 +1669,10 @@
       "score_followers_growth": 0.8163,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 64,
-      "login": "mathLab",
-      "name": "SISSA mathLab",
-      "github_url": "https://github.com/mathLab",
-      "account_type": "Organization",
-      "sector": "N/D",
-      "location": "Via Bonomea 265, 34133 Trieste, TS, Italy",
-      "verified": false,
-      "followers": 228,
-      "followers_30d_ago_estimate": 228.0,
-      "followers_delta_30d": 0.0,
-      "followers_growth_rate_30d": 0.0,
-      "public_repos": 30,
-      "public_repos_30d_ago_estimate": 30.0,
-      "public_repos_delta_30d": 0.0,
-      "total_stargazers": 1770,
-      "total_stargazers_30d_ago_estimate": 1754.0,
-      "total_stargazers_delta_30d": 16.0,
-      "score": 0.1027,
-      "score_followers_growth": 0.0,
-      "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.1027,
-      "snapshot_date": "2026-06-14"
-    },
-    {
-      "rank": 65,
+      "rank": 67,
       "login": "mosaico-labs",
       "name": "mosaico",
       "github_url": "https://github.com/mosaico-labs",
@@ -1640,39 +1690,14 @@
       "total_stargazers": 1072,
       "total_stargazers_30d_ago_estimate": 1058.0,
       "total_stargazers_delta_30d": 14.0,
-      "score": 0.0898,
+      "score": 0.0869,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0898,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0869,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 66,
-      "login": "cheshire-cat-ai",
-      "name": "Cheshire Cat AI",
-      "github_url": "https://github.com/cheshire-cat-ai",
-      "account_type": "Organization",
-      "sector": "N/D",
-      "location": "Italy",
-      "verified": false,
-      "followers": 623,
-      "followers_30d_ago_estimate": 623.0,
-      "followers_delta_30d": 0.0,
-      "followers_growth_rate_30d": 0.0,
-      "public_repos": 25,
-      "public_repos_30d_ago_estimate": 25.0,
-      "public_repos_delta_30d": 0.0,
-      "total_stargazers": 3383,
-      "total_stargazers_30d_ago_estimate": 3375.0,
-      "total_stargazers_delta_30d": 8.0,
-      "score": 0.0513,
-      "score_followers_growth": 0.0,
-      "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0513,
-      "snapshot_date": "2026-06-14"
-    },
-    {
-      "rank": 67,
+      "rank": 68,
       "login": "informatici",
       "name": "Informatici Senza Frontiere",
       "github_url": "https://github.com/informatici",
@@ -1690,14 +1715,14 @@
       "total_stargazers": 926,
       "total_stargazers_30d_ago_estimate": 919.0,
       "total_stargazers_delta_30d": 7.0,
-      "score": 0.0449,
+      "score": 0.0434,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0449,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0434,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "login": "AIRLab-POLIMI",
       "name": "AIRLab@POLIMI",
       "github_url": "https://github.com/AIRLab-POLIMI",
@@ -1712,17 +1737,17 @@
       "public_repos": 105,
       "public_repos_30d_ago_estimate": 105.0,
       "public_repos_delta_30d": 0.0,
-      "total_stargazers": 471,
+      "total_stargazers": 472,
       "total_stargazers_30d_ago_estimate": 466.0,
-      "total_stargazers_delta_30d": 5.0,
-      "score": 0.0321,
+      "total_stargazers_delta_30d": 6.0,
+      "score": 0.0372,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0321,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0372,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "login": "hack-gpon",
       "name": "hack-gpon",
       "github_url": "https://github.com/hack-gpon",
@@ -1740,14 +1765,14 @@
       "total_stargazers": 352,
       "total_stargazers_30d_ago_estimate": 347.0,
       "total_stargazers_delta_30d": 5.0,
-      "score": 0.0321,
+      "score": 0.031,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0321,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.031,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "login": "antares-sql",
       "name": "Antares SQL",
       "github_url": "https://github.com/antares-sql",
@@ -1765,14 +1790,14 @@
       "total_stargazers": 2657,
       "total_stargazers_30d_ago_estimate": 2652.0,
       "total_stargazers_delta_30d": 5.0,
-      "score": 0.0321,
+      "score": 0.031,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0321,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.031,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 71,
+      "rank": 72,
       "login": "mesh-iit",
       "name": "MESH",
       "github_url": "https://github.com/mesh-iit",
@@ -1790,14 +1815,14 @@
       "total_stargazers": 383,
       "total_stargazers_30d_ago_estimate": 379.0,
       "total_stargazers_delta_30d": 4.0,
-      "score": 0.0257,
+      "score": 0.0248,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0248,
+      "snapshot_date": "2026-06-15"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "login": "MilaNLProc",
       "name": "MilaNLP",
       "github_url": "https://github.com/MilaNLProc",
@@ -1815,36 +1840,11 @@
       "total_stargazers": 1523,
       "total_stargazers_30d_ago_estimate": 1519.0,
       "total_stargazers_delta_30d": 4.0,
-      "score": 0.0257,
+      "score": 0.0248,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0257,
-      "snapshot_date": "2026-06-14"
-    },
-    {
-      "rank": 73,
-      "login": "gem",
-      "name": "Global Earthquake Model",
-      "github_url": "https://github.com/gem",
-      "account_type": "Organization",
-      "sector": "N/D",
-      "location": "Pavia, Italy",
-      "verified": false,
-      "followers": 124,
-      "followers_30d_ago_estimate": 124.0,
-      "followers_delta_30d": 0.0,
-      "followers_growth_rate_30d": 0.0,
-      "public_repos": 96,
-      "public_repos_30d_ago_estimate": 96.0,
-      "public_repos_delta_30d": 0.0,
-      "total_stargazers": 692,
-      "total_stargazers_30d_ago_estimate": 689.0,
-      "total_stargazers_delta_30d": 3.0,
-      "score": 0.0192,
-      "score_followers_growth": 0.0,
-      "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0192,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0248,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 74,
@@ -1865,11 +1865,11 @@
       "total_stargazers": 617,
       "total_stargazers_30d_ago_estimate": 615.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 0.0128,
+      "score": 0.0124,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 75,
@@ -1890,11 +1890,11 @@
       "total_stargazers": 465,
       "total_stargazers_30d_ago_estimate": 463.0,
       "total_stargazers_delta_30d": 2.0,
-      "score": 0.0128,
+      "score": 0.0124,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0128,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0124,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 76,
@@ -1915,11 +1915,11 @@
       "total_stargazers": 50,
       "total_stargazers_30d_ago_estimate": 49.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 0.0064,
+      "score": 0.0062,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 77,
@@ -1940,11 +1940,11 @@
       "total_stargazers": 207,
       "total_stargazers_30d_ago_estimate": 206.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 0.0064,
+      "score": 0.0062,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 78,
@@ -1965,11 +1965,11 @@
       "total_stargazers": 310,
       "total_stargazers_30d_ago_estimate": 309.0,
       "total_stargazers_delta_30d": 1.0,
-      "score": 0.0064,
+      "score": 0.0062,
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
-      "score_stars_growth": 0.0064,
-      "snapshot_date": "2026-06-14"
+      "score_stars_growth": 0.0062,
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 79,
@@ -1994,7 +1994,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 80,
@@ -2005,7 +2005,7 @@
       "sector": "N/D",
       "location": "Milan, Italy",
       "verified": false,
-      "followers": 274,
+      "followers": 273,
       "followers_30d_ago_estimate": 274.0,
       "followers_delta_30d": 0.0,
       "followers_growth_rate_30d": 0.0,
@@ -2019,7 +2019,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 81,
@@ -2044,7 +2044,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 82,
@@ -2069,7 +2069,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 83,
@@ -2094,7 +2094,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 84,
@@ -2119,7 +2119,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 85,
@@ -2144,7 +2144,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 86,
@@ -2169,7 +2169,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 87,
@@ -2194,7 +2194,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 88,
@@ -2219,7 +2219,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 89,
@@ -2244,7 +2244,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 90,
@@ -2269,7 +2269,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 91,
@@ -2294,7 +2294,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 92,
@@ -2319,7 +2319,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 93,
@@ -2344,7 +2344,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 94,
@@ -2369,7 +2369,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 95,
@@ -2394,7 +2394,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 96,
@@ -2419,7 +2419,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 97,
@@ -2444,7 +2444,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 98,
@@ -2469,7 +2469,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 99,
@@ -2494,7 +2494,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     },
     {
       "rank": 100,
@@ -2519,7 +2519,7 @@
       "score_followers_growth": 0.0,
       "score_repositories_growth": 0.0,
       "score_stars_growth": 0.0,
-      "snapshot_date": "2026-06-14"
+      "snapshot_date": "2026-06-15"
     }
   ]
 }
