@@ -2,8 +2,8 @@
   "snapshot": "2026/06/16",
   "metadata": {
     "snapshot_date": "2026-06-16",
-    "query": "location:Italy type:org followers:>50",
-    "max_orgs": 100,
+    "query": "location:Italy type:org followers:>30",
+    "max_orgs": 150,
     "watch_orgs_file": "data/watchorgs.txt",
     "watch_users_file": "data/watchusers.txt",
     "ignore_orgs_file": "data/ignoreorgs.txt",
@@ -18,9 +18,11 @@
       "mybatis",
       "vira-themes"
     ],
-    "records": 105,
-    "generated_at": "2026-06-16T07:49:14.435780+00:00",
+    "records": 153,
+    "generated_at": "2026-06-16T14:05:20.818165+00:00",
     "source": "GitHub Search API and Organizations API",
-    "errors": []
+    "errors": [
+      "GitHub request failed 404 for https://api.github.com/orgs/CRIF-J2C: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/orgs/orgs#get-an-organization\",\"status\":\"404\"}"
+    ]
   }
 }
