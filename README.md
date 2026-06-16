@@ -164,7 +164,9 @@ Struttura principale:
 
 ## Licenza
 
-Il progetto e' distribuito con licenza MIT. Vedi `LICENSE`.
+Il codice sorgente di questo repository e' distribuito con licenza MIT. Vedi `LICENSE`.
+
+I dati esposti, le pagine pubbliche e il dataset sono rilasciati come **Open Data** in licenza pubblica **CC0 1.0 Universal**: dedicazione al pubblico dominio, nessuna attribuzione richiesta. Vedi <https://creativecommons.org/publicdomain/zero/1.0/>.
 
 I dati derivano da informazioni pubbliche esposte da GitHub e dai profili collegati. Prima di riutilizzarli in contesti critici, verificare sempre la fonte indicata in `source_url`.
 
