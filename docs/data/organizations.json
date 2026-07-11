@@ -1,6 +1,6 @@
 [
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "OpenIPC",
     "id": 46071473,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2MDcxNDcz",
@@ -19,15 +19,15 @@
     "following": 0,
     "public_repos": 139,
     "public_gists": 0,
-    "total_stargazers": 6093,
+    "total_stargazers": 6095,
     "created_at": "2018-12-22T15:41:17Z",
     "updated_at": "2025-09-03T09:21:11Z",
     "archived_at": "",
     "source_url": "https://github.com/OpenIPC",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "italia",
     "id": 15377824,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Mzc3ODI0",
@@ -46,15 +46,15 @@
     "following": 0,
     "public_repos": 432,
     "public_gists": 0,
-    "total_stargazers": 6710,
+    "total_stargazers": 6711,
     "created_at": "2015-10-29T10:07:29Z",
     "updated_at": "2026-06-23T12:13:59Z",
     "archived_at": "",
     "source_url": "https://github.com/italia",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "volumio",
     "id": 5835489,
     "node_id": "MDQ6VXNlcjU4MzU0ODk=",
@@ -69,7 +69,7 @@
     "verified": false,
     "account_type": "User",
     "description": "Open source Audiophile Media Player for Raspberry PI and other micro-computers. Easy to use thanks to its web ui and optimized for bit perfect audio playback",
-    "followers": 1064,
+    "followers": 1065,
     "following": 3,
     "public_repos": 135,
     "public_gists": 0,
@@ -78,10 +78,10 @@
     "updated_at": "2026-06-22T07:04:55Z",
     "archived_at": "",
     "source_url": "https://github.com/volumio",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "unitn-drive",
     "id": 106105507,
     "node_id": "O_kgDOBlMKow",
@@ -105,10 +105,10 @@
     "updated_at": "2023-06-16T11:36:14Z",
     "archived_at": "",
     "source_url": "https://github.com/unitn-drive",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "NyarchLinux",
     "id": 121677241,
     "node_id": "O_kgDOB0CluQ",
@@ -123,19 +123,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Nyarch Linux is a (meme) linux distribution based on Arch Linux made for very degenerated weebs",
-    "followers": 676,
+    "followers": 675,
     "following": 0,
     "public_repos": 33,
     "public_gists": 0,
-    "total_stargazers": 1769,
+    "total_stargazers": 1763,
     "created_at": "2022-12-30T13:39:51Z",
     "updated_at": "2024-01-27T20:07:31Z",
     "archived_at": "",
     "source_url": "https://github.com/NyarchLinux",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "cheshire-cat-ai",
     "id": 135242343,
     "node_id": "O_kgDOCA-iZw",
@@ -150,7 +150,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "",
-    "followers": 630,
+    "followers": 631,
     "following": 0,
     "public_repos": 23,
     "public_gists": 0,
@@ -159,10 +159,10 @@
     "updated_at": "2024-03-06T16:11:54Z",
     "archived_at": "",
     "source_url": "https://github.com/cheshire-cat-ai",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "DevExpPlatform",
     "id": 173068394,
     "node_id": "O_kgDOClDQag",
@@ -177,19 +177,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Sperimentazione Piattaforma Corporate per gli sviluppatori",
-    "followers": 556,
+    "followers": 557,
     "following": 0,
     "public_repos": 6,
     "public_gists": 0,
     "total_stargazers": 1,
     "created_at": "2024-06-17T13:32:11Z",
-    "updated_at": "2026-04-24T01:55:39Z",
+    "updated_at": "2026-07-10T09:13:01Z",
     "archived_at": "",
     "source_url": "https://github.com/DevExpPlatform",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Tiledesk",
     "id": 39886277,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5ODg2Mjc3",
@@ -213,10 +213,10 @@
     "updated_at": "2025-09-14T17:10:10Z",
     "archived_at": "",
     "source_url": "https://github.com/Tiledesk",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "SPDM-Team",
     "id": 105880469,
     "node_id": "O_kgDOBk-blQ",
@@ -240,10 +240,10 @@
     "updated_at": "2022-05-19T17:49:35Z",
     "archived_at": "",
     "source_url": "https://github.com/SPDM-Team",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "robotology",
     "id": 1587191,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1ODcxOTE=",
@@ -267,10 +267,10 @@
     "updated_at": "2025-10-31T17:18:17Z",
     "archived_at": "",
     "source_url": "https://github.com/robotology",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "pagopa",
     "id": 57742367,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3NzQyMzY3",
@@ -289,15 +289,15 @@
     "following": 0,
     "public_repos": 770,
     "public_gists": 0,
-    "total_stargazers": 1679,
+    "total_stargazers": 1681,
     "created_at": "2019-11-14T05:21:03Z",
     "updated_at": "2026-07-01T21:03:49Z",
     "archived_at": "",
     "source_url": "https://github.com/pagopa",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sapienzastudentsnetwork",
     "id": 95304569,
     "node_id": "O_kgDOBa47eQ",
@@ -316,15 +316,15 @@
     "following": 0,
     "public_repos": 30,
     "public_gists": 0,
-    "total_stargazers": 388,
+    "total_stargazers": 389,
     "created_at": "2021-11-30T16:47:18Z",
     "updated_at": "2025-10-05T16:32:29Z",
     "archived_at": "",
     "source_url": "https://github.com/sapienzastudentsnetwork",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "cnr-isti-vclab",
     "id": 13378289,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzc4Mjg5",
@@ -348,10 +348,10 @@
     "updated_at": "2022-02-19T22:20:22Z",
     "archived_at": "",
     "source_url": "https://github.com/cnr-isti-vclab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "cartabinaria",
     "id": 90678054,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjkwNjc4MDU0",
@@ -370,15 +370,15 @@
     "following": 0,
     "public_repos": 198,
     "public_gists": 0,
-    "total_stargazers": 157,
+    "total_stargazers": 158,
     "created_at": "2021-09-14T06:56:43Z",
     "updated_at": "2024-10-25T15:49:36Z",
     "archived_at": "",
     "source_url": "https://github.com/cartabinaria",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "BendingSpoons",
     "id": 4347291,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzNDcyOTE=",
@@ -393,7 +393,7 @@
     "verified": false,
     "account_type": "Organization",
     "description": "",
-    "followers": 284,
+    "followers": 285,
     "following": 0,
     "public_repos": 3,
     "public_gists": 0,
@@ -402,10 +402,10 @@
     "updated_at": "2026-07-09T10:15:28Z",
     "archived_at": "",
     "source_url": "https://github.com/BendingSpoons",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ami-iit",
     "id": 28398961,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4Mzk4OTYx",
@@ -429,10 +429,10 @@
     "updated_at": "2025-03-27T12:33:36Z",
     "archived_at": "",
     "source_url": "https://github.com/ami-iit",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "polito",
     "id": 108975660,
     "node_id": "O_kgDOBn7WLA",
@@ -456,10 +456,10 @@
     "updated_at": "2023-05-29T03:23:09Z",
     "archived_at": "",
     "source_url": "https://github.com/polito",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mathLab",
     "id": 14195552,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTk1NTUy",
@@ -474,19 +474,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Applied Mathematics Laboratory @ SISSA",
-    "followers": 233,
+    "followers": 234,
     "following": 0,
     "public_repos": 30,
     "public_gists": 0,
-    "total_stargazers": 1798,
+    "total_stargazers": 1801,
     "created_at": "2015-09-09T08:32:18Z",
     "updated_at": "2015-09-09T08:38:43Z",
     "archived_at": "",
     "source_url": "https://github.com/mathLab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "geosolutions-it",
     "id": 775710,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3NTcxMA==",
@@ -510,10 +510,10 @@
     "updated_at": "2026-07-07T07:04:33Z",
     "archived_at": "",
     "source_url": "https://github.com/geosolutions-it",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Schroedinger-Hat",
     "id": 65608804,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY1NjA4ODA0",
@@ -537,10 +537,10 @@
     "updated_at": "2026-01-28T09:16:51Z",
     "archived_at": "",
     "source_url": "https://github.com/Schroedinger-Hat",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "singularityos-lab",
     "id": 195755123,
     "node_id": "O_kgDOC6r8cw",
@@ -564,10 +564,10 @@
     "updated_at": "2026-01-20T20:37:17Z",
     "archived_at": "",
     "source_url": "https://github.com/singularityos-lab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "agentvoiceresponse",
     "id": 183541133,
     "node_id": "O_kgDOCvCdjQ",
@@ -591,10 +591,10 @@
     "updated_at": "2025-09-17T13:06:06Z",
     "archived_at": "",
     "source_url": "https://github.com/agentvoiceresponse",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "AlmavivA",
     "id": 8995426,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5OTU0MjY=",
@@ -618,10 +618,10 @@
     "updated_at": "2026-07-06T14:16:44Z",
     "archived_at": "",
     "source_url": "https://github.com/AlmavivA",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "iit-DLSLab",
     "id": 14836675,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM2Njc1",
@@ -640,15 +640,15 @@
     "following": 0,
     "public_repos": 71,
     "public_gists": 0,
-    "total_stargazers": 1614,
+    "total_stargazers": 1619,
     "created_at": "2015-09-25T12:14:43Z",
     "updated_at": "2026-06-12T12:10:10Z",
     "archived_at": "",
     "source_url": "https://github.com/iit-DLSLab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Il-Libro-Open-Source",
     "id": 141745245,
     "node_id": "O_kgDOCHLcXQ",
@@ -672,10 +672,10 @@
     "updated_at": "2026-06-27T16:05:06Z",
     "archived_at": "",
     "source_url": "https://github.com/Il-Libro-Open-Source",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "aimagelab",
     "id": 32870596,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyODcwNTk2",
@@ -699,10 +699,10 @@
     "updated_at": "2025-08-30T17:47:53Z",
     "archived_at": "",
     "source_url": "https://github.com/aimagelab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "illustrated-machine-learning",
     "id": 121721443,
     "node_id": "O_kgDOB0FSYw",
@@ -726,10 +726,10 @@
     "updated_at": "2022-12-31T13:58:38Z",
     "archived_at": "",
     "source_url": "https://github.com/illustrated-machine-learning",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Sisal-Org",
     "id": 136463951,
     "node_id": "O_kgDOCCJGTw",
@@ -753,10 +753,10 @@
     "updated_at": "2026-07-08T02:53:57Z",
     "archived_at": "",
     "source_url": "https://github.com/Sisal-Org",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "usbarmory",
     "id": 92912052,
     "node_id": "O_kgDOBYm5tA",
@@ -780,10 +780,10 @@
     "updated_at": "2025-09-11T12:54:00Z",
     "archived_at": "",
     "source_url": "https://github.com/usbarmory",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "EtheaDev",
     "id": 25226619,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MjI2NjE5",
@@ -807,10 +807,10 @@
     "updated_at": "2017-01-19T15:12:41Z",
     "archived_at": "",
     "source_url": "https://github.com/EtheaDev",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "TheWebScrapingClub",
     "id": 112824438,
     "node_id": "O_kgDOBrmQdg",
@@ -834,10 +834,10 @@
     "updated_at": "2024-08-22T16:20:29Z",
     "archived_at": "",
     "source_url": "https://github.com/TheWebScrapingClub",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "refactoringhq",
     "id": 263141683,
     "node_id": "O_kgDOD685Mw",
@@ -856,15 +856,15 @@
     "following": 0,
     "public_repos": 4,
     "public_gists": 0,
-    "total_stargazers": 18657,
+    "total_stargazers": 18695,
     "created_at": "2026-02-22T09:55:51Z",
     "updated_at": "2026-06-23T09:25:26Z",
     "archived_at": "",
     "source_url": "https://github.com/refactoringhq",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "polito-webapp1",
     "id": 159048876,
     "node_id": "O_kgDOCXrkrA",
@@ -888,10 +888,37 @@
     "updated_at": "2024-02-21T12:42:56Z",
     "archived_at": "",
     "source_url": "https://github.com/polito-webapp1",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "cyberpandino",
+    "id": 208287471,
+    "node_id": "O_kgDODGo27w",
+    "name": "Cyberpandino",
+    "github_url": "https://github.com/cyberpandino",
+    "avatar_url": "https://avatars.githubusercontent.com/u/208287471?v=4",
+    "website": "https://cyberpandino.com",
+    "location": "Italy",
+    "email": "info@cyberpandino.com",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "",
+    "followers": 161,
+    "following": 0,
+    "public_repos": 1,
+    "public_gists": 0,
+    "total_stargazers": 488,
+    "created_at": "2025-04-19T16:39:37Z",
+    "updated_at": "2025-11-16T20:27:30Z",
+    "archived_at": "",
+    "source_url": "https://github.com/cyberpandino",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "meetecho",
     "id": 4520545,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1MjA1NDU=",
@@ -910,42 +937,15 @@
     "following": 0,
     "public_repos": 18,
     "public_gists": 0,
-    "total_stargazers": 9790,
+    "total_stargazers": 9787,
     "created_at": "2013-05-24T15:24:13Z",
     "updated_at": "2020-04-08T04:50:35Z",
     "archived_at": "",
     "source_url": "https://github.com/meetecho",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
-    "login": "cyberpandino",
-    "id": 208287471,
-    "node_id": "O_kgDODGo27w",
-    "name": "Cyberpandino",
-    "github_url": "https://github.com/cyberpandino",
-    "avatar_url": "https://avatars.githubusercontent.com/u/208287471?v=4",
-    "website": "https://cyberpandino.com",
-    "location": "Italy",
-    "email": "info@cyberpandino.com",
-    "twitter_username": "",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "",
-    "followers": 159,
-    "following": 0,
-    "public_repos": 1,
-    "public_gists": 0,
-    "total_stargazers": 486,
-    "created_at": "2025-04-19T16:39:37Z",
-    "updated_at": "2025-11-16T20:27:30Z",
-    "archived_at": "",
-    "source_url": "https://github.com/cyberpandino",
-    "last_checked": "2026-07-10"
-  },
-  {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "cybersecurity-polito",
     "id": 162710333,
     "node_id": "O_kgDOCbLDPQ",
@@ -969,10 +969,10 @@
     "updated_at": "2026-06-29T16:25:17Z",
     "archived_at": "",
     "source_url": "https://github.com/cybersecurity-polito",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "polito-informatica",
     "id": 145029551,
     "node_id": "O_kgDOCKT5rw",
@@ -996,10 +996,10 @@
     "updated_at": "2026-06-14T16:37:05Z",
     "archived_at": "",
     "source_url": "https://github.com/polito-informatica",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "teamdigitale",
     "id": 25081492,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MDgxNDky",
@@ -1023,10 +1023,10 @@
     "updated_at": "2026-03-30T15:42:56Z",
     "archived_at": "",
     "source_url": "https://github.com/teamdigitale",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "clastix",
     "id": 39170129,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5MTcwMTI5",
@@ -1045,15 +1045,15 @@
     "following": 0,
     "public_repos": 53,
     "public_gists": 0,
-    "total_stargazers": 2383,
+    "total_stargazers": 2384,
     "created_at": "2018-05-10T19:14:43Z",
     "updated_at": "2023-11-17T19:36:27Z",
     "archived_at": "",
     "source_url": "https://github.com/clastix",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "NethServer",
     "id": 6469208,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY0NjkyMDg=",
@@ -1068,19 +1068,19 @@
     "verified": false,
     "account_type": "Organization",
     "description": "Multi-node application platform for your Hybrid Cloud",
-    "followers": 140,
+    "followers": 141,
     "following": 0,
     "public_repos": 299,
     "public_gists": 0,
-    "total_stargazers": 674,
+    "total_stargazers": 675,
     "created_at": "2014-01-22T08:28:11Z",
     "updated_at": "2026-06-18T11:54:26Z",
     "archived_at": "",
     "source_url": "https://github.com/NethServer",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "SapienzaNLP",
     "id": 61417997,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDE3OTk3",
@@ -1104,10 +1104,10 @@
     "updated_at": "2025-12-02T16:36:12Z",
     "archived_at": "",
     "source_url": "https://github.com/SapienzaNLP",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ondata",
     "id": 10263296,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMjYzMjk2",
@@ -1124,17 +1124,17 @@
     "description": "Public repositories by onData association",
     "followers": 129,
     "following": 0,
-    "public_repos": 139,
+    "public_repos": 140,
     "public_gists": 0,
-    "total_stargazers": 781,
+    "total_stargazers": 785,
     "created_at": "2014-12-21T20:54:19Z",
     "updated_at": "2026-06-17T12:00:11Z",
     "archived_at": "",
     "source_url": "https://github.com/ondata",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "gem",
     "id": 316546,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNjU0Ng==",
@@ -1158,10 +1158,10 @@
     "updated_at": "2026-05-17T10:16:21Z",
     "archived_at": "",
     "source_url": "https://github.com/gem",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Home-Assistant-Pro-Team",
     "id": 124792871,
     "node_id": "O_kgDOB3AwJw",
@@ -1185,10 +1185,37 @@
     "updated_at": "2023-06-25T20:04:35Z",
     "archived_at": "",
     "source_url": "https://github.com/Home-Assistant-Pro-Team",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "openforis",
+    "id": 1212750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTI3NTA=",
+    "name": "Open Foris",
+    "github_url": "https://github.com/openforis",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1212750?v=4",
+    "website": "http://www.openforis.org",
+    "location": "Rome, Italy",
+    "email": "openforisinitiative@gmail.com",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "Free open-source solutions for environmental monitoring",
+    "followers": 125,
+    "following": 0,
+    "public_repos": 60,
+    "public_gists": 0,
+    "total_stargazers": 621,
+    "created_at": "2011-11-22T11:38:23Z",
+    "updated_at": "2026-06-29T11:34:31Z",
+    "archived_at": "",
+    "source_url": "https://github.com/openforis",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "un-fao",
     "id": 100308443,
     "node_id": "O_kgDOBfqV2w",
@@ -1212,37 +1239,10 @@
     "updated_at": "2026-03-20T20:41:26Z",
     "archived_at": "",
     "source_url": "https://github.com/un-fao",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
-    "login": "openforis",
-    "id": 1212750,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTI3NTA=",
-    "name": "Open Foris",
-    "github_url": "https://github.com/openforis",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1212750?v=4",
-    "website": "http://www.openforis.org",
-    "location": "Rome, Italy",
-    "email": "openforisinitiative@gmail.com",
-    "twitter_username": "",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "Free open-source solutions for environmental monitoring",
-    "followers": 124,
-    "following": 0,
-    "public_repos": 60,
-    "public_gists": 0,
-    "total_stargazers": 621,
-    "created_at": "2011-11-22T11:38:23Z",
-    "updated_at": "2026-06-29T11:34:31Z",
-    "archived_at": "",
-    "source_url": "https://github.com/openforis",
-    "last_checked": "2026-07-10"
-  },
-  {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "virgili0",
     "id": 50679161,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwNjc5MTYx",
@@ -1261,15 +1261,15 @@
     "following": 0,
     "public_repos": 1,
     "public_gists": 0,
-    "total_stargazers": 14840,
+    "total_stargazers": 14844,
     "created_at": "2019-05-15T20:04:33Z",
     "updated_at": "2020-06-26T23:19:24Z",
     "archived_at": "",
     "source_url": "https://github.com/virgili0",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Corsinvest",
     "id": 35846984,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1ODQ2OTg0",
@@ -1293,10 +1293,10 @@
     "updated_at": "2021-03-12T20:14:53Z",
     "archived_at": "",
     "source_url": "https://github.com/Corsinvest",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mkinf-io",
     "id": 170032439,
     "node_id": "O_kgDOCiJ9Nw",
@@ -1320,10 +1320,10 @@
     "updated_at": "2025-03-11T11:33:05Z",
     "archived_at": "",
     "source_url": "https://github.com/mkinf-io",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ChibiOS",
     "id": 2803041,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4MDMwNDE=",
@@ -1347,10 +1347,10 @@
     "updated_at": "2022-10-03T09:02:26Z",
     "archived_at": "",
     "source_url": "https://github.com/ChibiOS",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "RealityNet",
     "id": 16462377,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDYyMzc3",
@@ -1374,37 +1374,10 @@
     "updated_at": "2015-12-28T11:04:34Z",
     "archived_at": "",
     "source_url": "https://github.com/RealityNet",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
-    "login": "vira-soft",
-    "id": 54356225,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0MzU2MjI1",
-    "name": "Vira Software",
-    "github_url": "https://github.com/vira-soft",
-    "avatar_url": "https://avatars.githubusercontent.com/u/54356225?v=4",
-    "website": "https://vira.build",
-    "location": "Italy",
-    "email": "",
-    "twitter_username": "vira-theme",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features",
-    "followers": 109,
-    "following": 0,
-    "public_repos": 1,
-    "public_gists": 0,
-    "total_stargazers": 11319,
-    "created_at": "2019-08-21T10:11:24Z",
-    "updated_at": "2026-06-11T17:09:53Z",
-    "archived_at": "",
-    "source_url": "https://github.com/vira-soft",
-    "last_checked": "2026-07-10"
-  },
-  {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "informatici",
     "id": 3084709,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwODQ3MDk=",
@@ -1428,10 +1401,37 @@
     "updated_at": "2026-06-22T11:41:56Z",
     "archived_at": "",
     "source_url": "https://github.com/informatici",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "vira-soft",
+    "id": 54356225,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0MzU2MjI1",
+    "name": "Vira Software",
+    "github_url": "https://github.com/vira-soft",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54356225?v=4",
+    "website": "https://vira.build",
+    "location": "Italy",
+    "email": "",
+    "twitter_username": "vira-theme",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features",
+    "followers": 108,
+    "following": 0,
+    "public_repos": 1,
+    "public_gists": 0,
+    "total_stargazers": 11319,
+    "created_at": "2019-08-21T10:11:24Z",
+    "updated_at": "2026-06-11T17:09:53Z",
+    "archived_at": "",
+    "source_url": "https://github.com/vira-soft",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "Programmazione-Avanzata-2025-26",
     "id": 231263109,
     "node_id": "O_kgDODcjLhQ",
@@ -1455,10 +1455,10 @@
     "updated_at": "2025-09-18T08:11:48Z",
     "archived_at": "",
     "source_url": "https://github.com/Programmazione-Avanzata-2025-26",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mia-platform",
     "id": 10514842,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTE0ODQy",
@@ -1482,10 +1482,10 @@
     "updated_at": "2025-04-17T16:31:08Z",
     "archived_at": "",
     "source_url": "https://github.com/mia-platform",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "opencitations",
     "id": 886535,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NjUzNQ==",
@@ -1509,10 +1509,10 @@
     "updated_at": "2025-07-08T09:48:41Z",
     "archived_at": "",
     "source_url": "https://github.com/opencitations",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "italia-opensource",
     "id": 112731178,
     "node_id": "O_kgDOBrgkKg",
@@ -1536,10 +1536,10 @@
     "updated_at": "2024-11-29T18:01:03Z",
     "archived_at": "",
     "source_url": "https://github.com/italia-opensource",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mesh-iit",
     "id": 52755190,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjUyNzU1MTkw",
@@ -1563,10 +1563,37 @@
     "updated_at": "2026-03-20T13:58:46Z",
     "archived_at": "",
     "source_url": "https://github.com/mesh-iit",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "unicef-drp",
+    "id": 47798057,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3Nzk4MDU3",
+    "name": "Office of Strategy and Evidence Innocenti",
+    "github_url": "https://github.com/unicef-drp",
+    "avatar_url": "https://avatars.githubusercontent.com/u/47798057?v=4",
+    "website": "",
+    "location": "Italy",
+    "email": "",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "",
+    "followers": 105,
+    "following": 0,
+    "public_repos": 51,
+    "public_gists": 0,
+    "total_stargazers": 136,
+    "created_at": "2019-02-19T22:16:48Z",
+    "updated_at": "2026-07-10T14:36:32Z",
+    "archived_at": "",
+    "source_url": "https://github.com/unicef-drp",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "ASEM-S-R-L",
     "id": 78094217,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4MDk0MjE3",
@@ -1590,10 +1617,10 @@
     "updated_at": "2024-01-13T00:49:48Z",
     "archived_at": "",
     "source_url": "https://github.com/ASEM-S-R-L",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ZapprTV",
     "id": 154741714,
     "node_id": "O_kgDOCTkr0g",
@@ -1617,10 +1644,10 @@
     "updated_at": "2025-10-07T15:42:28Z",
     "archived_at": "",
     "source_url": "https://github.com/ZapprTV",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "typeonce-dev",
     "id": 175473065,
     "node_id": "O_kgDOCnWBqQ",
@@ -1644,10 +1671,10 @@
     "updated_at": "2024-07-20T14:58:38Z",
     "archived_at": "",
     "source_url": "https://github.com/typeonce-dev",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "UNICT-DMI",
     "id": 25122687,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MTIyNjg3",
@@ -1671,10 +1698,10 @@
     "updated_at": "2024-02-08T22:32:12Z",
     "archived_at": "",
     "source_url": "https://github.com/UNICT-DMI",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CompEngMS",
     "id": 87469785,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg3NDY5Nzg1",
@@ -1698,10 +1725,10 @@
     "updated_at": "2025-01-25T08:03:29Z",
     "archived_at": "",
     "source_url": "https://github.com/CompEngMS",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "KatharaFramework",
     "id": 42912149,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyOTEyMTQ5",
@@ -1720,15 +1747,15 @@
     "following": 0,
     "public_repos": 15,
     "public_gists": 0,
-    "total_stargazers": 943,
+    "total_stargazers": 944,
     "created_at": "2018-09-02T14:09:35Z",
     "updated_at": "2025-09-11T14:07:25Z",
     "archived_at": "",
     "source_url": "https://github.com/KatharaFramework",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "commercelayer",
     "id": 13379592,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzc5NTky",
@@ -1752,10 +1779,10 @@
     "updated_at": "2026-05-28T07:24:39Z",
     "archived_at": "",
     "source_url": "https://github.com/commercelayer",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "gbionics",
     "id": 191146588,
     "node_id": "O_kgDOC2SqXA",
@@ -1772,17 +1799,17 @@
     "description": "Amplifying humans",
     "followers": 97,
     "following": 0,
-    "public_repos": 67,
+    "public_repos": 66,
     "public_gists": 0,
-    "total_stargazers": 3093,
+    "total_stargazers": 3089,
     "created_at": "2024-12-09T16:43:14Z",
     "updated_at": "2026-06-25T08:07:10Z",
     "archived_at": "",
     "source_url": "https://github.com/gbionics",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "polimi-ispl",
     "id": 35815236,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1ODE1MjM2",
@@ -1806,10 +1833,10 @@
     "updated_at": "2025-12-19T17:11:14Z",
     "archived_at": "",
     "source_url": "https://github.com/polimi-ispl",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "nephila",
     "id": 630341,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMDM0MQ==",
@@ -1828,15 +1855,15 @@
     "following": 0,
     "public_repos": 117,
     "public_gists": 0,
-    "total_stargazers": 1851,
+    "total_stargazers": 1850,
     "created_at": "2011-02-21T17:19:12Z",
     "updated_at": "2026-06-23T11:31:48Z",
     "archived_at": "",
     "source_url": "https://github.com/nephila",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "freelensapp",
     "id": 172038998,
     "node_id": "O_kgDOCkEbVg",
@@ -1855,15 +1882,15 @@
     "following": 0,
     "public_repos": 21,
     "public_gists": 0,
-    "total_stargazers": 5492,
+    "total_stargazers": 5494,
     "created_at": "2024-06-07T12:05:27Z",
     "updated_at": "2025-05-17T16:00:48Z",
     "archived_at": "",
     "source_url": "https://github.com/freelensapp",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "pythonitalia",
     "id": 3573467,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NzM0Njc=",
@@ -1887,10 +1914,10 @@
     "updated_at": "2026-06-26T11:36:51Z",
     "archived_at": "",
     "source_url": "https://github.com/pythonitalia",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "unipr-org",
     "id": 155580100,
     "node_id": "O_kgDOCUX2xA",
@@ -1914,10 +1941,10 @@
     "updated_at": "2024-10-21T11:04:12Z",
     "archived_at": "",
     "source_url": "https://github.com/unipr-org",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "datocms",
     "id": 19649794,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NjQ5Nzk0",
@@ -1941,10 +1968,10 @@
     "updated_at": "2026-03-04T12:38:46Z",
     "archived_at": "",
     "source_url": "https://github.com/datocms",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "XENONnT",
     "id": 38148762,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTQ4NzYy",
@@ -1968,10 +1995,10 @@
     "updated_at": "2024-07-03T18:36:41Z",
     "archived_at": "",
     "source_url": "https://github.com/XENONnT",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "immobiliare",
     "id": 10090828,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMDkwODI4",
@@ -1995,10 +2022,10 @@
     "updated_at": "2026-07-02T11:51:28Z",
     "archived_at": "",
     "source_url": "https://github.com/immobiliare",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "neuron-core",
     "id": 230101083,
     "node_id": "O_kgDODbcQWw",
@@ -2022,10 +2049,10 @@
     "updated_at": "2026-05-02T10:34:43Z",
     "archived_at": "",
     "source_url": "https://github.com/neuron-core",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "TdP-2024",
     "id": 158473828,
     "node_id": "O_kgDOCXIeZA",
@@ -2049,10 +2076,10 @@
     "updated_at": "2024-02-11T21:18:35Z",
     "archived_at": "",
     "source_url": "https://github.com/TdP-2024",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Polito-DS-Python",
     "id": 100859065,
     "node_id": "O_kgDOBgL8uQ",
@@ -2076,10 +2103,10 @@
     "updated_at": "2022-03-03T17:31:00Z",
     "archived_at": "",
     "source_url": "https://github.com/Polito-DS-Python",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "MilaNLProc",
     "id": 61321459,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMzIxNDU5",
@@ -2103,10 +2130,10 @@
     "updated_at": "2023-06-26T14:02:40Z",
     "archived_at": "",
     "source_url": "https://github.com/MilaNLProc",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "AIRLab-POLIMI",
     "id": 4557759,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1NTc3NTk=",
@@ -2125,15 +2152,15 @@
     "following": 0,
     "public_repos": 105,
     "public_gists": 0,
-    "total_stargazers": 483,
+    "total_stargazers": 485,
     "created_at": "2013-05-29T08:23:37Z",
     "updated_at": "2023-11-02T15:27:30Z",
     "archived_at": "",
     "source_url": "https://github.com/AIRLab-POLIMI",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ASEM-ApplicationSoftwareEngineers",
     "id": 108118798,
     "node_id": "O_kgDOBnHDDg",
@@ -2157,10 +2184,10 @@
     "updated_at": "2025-04-08T09:49:04Z",
     "archived_at": "",
     "source_url": "https://github.com/ASEM-ApplicationSoftwareEngineers",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "krateoplatformops",
     "id": 92428760,
     "node_id": "O_kgDOBYJZ2A",
@@ -2184,10 +2211,10 @@
     "updated_at": "2026-06-21T07:15:52Z",
     "archived_at": "",
     "source_url": "https://github.com/krateoplatformops",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ministero-salute",
     "id": 83289033,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgzMjg5MDMz",
@@ -2211,10 +2238,10 @@
     "updated_at": "2026-06-11T18:44:50Z",
     "archived_at": "",
     "source_url": "https://github.com/ministero-salute",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "buildwiththeta",
     "id": 101754464,
     "node_id": "O_kgDOBhCmYA",
@@ -2238,10 +2265,10 @@
     "updated_at": "2023-11-18T08:00:00Z",
     "archived_at": "",
     "source_url": "https://github.com/buildwiththeta",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "g3w-suite",
     "id": 36107737,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MTA3NzM3",
@@ -2265,10 +2292,10 @@
     "updated_at": "2026-04-23T12:35:00Z",
     "archived_at": "",
     "source_url": "https://github.com/g3w-suite",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ReactBricks",
     "id": 60979227,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwOTc5MjI3",
@@ -2292,10 +2319,10 @@
     "updated_at": "2023-12-27T10:08:18Z",
     "archived_at": "",
     "source_url": "https://github.com/ReactBricks",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mosaico-labs",
     "id": 214657134,
     "node_id": "O_kgDODMtobg",
@@ -2319,10 +2346,10 @@
     "updated_at": "2025-10-01T08:11:00Z",
     "archived_at": "",
     "source_url": "https://github.com/mosaico-labs",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "FIUP",
     "id": 8012686,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwMTI2ODY=",
@@ -2346,10 +2373,10 @@
     "updated_at": "2017-09-15T06:27:29Z",
     "archived_at": "",
     "source_url": "https://github.com/FIUP",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "INGV",
     "id": 6804786,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY4MDQ3ODY=",
@@ -2366,17 +2393,17 @@
     "description": "",
     "followers": 70,
     "following": 0,
-    "public_repos": 76,
+    "public_repos": 77,
     "public_gists": 0,
     "total_stargazers": 142,
     "created_at": "2014-02-27T12:38:03Z",
     "updated_at": "2025-10-17T12:55:54Z",
     "archived_at": "",
     "source_url": "https://github.com/INGV",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "OliCyberIT",
     "id": 84079599,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0MDc5NTk5",
@@ -2400,10 +2427,10 @@
     "updated_at": "2023-09-14T08:06:38Z",
     "archived_at": "",
     "source_url": "https://github.com/OliCyberIT",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "UniversitaDellaCalabria",
     "id": 46786919,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2Nzg2OTE5",
@@ -2427,10 +2454,10 @@
     "updated_at": "2025-04-04T11:55:34Z",
     "archived_at": "",
     "source_url": "https://github.com/UniversitaDellaCalabria",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "hack-gpon",
     "id": 110607292,
     "node_id": "O_kgDOBpe7vA",
@@ -2454,10 +2481,10 @@
     "updated_at": "2022-12-17T15:03:26Z",
     "archived_at": "",
     "source_url": "https://github.com/hack-gpon",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "builders-garden",
     "id": 151579357,
     "node_id": "O_kgDOCQjq3Q",
@@ -2481,10 +2508,10 @@
     "updated_at": "2026-03-12T11:43:46Z",
     "archived_at": "",
     "source_url": "https://github.com/builders-garden",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "noi-techpark",
     "id": 20104760,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMTA0NzYw",
@@ -2508,10 +2535,10 @@
     "updated_at": "2026-03-11T10:13:16Z",
     "archived_at": "",
     "source_url": "https://github.com/noi-techpark",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CybersecNatLab",
     "id": 100370534,
     "node_id": "O_kgDOBfuIZg",
@@ -2535,10 +2562,10 @@
     "updated_at": "2026-03-24T08:23:51Z",
     "archived_at": "",
     "source_url": "https://github.com/CybersecNatLab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Luce-Org",
     "id": 252732698,
     "node_id": "O_kgDODxBlGg",
@@ -2557,15 +2584,15 @@
     "following": 0,
     "public_repos": 3,
     "public_gists": 0,
-    "total_stargazers": 2678,
+    "total_stargazers": 2676,
     "created_at": "2026-01-03T12:03:26Z",
     "updated_at": "2026-06-20T23:45:31Z",
     "archived_at": "",
     "source_url": "https://github.com/Luce-Org",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ZiggyCreatures",
     "id": 111681189,
     "node_id": "O_kgDOBqgepQ",
@@ -2584,15 +2611,15 @@
     "following": 0,
     "public_repos": 1,
     "public_gists": 0,
-    "total_stargazers": 3816,
+    "total_stargazers": 3819,
     "created_at": "2022-08-21T08:50:54Z",
     "updated_at": "2022-08-21T10:06:53Z",
     "archived_at": "",
     "source_url": "https://github.com/ZiggyCreatures",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "openapi",
     "id": 239177194,
     "node_id": "O_kgDODkGN6g",
@@ -2616,10 +2643,10 @@
     "updated_at": "2026-05-05T09:36:26Z",
     "archived_at": "",
     "source_url": "https://github.com/openapi",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "TdP-2023",
     "id": 123157902,
     "node_id": "O_kgDOB1c9jg",
@@ -2643,10 +2670,10 @@
     "updated_at": "2023-02-20T23:23:38Z",
     "archived_at": "",
     "source_url": "https://github.com/TdP-2023",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "antares-sql",
     "id": 102599443,
     "node_id": "O_kgDOBh2LEw",
@@ -2665,15 +2692,15 @@
     "following": 0,
     "public_repos": 5,
     "public_gists": 0,
-    "total_stargazers": 2664,
+    "total_stargazers": 2665,
     "created_at": "2022-03-29T12:53:12Z",
     "updated_at": "2024-01-08T12:04:14Z",
     "archived_at": "",
     "source_url": "https://github.com/antares-sql",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "robotics-knowledgebase-iit",
     "id": 128598448,
     "node_id": "O_kgDOB6pBsA",
@@ -2697,10 +2724,10 @@
     "updated_at": "2026-06-22T17:04:46Z",
     "archived_at": "",
     "source_url": "https://github.com/robotics-knowledgebase-iit",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "unibo",
     "id": 1649599,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDk1OTk=",
@@ -2724,10 +2751,10 @@
     "updated_at": "2021-06-28T08:41:55Z",
     "archived_at": "",
     "source_url": "https://github.com/unibo",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "cegeka",
     "id": 1333450,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzM0NTA=",
@@ -2751,10 +2778,10 @@
     "updated_at": "2026-07-04T07:04:28Z",
     "archived_at": "",
     "source_url": "https://github.com/cegeka",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sighupio",
     "id": 29403644,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5NDAzNjQ0",
@@ -2778,10 +2805,10 @@
     "updated_at": "2025-09-26T10:19:40Z",
     "archived_at": "",
     "source_url": "https://github.com/sighupio",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Sapienza-ACSAI",
     "id": 136842201,
     "node_id": "O_kgDOCCgL2Q",
@@ -2805,10 +2832,10 @@
     "updated_at": "2023-06-22T12:14:54Z",
     "archived_at": "",
     "source_url": "https://github.com/Sapienza-ACSAI",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "unicam-cs-algorithms-lab",
     "id": 75489059,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1NDg5MDU5",
@@ -2832,10 +2859,10 @@
     "updated_at": "2025-10-02T07:03:15Z",
     "archived_at": "",
     "source_url": "https://github.com/unicam-cs-algorithms-lab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "BitPolito",
     "id": 80687759,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwNjg3NzU5",
@@ -2859,10 +2886,10 @@
     "updated_at": "2025-08-15T18:38:49Z",
     "archived_at": "",
     "source_url": "https://github.com/BitPolito",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "BocconiStudentsFinancialMarkets",
     "id": 183654104,
     "node_id": "O_kgDOCvJW2A",
@@ -2886,10 +2913,10 @@
     "updated_at": "2024-10-03T15:05:51Z",
     "archived_at": "",
     "source_url": "https://github.com/BocconiStudentsFinancialMarkets",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "openapi-it",
     "id": 67429652,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NDI5NjUy",
@@ -2913,10 +2940,10 @@
     "updated_at": "2025-09-18T14:12:20Z",
     "archived_at": "",
     "source_url": "https://github.com/openapi-it",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "pralab",
     "id": 44476529,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0NDc2NTI5",
@@ -2935,15 +2962,15 @@
     "following": 0,
     "public_repos": 30,
     "public_gists": 0,
-    "total_stargazers": 805,
+    "total_stargazers": 804,
     "created_at": "2018-10-25T16:58:45Z",
     "updated_at": "2024-09-17T16:53:13Z",
     "archived_at": "",
     "source_url": "https://github.com/pralab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "cosmoimd",
     "id": 126181931,
     "node_id": "O_kgDOB4ViKw",
@@ -2967,10 +2994,10 @@
     "updated_at": "2025-08-31T21:56:32Z",
     "archived_at": "",
     "source_url": "https://github.com/cosmoimd",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "md-cs-student-unipi",
     "id": 47542441,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3NTQyNDQx",
@@ -2994,10 +3021,10 @@
     "updated_at": "2019-02-12T00:22:18Z",
     "archived_at": "",
     "source_url": "https://github.com/md-cs-student-unipi",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "xtreamsrl",
     "id": 38501645,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4NTAxNjQ1",
@@ -3021,10 +3048,10 @@
     "updated_at": "2025-11-12T09:45:55Z",
     "archived_at": "",
     "source_url": "https://github.com/xtreamsrl",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CMCC-Foundation",
     "id": 26088734,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MDg4NzM0",
@@ -3048,10 +3075,10 @@
     "updated_at": "2025-06-11T14:05:18Z",
     "archived_at": "",
     "source_url": "https://github.com/CMCC-Foundation",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "arkemis",
     "id": 81776361,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxNzc2MzYx",
@@ -3075,10 +3102,10 @@
     "updated_at": "2026-02-09T22:46:34Z",
     "archived_at": "",
     "source_url": "https://github.com/arkemis",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "boolean-it",
     "id": 124527454,
     "node_id": "O_kgDOB2wjXg",
@@ -3102,10 +3129,10 @@
     "updated_at": "2025-10-01T13:53:23Z",
     "archived_at": "",
     "source_url": "https://github.com/boolean-it",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Babelscape",
     "id": 90899893,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjkwODk5ODkz",
@@ -3129,10 +3156,10 @@
     "updated_at": "2021-09-17T09:20:34Z",
     "archived_at": "",
     "source_url": "https://github.com/Babelscape",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "MachineLearningJournalClub",
     "id": 71293183,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxMjkzMTgz",
@@ -3156,10 +3183,10 @@
     "updated_at": "2021-04-20T23:47:53Z",
     "archived_at": "",
     "source_url": "https://github.com/MachineLearningJournalClub",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sftpgo",
     "id": 86827897,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg2ODI3ODk3",
@@ -3183,10 +3210,10 @@
     "updated_at": "2026-03-03T08:07:52Z",
     "archived_at": "",
     "source_url": "https://github.com/sftpgo",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Security-Cert",
     "id": 109162919,
     "node_id": "O_kgDOBoGxpw",
@@ -3210,10 +3237,10 @@
     "updated_at": "2023-05-12T12:17:22Z",
     "archived_at": "",
     "source_url": "https://github.com/Security-Cert",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Arubacloud",
     "id": 15632264,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1NjMyMjY0",
@@ -3237,37 +3264,10 @@
     "updated_at": "2026-05-22T08:39:55Z",
     "archived_at": "",
     "source_url": "https://github.com/Arubacloud",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
-    "login": "deltatre-innovation-lab",
-    "id": 148959014,
-    "node_id": "O_kgDOCODvJg",
-    "name": "Deltatre Innovation Lab",
-    "github_url": "https://github.com/deltatre-innovation-lab",
-    "avatar_url": "https://avatars.githubusercontent.com/u/148959014?v=4",
-    "website": "https://www.deltatre.com",
-    "location": "Italy",
-    "email": "",
-    "twitter_username": "",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "Innovation Lab Organization",
-    "followers": 53,
-    "following": 0,
-    "public_repos": 0,
-    "public_gists": 0,
-    "total_stargazers": 0,
-    "created_at": "2023-10-25T09:08:04Z",
-    "updated_at": "2026-07-06T11:52:57Z",
-    "archived_at": "",
-    "source_url": "https://github.com/deltatre-innovation-lab",
-    "last_checked": "2026-07-10"
-  },
-  {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mindedsecurity",
     "id": 17493359,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NDkzMzU5",
@@ -3291,10 +3291,10 @@
     "updated_at": "2025-07-01T07:11:02Z",
     "archived_at": "",
     "source_url": "https://github.com/mindedsecurity",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sna-unipi",
     "id": 48546812,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NTQ2ODEy",
@@ -3318,10 +3318,10 @@
     "updated_at": "2026-06-14T13:06:08Z",
     "archived_at": "",
     "source_url": "https://github.com/sna-unipi",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CalcolatoriElettronici",
     "id": 59059905,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5MDU5OTA1",
@@ -3342,13 +3342,13 @@
     "public_gists": 0,
     "total_stargazers": 0,
     "created_at": "2019-12-19T15:37:47Z",
-    "updated_at": "2026-06-10T17:37:37Z",
+    "updated_at": "2026-07-10T13:20:26Z",
     "archived_at": "",
     "source_url": "https://github.com/CalcolatoriElettronici",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ICTP",
     "id": 94847198,
     "node_id": "O_kgDOBadA3g",
@@ -3372,10 +3372,10 @@
     "updated_at": "2021-11-22T14:09:57Z",
     "archived_at": "",
     "source_url": "https://github.com/ICTP",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "agile-lab-dev",
     "id": 22298838,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMjk4ODM4",
@@ -3392,17 +3392,44 @@
     "description": "",
     "followers": 52,
     "following": 0,
-    "public_repos": 118,
+    "public_repos": 119,
     "public_gists": 0,
     "total_stargazers": 405,
     "created_at": "2016-09-19T15:02:27Z",
     "updated_at": "2025-09-28T11:57:54Z",
     "archived_at": "",
     "source_url": "https://github.com/agile-lab-dev",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "deltatre-innovation-lab",
+    "id": 148959014,
+    "node_id": "O_kgDOCODvJg",
+    "name": "Deltatre Innovation Lab",
+    "github_url": "https://github.com/deltatre-innovation-lab",
+    "avatar_url": "https://avatars.githubusercontent.com/u/148959014?v=4",
+    "website": "https://www.deltatre.com",
+    "location": "Italy",
+    "email": "",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "Innovation Lab Organization",
+    "followers": 52,
+    "following": 0,
+    "public_repos": 0,
+    "public_gists": 0,
+    "total_stargazers": 0,
+    "created_at": "2023-10-25T09:08:04Z",
+    "updated_at": "2026-07-06T11:52:57Z",
+    "archived_at": "",
+    "source_url": "https://github.com/deltatre-innovation-lab",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "prisma-lab",
     "id": 79501376,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc5NTAxMzc2",
@@ -3426,10 +3453,10 @@
     "updated_at": "2025-02-27T18:12:12Z",
     "archived_at": "",
     "source_url": "https://github.com/prisma-lab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sparkfabrik",
     "id": 11347456,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMzQ3NDU2",
@@ -3453,10 +3480,10 @@
     "updated_at": "2024-04-15T13:44:46Z",
     "archived_at": "",
     "source_url": "https://github.com/sparkfabrik",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Cineca",
     "id": 5978686,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5Nzg2ODY=",
@@ -3480,10 +3507,10 @@
     "updated_at": "2025-02-02T20:50:47Z",
     "archived_at": "",
     "source_url": "https://github.com/Cineca",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "OctoGramApp",
     "id": 132221345,
     "node_id": "O_kgDOB-GJoQ",
@@ -3507,10 +3534,10 @@
     "updated_at": "2025-05-09T06:52:20Z",
     "archived_at": "",
     "source_url": "https://github.com/OctoGramApp",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "consiglionazionaledellericerche",
     "id": 52047892,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjUyMDQ3ODky",
@@ -3534,10 +3561,10 @@
     "updated_at": "2023-02-21T08:39:41Z",
     "archived_at": "",
     "source_url": "https://github.com/consiglionazionaledellericerche",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "openpolis",
     "id": 165444,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NTQ0NA==",
@@ -3561,10 +3588,10 @@
     "updated_at": "2020-06-01T18:16:26Z",
     "archived_at": "",
     "source_url": "https://github.com/openpolis",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ECSC2024",
     "id": 91921128,
     "node_id": "O_kgDOBXqa6A",
@@ -3588,10 +3615,10 @@
     "updated_at": "2024-10-24T09:40:37Z",
     "archived_at": "",
     "source_url": "https://github.com/ECSC2024",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mhackeroni",
     "id": 39096476,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5MDk2NDc2",
@@ -3615,10 +3642,10 @@
     "updated_at": "2020-12-10T23:00:12Z",
     "archived_at": "",
     "source_url": "https://github.com/mhackeroni",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "nebulab",
     "id": 809406,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwOTQwNg==",
@@ -3642,10 +3669,10 @@
     "updated_at": "2025-04-07T14:38:07Z",
     "archived_at": "",
     "source_url": "https://github.com/nebulab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "necst",
     "id": 3810082,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTAwODI=",
@@ -3669,10 +3696,10 @@
     "updated_at": "2026-06-22T11:44:06Z",
     "archived_at": "",
     "source_url": "https://github.com/necst",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sebaubuntu-python",
     "id": 112213863,
     "node_id": "O_kgDOBrA_Zw",
@@ -3696,10 +3723,10 @@
     "updated_at": "2026-04-16T14:15:41Z",
     "archived_at": "",
     "source_url": "https://github.com/sebaubuntu-python",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "AidaDSP",
     "id": 12369993,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMzY5OTkz",
@@ -3723,10 +3750,10 @@
     "updated_at": "2021-01-05T09:29:52Z",
     "archived_at": "",
     "source_url": "https://github.com/AidaDSP",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "TwentyTwoHW",
     "id": 161131788,
     "node_id": "O_kgDOCZqtDA",
@@ -3750,10 +3777,10 @@
     "updated_at": "2024-02-24T12:24:49Z",
     "archived_at": "",
     "source_url": "https://github.com/TwentyTwoHW",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "newcleo-dev-team",
     "id": 113201176,
     "node_id": "O_kgDOBr9QGA",
@@ -3777,10 +3804,10 @@
     "updated_at": "2022-09-21T08:00:15Z",
     "archived_at": "",
     "source_url": "https://github.com/newcleo-dev-team",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CyberChallengeIT",
     "id": 24654739,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0NjU0NzM5",
@@ -3804,10 +3831,10 @@
     "updated_at": "2023-09-14T08:10:59Z",
     "archived_at": "",
     "source_url": "https://github.com/CyberChallengeIT",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ProjectoOfficial",
     "id": 50033436,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwMDMzNDM2",
@@ -3831,10 +3858,10 @@
     "updated_at": "2024-08-31T20:36:21Z",
     "archived_at": "",
     "source_url": "https://github.com/ProjectoOfficial",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "TheSignAcademy",
     "id": 45494274,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1NDk0Mjc0",
@@ -3858,10 +3885,10 @@
     "updated_at": "2019-12-10T09:50:59Z",
     "archived_at": "",
     "source_url": "https://github.com/TheSignAcademy",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "polito-aw1-2025-exams",
     "id": 200395760,
     "node_id": "O_kgDOC_HL8A",
@@ -3885,10 +3912,10 @@
     "updated_at": "2026-06-25T19:26:01Z",
     "archived_at": "",
     "source_url": "https://github.com/polito-aw1-2025-exams",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Cyber-HackAdemy-UniNa",
     "id": 81577836,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxNTc3ODM2",
@@ -3912,10 +3939,37 @@
     "updated_at": "2021-10-20T15:54:27Z",
     "archived_at": "",
     "source_url": "https://github.com/Cyber-HackAdemy-UniNa",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "event-driven-robotics",
+    "id": 43171016,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMTcxMDE2",
+    "name": "Event Driven Perception for Robotics",
+    "github_url": "https://github.com/event-driven-robotics",
+    "avatar_url": "https://avatars.githubusercontent.com/u/43171016?v=4",
+    "website": "https://edpr.iit.it/",
+    "location": "Genova, Italy",
+    "email": "",
+    "twitter_username": "",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "Advancing robotics through event-driven sensing and algorithms",
+    "followers": 47,
+    "following": 0,
+    "public_repos": 71,
+    "public_gists": 0,
+    "total_stargazers": 190,
+    "created_at": "2018-09-11T10:22:40Z",
+    "updated_at": "2026-07-03T13:06:49Z",
+    "archived_at": "",
+    "source_url": "https://github.com/event-driven-robotics",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "satispay-tech",
     "id": 200069117,
     "node_id": "O_kgDOC-zP_Q",
@@ -3939,10 +3993,10 @@
     "updated_at": "2026-07-03T12:43:52Z",
     "archived_at": "",
     "source_url": "https://github.com/satispay-tech",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CentroEPiaggio",
     "id": 4688155,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2ODgxNTU=",
@@ -3966,10 +4020,10 @@
     "updated_at": "2026-06-22T11:46:57Z",
     "archived_at": "",
     "source_url": "https://github.com/CentroEPiaggio",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "EOS-Solutions",
     "id": 72969832,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyOTY5ODMy",
@@ -3993,10 +4047,10 @@
     "updated_at": "2023-07-03T13:34:24Z",
     "archived_at": "",
     "source_url": "https://github.com/EOS-Solutions",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "datalogic",
     "id": 15417301,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1NDE3MzAx",
@@ -4020,37 +4074,10 @@
     "updated_at": "2026-05-11T10:29:00Z",
     "archived_at": "",
     "source_url": "https://github.com/datalogic",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
-    "login": "event-driven-robotics",
-    "id": 43171016,
-    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMTcxMDE2",
-    "name": "Event Driven Perception for Robotics",
-    "github_url": "https://github.com/event-driven-robotics",
-    "avatar_url": "https://avatars.githubusercontent.com/u/43171016?v=4",
-    "website": "https://edpr.iit.it/",
-    "location": "Genova, Italy",
-    "email": "",
-    "twitter_username": "",
-    "sector": "N/D",
-    "verified": false,
-    "account_type": "Organization",
-    "description": "Advancing robotics through event-driven sensing and algorithms",
-    "followers": 46,
-    "following": 0,
-    "public_repos": 71,
-    "public_gists": 0,
-    "total_stargazers": 190,
-    "created_at": "2018-09-11T10:22:40Z",
-    "updated_at": "2026-07-03T13:06:49Z",
-    "archived_at": "",
-    "source_url": "https://github.com/event-driven-robotics",
-    "last_checked": "2026-07-10"
-  },
-  {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "idra-lab",
     "id": 141674984,
     "node_id": "O_kgDOCHHJ6A",
@@ -4074,10 +4101,10 @@
     "updated_at": "2026-03-05T17:51:52Z",
     "archived_at": "",
     "source_url": "https://github.com/idra-lab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "vlsi-lab",
     "id": 139478232,
     "node_id": "O_kgDOCFBE2A",
@@ -4101,10 +4128,10 @@
     "updated_at": "2024-09-16T15:13:03Z",
     "archived_at": "",
     "source_url": "https://github.com/vlsi-lab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ArtisanROM",
     "id": 211623415,
     "node_id": "O_kgDODJ0d9w",
@@ -4123,15 +4150,15 @@
     "following": 0,
     "public_repos": 2,
     "public_gists": 0,
-    "total_stargazers": 167,
+    "total_stargazers": 168,
     "created_at": "2025-05-14T05:51:14Z",
     "updated_at": "2026-02-01T14:10:01Z",
     "archived_at": "",
     "source_url": "https://github.com/ArtisanROM",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "downthemall",
     "id": 1041247,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNDEyNDc=",
@@ -4155,10 +4182,10 @@
     "updated_at": "2019-08-31T11:48:45Z",
     "archived_at": "",
     "source_url": "https://github.com/downthemall",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "monocasual",
     "id": 752122,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1MjEyMg==",
@@ -4182,10 +4209,10 @@
     "updated_at": "2026-05-04T19:32:32Z",
     "archived_at": "",
     "source_url": "https://github.com/monocasual",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "osservatorionessuno",
     "id": 139704480,
     "node_id": "O_kgDOCFO4oA",
@@ -4204,15 +4231,15 @@
     "following": 0,
     "public_repos": 13,
     "public_gists": 0,
-    "total_stargazers": 85,
+    "total_stargazers": 86,
     "created_at": "2023-07-16T16:21:34Z",
     "updated_at": "2026-06-13T16:16:27Z",
     "archived_at": "",
     "source_url": "https://github.com/osservatorionessuno",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "prometeia-erm",
     "id": 67694014,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3Njk0MDE0",
@@ -4236,10 +4263,10 @@
     "updated_at": "2025-06-26T07:26:51Z",
     "archived_at": "",
     "source_url": "https://github.com/prometeia-erm",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "squadracorsepolito",
     "id": 114907337,
     "node_id": "O_kgDOBtlYyQ",
@@ -4263,10 +4290,10 @@
     "updated_at": "2024-08-22T12:13:30Z",
     "archived_at": "",
     "source_url": "https://github.com/squadracorsepolito",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "PoliNetworkOrg",
     "id": 88196060,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4MTk2MDYw",
@@ -4290,10 +4317,10 @@
     "updated_at": "2026-07-08T15:01:48Z",
     "archived_at": "",
     "source_url": "https://github.com/PoliNetworkOrg",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "beelzebub-labs",
     "id": 224001860,
     "node_id": "O_kgDODVn_RA",
@@ -4312,15 +4339,15 @@
     "following": 0,
     "public_repos": 7,
     "public_gists": 0,
-    "total_stargazers": 2194,
+    "total_stargazers": 2195,
     "created_at": "2025-08-01T06:09:26Z",
     "updated_at": "2026-04-15T09:51:19Z",
     "archived_at": "",
     "source_url": "https://github.com/beelzebub-labs",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "code-with-the-italians",
     "id": 85075331,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg1MDc1MzMx",
@@ -4344,10 +4371,10 @@
     "updated_at": "2023-08-07T12:29:01Z",
     "archived_at": "",
     "source_url": "https://github.com/code-with-the-italians",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sisinflab",
     "id": 10351909,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMzUxOTA5",
@@ -4371,10 +4398,10 @@
     "updated_at": "2024-04-05T17:08:49Z",
     "archived_at": "",
     "source_url": "https://github.com/sisinflab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Datamasters-it",
     "id": 84441800,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0NDQxODAw",
@@ -4398,10 +4425,10 @@
     "updated_at": "2026-02-18T13:48:51Z",
     "archived_at": "",
     "source_url": "https://github.com/Datamasters-it",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "OBJEX-Labs",
     "id": 139107097,
     "node_id": "O_kgDOCEqbGQ",
@@ -4425,10 +4452,10 @@
     "updated_at": "2023-07-31T16:09:16Z",
     "archived_at": "",
     "source_url": "https://github.com/OBJEX-Labs",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Pwnzer0tt1",
     "id": 107208935,
     "node_id": "O_kgDOBmPg5w",
@@ -4452,10 +4479,10 @@
     "updated_at": "2024-07-07T14:11:15Z",
     "archived_at": "",
     "source_url": "https://github.com/Pwnzer0tt1",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "UnivaqStudentHub",
     "id": 114529256,
     "node_id": "O_kgDOBtOT6A",
@@ -4479,10 +4506,10 @@
     "updated_at": "2023-06-28T20:57:28Z",
     "archived_at": "",
     "source_url": "https://github.com/UnivaqStudentHub",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "dataciviclab",
     "id": 256891008,
     "node_id": "O_kgDOD0_YgA",
@@ -4506,10 +4533,10 @@
     "updated_at": "2026-06-29T09:21:17Z",
     "archived_at": "",
     "source_url": "https://github.com/dataciviclab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "sissa",
     "id": 8207564,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyMDc1NjQ=",
@@ -4533,10 +4560,10 @@
     "updated_at": "2021-03-06T17:35:19Z",
     "archived_at": "",
     "source_url": "https://github.com/sissa",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "CoralMC-It",
     "id": 77752855,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3NzUyODU1",
@@ -4560,10 +4587,10 @@
     "updated_at": "2026-01-29T00:49:35Z",
     "archived_at": "",
     "source_url": "https://github.com/CoralMC-It",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "MAL-TO",
     "id": 75506848,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1NTA2ODQ4",
@@ -4587,10 +4614,10 @@
     "updated_at": "2025-11-11T11:33:58Z",
     "archived_at": "",
     "source_url": "https://github.com/MAL-TO",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Unipd-Object-Oriented-Programming",
     "id": 118547578,
     "node_id": "O_kgDOBxDkeg",
@@ -4614,10 +4641,10 @@
     "updated_at": "2022-11-18T15:03:03Z",
     "archived_at": "",
     "source_url": "https://github.com/Unipd-Object-Oriented-Programming",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "olimpiadi-informatica",
     "id": 10385261,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMzg1MjYx",
@@ -4641,10 +4668,10 @@
     "updated_at": "2020-05-08T09:16:45Z",
     "archived_at": "",
     "source_url": "https://github.com/olimpiadi-informatica",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "orobix",
     "id": 517786,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxNzc4Ng==",
@@ -4668,10 +4695,10 @@
     "updated_at": "2021-06-03T14:04:41Z",
     "archived_at": "",
     "source_url": "https://github.com/orobix",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "JuliaSpaceMissionDesign",
     "id": 130855339,
     "node_id": "O_kgDOB8yxqw",
@@ -4695,10 +4722,10 @@
     "updated_at": "2023-11-11T16:31:03Z",
     "archived_at": "",
     "source_url": "https://github.com/JuliaSpaceMissionDesign",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Riverscapes",
     "id": 21980921,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxOTgwOTIx",
@@ -4722,10 +4749,10 @@
     "updated_at": "2025-12-11T17:34:11Z",
     "archived_at": "",
     "source_url": "https://github.com/Riverscapes",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "defstudio",
     "id": 77104699,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3MTA0Njk5",
@@ -4749,10 +4776,10 @@
     "updated_at": "2025-01-23T09:17:51Z",
     "archived_at": "",
     "source_url": "https://github.com/defstudio",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "drindrin-tech",
     "id": 179411104,
     "node_id": "O_kgDOCrGYoA",
@@ -4776,10 +4803,10 @@
     "updated_at": "2024-12-21T18:19:33Z",
     "archived_at": "",
     "source_url": "https://github.com/drindrin-tech",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "namirialgroup",
     "id": 88099653,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4MDk5NjUz",
@@ -4803,10 +4830,10 @@
     "updated_at": "2026-05-25T10:57:40Z",
     "archived_at": "",
     "source_url": "https://github.com/namirialgroup",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "HPC-Courses",
     "id": 108921634,
     "node_id": "O_kgDOBn4DIg",
@@ -4830,10 +4857,10 @@
     "updated_at": "2026-06-20T15:23:35Z",
     "archived_at": "",
     "source_url": "https://github.com/HPC-Courses",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ItsVixano-releases",
     "id": 105283431,
     "node_id": "O_kgDOBkZ_Zw",
@@ -4857,10 +4884,37 @@
     "updated_at": "2025-05-23T22:12:42Z",
     "archived_at": "",
     "source_url": "https://github.com/ItsVixano-releases",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
+    "login": "OpenOSINT",
+    "id": 281987694,
+    "node_id": "O_kgDOEM7Kbg",
+    "name": "OpenOSINT",
+    "github_url": "https://github.com/OpenOSINT",
+    "avatar_url": "https://avatars.githubusercontent.com/u/281987694?v=4",
+    "website": "openosint.tech",
+    "location": "Italy",
+    "email": "openosint@yahoo.com",
+    "twitter_username": "openosint_oss",
+    "sector": "N/D",
+    "verified": false,
+    "account_type": "Organization",
+    "description": "AI-powered OSINT agent for the terminal. Investigate emails, usernames, domains and more using Claude, GPT-5 or local models.",
+    "followers": 40,
+    "following": 0,
+    "public_repos": 1,
+    "public_gists": 0,
+    "total_stargazers": 954,
+    "created_at": "2026-05-05T15:37:35Z",
+    "updated_at": "2026-06-11T12:46:31Z",
+    "archived_at": "",
+    "source_url": "https://github.com/OpenOSINT",
+    "last_checked": "2026-07-11"
+  },
+  {
+    "snapshot_date": "2026-07-11",
     "login": "ShielderSec",
     "id": 24564748,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0NTY0NzQ4",
@@ -4884,10 +4938,10 @@
     "updated_at": "2022-11-13T13:24:05Z",
     "archived_at": "",
     "source_url": "https://github.com/ShielderSec",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "aclai-lab",
     "id": 85283724,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg1MjgzNzI0",
@@ -4911,10 +4965,10 @@
     "updated_at": "2026-07-04T14:07:53Z",
     "archived_at": "",
     "source_url": "https://github.com/aclai-lab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "eml-eda",
     "id": 92807261,
     "node_id": "O_kgDOBYggXQ",
@@ -4933,15 +4987,15 @@
     "following": 0,
     "public_repos": 55,
     "public_gists": 0,
-    "total_stargazers": 258,
+    "total_stargazers": 259,
     "created_at": "2021-10-19T15:10:50Z",
     "updated_at": "2022-11-30T11:41:23Z",
     "archived_at": "",
     "source_url": "https://github.com/eml-eda",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "gethecookie",
     "id": 67701707,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NzAxNzA3",
@@ -4965,10 +5019,10 @@
     "updated_at": "2022-05-10T09:10:11Z",
     "archived_at": "",
     "source_url": "https://github.com/gethecookie",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "ventunobtc",
     "id": 104630549,
     "node_id": "O_kgDOBjyJFQ",
@@ -4992,10 +5046,10 @@
     "updated_at": "2023-06-21T02:02:53Z",
     "archived_at": "",
     "source_url": "https://github.com/ventunobtc",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Katamaze",
     "id": 43917566,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzOTE3NTY2",
@@ -5019,10 +5073,10 @@
     "updated_at": "2020-07-23T10:20:24Z",
     "archived_at": "",
     "source_url": "https://github.com/Katamaze",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "NON-OS",
     "id": 207671087,
     "node_id": "O_kgDODGDPLw",
@@ -5046,10 +5100,10 @@
     "updated_at": "2026-03-18T18:11:48Z",
     "archived_at": "",
     "source_url": "https://github.com/NON-OS",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "RegestaItalia",
     "id": 88669807,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NjY5ODA3",
@@ -5070,13 +5124,13 @@
     "public_gists": 0,
     "total_stargazers": 21,
     "created_at": "2021-08-09T14:12:12Z",
-    "updated_at": "2026-07-06T08:54:19Z",
+    "updated_at": "2026-07-10T10:10:54Z",
     "archived_at": "",
     "source_url": "https://github.com/RegestaItalia",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "VicidominiLab",
     "id": 61466143,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDY2MTQz",
@@ -5095,15 +5149,15 @@
     "following": 0,
     "public_repos": 31,
     "public_gists": 0,
-    "total_stargazers": 73,
+    "total_stargazers": 74,
     "created_at": "2020-02-25T14:53:13Z",
     "updated_at": "2025-06-10T14:05:19Z",
     "archived_at": "",
     "source_url": "https://github.com/VicidominiLab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "WEEE-Open",
     "id": 23727644,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzNzI3NjQ0",
@@ -5127,10 +5181,10 @@
     "updated_at": "2018-09-06T08:12:17Z",
     "archived_at": "",
     "source_url": "https://github.com/WEEE-Open",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "grok-ai",
     "id": 98948901,
     "node_id": "O_kgDOBeXXJQ",
@@ -5154,10 +5208,10 @@
     "updated_at": "2025-02-20T14:19:08Z",
     "archived_at": "",
     "source_url": "https://github.com/grok-ai",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "mint-ai",
     "id": 113363539,
     "node_id": "O_kgDOBsHKUw",
@@ -5181,10 +5235,10 @@
     "updated_at": "2026-05-25T09:46:36Z",
     "archived_at": "",
     "source_url": "https://github.com/mint-ai",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "netgroup-polito",
     "id": 12692536,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNjkyNTM2",
@@ -5208,10 +5262,10 @@
     "updated_at": "2026-07-08T11:56:01Z",
     "archived_at": "",
     "source_url": "https://github.com/netgroup-polito",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "tsi-unito",
     "id": 111878613,
     "node_id": "O_kgDOBqsh1Q",
@@ -5235,10 +5289,10 @@
     "updated_at": "2025-05-08T15:49:33Z",
     "archived_at": "",
     "source_url": "https://github.com/tsi-unito",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "zupit-it",
     "id": 113027692,
     "node_id": "O_kgDOBryqbA",
@@ -5262,10 +5316,10 @@
     "updated_at": "2026-07-06T07:25:15Z",
     "archived_at": "",
     "source_url": "https://github.com/zupit-it",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "DeMaCS-UNICAL",
     "id": 14315646,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MzE1NjQ2",
@@ -5289,10 +5343,10 @@
     "updated_at": "2026-06-29T11:47:04Z",
     "archived_at": "",
     "source_url": "https://github.com/DeMaCS-UNICAL",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "Master-Data-Management-and-Curation",
     "id": 181246361,
     "node_id": "O_kgDOCs2ZmQ",
@@ -5316,37 +5370,37 @@
     "updated_at": "2024-10-01T11:53:13Z",
     "archived_at": "",
     "source_url": "https://github.com/Master-Data-Management-and-Curation",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
-    "login": "OpenOSINT",
-    "id": 281987694,
-    "node_id": "O_kgDOEM7Kbg",
-    "name": "OpenOSINT",
-    "github_url": "https://github.com/OpenOSINT",
-    "avatar_url": "https://avatars.githubusercontent.com/u/281987694?v=4",
-    "website": "openosint.tech",
+    "snapshot_date": "2026-07-11",
+    "login": "blackswan-quants",
+    "id": 163326735,
+    "node_id": "O_kgDOCbwrDw",
+    "name": "BlackswanQuants",
+    "github_url": "https://github.com/blackswan-quants",
+    "avatar_url": "https://avatars.githubusercontent.com/u/163326735?v=4",
+    "website": "",
     "location": "Italy",
-    "email": "openosint@yahoo.com",
-    "twitter_username": "openosint_oss",
+    "email": "blackswan.quants@gmail.com",
+    "twitter_username": "",
     "sector": "N/D",
     "verified": false,
     "account_type": "Organization",
-    "description": "AI-powered OSINT agent for the terminal. Investigate emails, usernames, domains and more using Claude, GPT-5 or local models.",
+    "description": "",
     "followers": 38,
     "following": 0,
-    "public_repos": 1,
+    "public_repos": 18,
     "public_gists": 0,
-    "total_stargazers": 947,
-    "created_at": "2026-05-05T15:37:35Z",
-    "updated_at": "2026-06-11T12:46:31Z",
+    "total_stargazers": 17,
+    "created_at": "2024-03-13T15:37:46Z",
+    "updated_at": "2026-05-20T12:59:04Z",
     "archived_at": "",
-    "source_url": "https://github.com/OpenOSINT",
-    "last_checked": "2026-07-10"
+    "source_url": "https://github.com/blackswan-quants",
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "c-hydro",
     "id": 35603167,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NjAzMTY3",
@@ -5370,10 +5424,10 @@
     "updated_at": "2025-11-17T13:49:34Z",
     "archived_at": "",
     "source_url": "https://github.com/c-hydro",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "exaconsrl",
     "id": 63648823,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzNjQ4ODIz",
@@ -5397,10 +5451,10 @@
     "updated_at": "2023-05-30T08:00:06Z",
     "archived_at": "",
     "source_url": "https://github.com/exaconsrl",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "maize-tech",
     "id": 92319423,
     "node_id": "O_kgDOBYCuvw",
@@ -5424,10 +5478,10 @@
     "updated_at": "2025-01-20T17:16:39Z",
     "archived_at": "",
     "source_url": "https://github.com/maize-tech",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "phuselab",
     "id": 26966022,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2OTY2MDIy",
@@ -5451,10 +5505,10 @@
     "updated_at": "2026-06-29T12:00:34Z",
     "archived_at": "",
     "source_url": "https://github.com/phuselab",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "team-diana",
     "id": 6059584,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwNTk1ODQ=",
@@ -5478,10 +5532,10 @@
     "updated_at": "2026-06-17T19:25:38Z",
     "archived_at": "",
     "source_url": "https://github.com/team-diana",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "wordlift",
     "id": 6817404,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjY4MTc0MDQ=",
@@ -5505,10 +5559,10 @@
     "updated_at": "2026-06-11T07:09:04Z",
     "archived_at": "",
     "source_url": "https://github.com/wordlift",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "istat",
     "id": 125044602,
     "node_id": "O_kgDOB3QHeg",
@@ -5532,10 +5586,10 @@
     "updated_at": "2025-11-13T13:00:36Z",
     "archived_at": "",
     "source_url": "https://github.com/istat",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   },
   {
-    "snapshot_date": "2026-07-10",
+    "snapshot_date": "2026-07-11",
     "login": "alterloop",
     "id": 48035951,
     "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4MDM1OTUx",
@@ -5559,6 +5613,6 @@
     "updated_at": "2025-02-17T10:34:33Z",
     "archived_at": "",
     "source_url": "https://github.com/alterloop",
-    "last_checked": "2026-07-10"
+    "last_checked": "2026-07-11"
   }
 ]
