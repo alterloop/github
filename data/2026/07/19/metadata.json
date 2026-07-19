@@ -1,0 +1,26 @@
+{
+  "snapshot_date": "2026-07-19",
+  "query": "location:Italy type:org followers:>30",
+  "max_orgs": 200,
+  "watch_orgs_file": "data/watchorgs.txt",
+  "watch_users_file": "data/watchusers.txt",
+  "ignore_orgs_file": "data/ignoreorgs.txt",
+  "watched_orgs": [
+    "openapi",
+    "alterloop",
+    "dataciviclab"
+  ],
+  "watched_users": [
+    "volumio"
+  ],
+  "ignored_orgs": [
+    "mybatis",
+    "vira-themes"
+  ],
+  "records": 209,
+  "generated_at": "2026-07-19T05:38:34.347977+00:00",
+  "source": "GitHub Search API and Organizations API",
+  "errors": [
+    "kept previous record for vlsi-lab: GitHub request failed 404 for https://api.github.com/orgs/vlsi-lab: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/orgs/orgs#get-an-organization\",\"status\":\"404\"}"
+  ]
+}
