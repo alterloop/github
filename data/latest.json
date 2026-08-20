@@ -1,7 +1,7 @@
 {
-  "snapshot": "2026/08/19",
+  "snapshot": "2026/08/20",
   "metadata": {
-    "snapshot_date": "2026-08-19",
+    "snapshot_date": "2026-08-20",
     "query": "location:Italy type:org followers:>30",
     "max_orgs": 200,
     "watch_orgs_file": "data/watchorgs.txt",
@@ -20,7 +20,7 @@
       "vira-themes"
     ],
     "records": 213,
-    "generated_at": "2026-08-19T03:15:48.813090+00:00",
+    "generated_at": "2026-08-20T03:16:20.472943+00:00",
     "source": "GitHub Search API and Organizations API",
     "errors": [
       "kept previous record for vlsi-lab: GitHub request failed 404 for https://api.github.com/orgs/vlsi-lab: {\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/orgs/orgs#get-an-organization\",\"status\":\"404\"}"
