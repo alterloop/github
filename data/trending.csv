@@ -1,201 +1,201 @@
 rank,login,name,github_url,account_type,sector,location,verified,followers,followers_30d_ago_estimate,followers_delta_30d,followers_growth_rate_30d,public_repos,public_repos_30d_ago_estimate,public_repos_delta_30d,total_stargazers,total_stargazers_30d_ago_estimate,total_stargazers_delta_30d,score,score_followers_growth,score_repositories_growth,score_stars_growth,snapshot_date
-1,OpenIPC,OpenIPC,https://github.com/OpenIPC,Organization,N/D,Italy,False,2418,2385.0,33.0,0.013836,171,160.0,11.0,6829,6596.0,233.0,61.0327,32.1951,13.2,15.6376,2026-11-12
-2,singularityos-lab,Singularity OS,https://github.com/singularityos-lab,Organization,N/D,Italy,False,287,259.0,28.0,0.108108,129,104.0,25.0,352,307.0,45.0,60.3372,27.3171,30.0,3.0201,2026-11-12
-3,unitn-drive,UniTN - DISI Drive,https://github.com/unitn-drive,Organization,N/D,Italy,False,923,882.0,41.0,0.046485,5,5.0,0.0,23,22.0,1.0,40.0671,40.0,0.0,0.0671,2026-11-12
-4,refactoringhq,Refactoring,https://github.com/refactoringhq,Organization,N/D,Italy,False,202,194.0,8.0,0.041237,4,4.0,0.0,20706,20259.0,447.0,37.8049,7.8049,0.0,30.0,2026-11-12
-5,italia,Developers Italia,https://github.com/italia,Organization,PA,Italy,True,1970,1944.0,26.0,0.013374,439,434.0,5.0,6828,6781.0,47.0,34.5202,25.3659,6.0,3.1544,2026-11-12
-6,DevExpPlatform,Developer Experience Platform for Eng Group,https://github.com/DevExpPlatform,Organization,N/D,Italy,False,679,645.0,34.0,0.052713,6,6.0,0.0,2,2.0,0.0,33.1707,33.1707,0.0,0.0,2026-11-12
-7,TabularisDB,Tabularis,https://github.com/TabularisDB,Organization,N/D,Italy,False,69,63.0,6.0,0.095238,33,27.0,6.0,5526,5266.0,260.0,30.5033,5.8537,7.2,17.4497,2026-11-12
-8,usbarmory,USB armory,https://github.com/usbarmory,Organization,N/D,Italy,False,208,199.0,9.0,0.045226,37,36.0,1.0,5355,5124.0,231.0,25.4838,8.7805,1.2,15.5034,2026-11-12
-9,SPDM-Team,SPDM Team,https://github.com/SPDM-Team,Organization,N/D,Italy,False,482,459.0,23.0,0.050109,3,3.0,0.0,88,93.0,0.0,22.439,22.439,0.0,0.0,2026-11-12
-10,gbionics,Generative Bionics,https://github.com/gbionics,Organization,N/D,Italy,False,130,124.0,6.0,0.048387,78,68.0,10.0,3253,3212.0,41.0,20.6053,5.8537,12.0,2.7517,2026-11-12
-11,typeonce-dev,Typeonce,https://github.com/typeonce-dev,Organization,N/D,Italy,False,106,102.0,4.0,0.039216,16,15.0,1.0,1165,959.0,206.0,18.9279,3.9024,1.2,13.8255,2026-11-12
-12,OpenOSINT,OpenOSINT,https://github.com/OpenOSINT,Organization,N/D,Italy,False,75,68.0,7.0,0.102941,1,1.0,0.0,1924,1749.0,175.0,18.5742,6.8293,0.0,11.745,2026-11-12
-13,freelensapp,Freelens,https://github.com/freelensapp,Organization,N/D,Italy,False,100,99.0,1.0,0.010101,30,27.0,3.0,6099,5950.0,149.0,14.5756,0.9756,3.6,10.0,2026-11-12
-14,iit-DLSLab,"DLS Lab at Istituto Italiano di Tecnologia, Italy",https://github.com/iit-DLSLab,Organization,N/D,"Genova, Italy",False,244,241.0,3.0,0.012448,81,77.0,4.0,1983,1895.0,88.0,13.6329,2.9268,4.8,5.906,2026-11-12
-15,BitPolito,BitPolito,https://github.com/BitPolito,Organization,N/D," Politecnico di Torino, Turin, Italy",False,75,68.0,7.0,0.102941,27,22.0,5.0,92,90.0,2.0,12.9635,6.8293,6.0,0.1342,2026-11-12
-16,BendingSpoons,Bending Spoons,https://github.com/BendingSpoons,Organization,N/D,"Milan, Italy",False,328,315.0,13.0,0.04127,3,3.0,0.0,2945,2949.0,0.0,12.6829,12.6829,0.0,0.0,2026-11-12
-17,Luce-Org,Lucebox AI,https://github.com/Luce-Org,Organization,N/D,Italy,False,98,91.0,7.0,0.076923,3,3.0,0.0,3029,2944.0,85.0,12.534,6.8293,0.0,5.7047,2026-11-12
-18,mosaico-labs,mosaico,https://github.com/mosaico-labs,Organization,N/D,Italy,False,89,84.0,5.0,0.059524,11,8.0,3.0,1329,1276.0,53.0,12.0351,4.878,3.6,3.557,2026-11-12
-19,unicam-cs-algorithms-lab,Corso di Algoritmi e Strutture Dati ,https://github.com/unicam-cs-algorithms-lab,Organization,N/D,Italy,False,68,69.0,0.0,0.0,21,11.0,10.0,1,1.0,0.0,12.0,0.0,12.0,0.0,2026-11-12
-20,NyarchLinux,Nyarch Linux,https://github.com/NyarchLinux,Organization,N/D,Italy,False,729,718.0,11.0,0.01532,34,34.0,0.0,1981,1968.0,13.0,11.6042,10.7317,0.0,0.8725,2026-11-12
-21,ArtisanROM,ArtisanROM,https://github.com/ArtisanROM,Organization,N/D,Italy,False,75,65.0,10.0,0.153846,2,2.0,0.0,230,217.0,13.0,10.6286,9.7561,0.0,0.8725,2026-11-12
-22,cnr-isti-vclab,Visual Computing Lab - ISTI - CNR,https://github.com/cnr-isti-vclab,Organization,N/D,Italy,False,311,307.0,4.0,0.013029,45,44.0,1.0,9928,9860.0,68.0,9.6662,3.9024,1.2,4.5638,2026-11-12
-23,gem,Global Earthquake Model,https://github.com/gem,Organization,N/D,"Pavia, Italy",False,152,144.0,8.0,0.055556,96,96.0,0.0,741,719.0,22.0,9.2814,7.8049,0.0,1.4765,2026-11-12
-24,semitov,SemiTO-V,https://github.com/semitov,Organization,N/D,Italy,False,48,40.0,8.0,0.2,14,13.0,1.0,174,170.0,4.0,9.2733,7.8049,1.2,0.2685,2026-11-12
-25,clastix,Clastix Labs,https://github.com/clastix,Organization,N/D,Italy,False,149,150.0,0.0,0.0,59,54.0,5.0,2516,2479.0,37.0,8.4832,0.0,6.0,2.4832,2026-11-12
-26,dataciviclab,DataCivicLab,https://github.com/dataciviclab,Organization,N/D,Italy,False,47,45.0,2.0,0.044444,57,52.0,5.0,49,45.0,4.0,8.2197,1.9512,6.0,0.2685,2026-11-12
-27,blackswan-quants,BlackswanQuants,https://github.com/blackswan-quants,Organization,N/D,Italy,False,43,41.0,2.0,0.04878,23,18.0,5.0,23,23.0,0.0,7.9512,1.9512,6.0,0.0,2026-11-12
-28,cyberpandino,Cyberpandino,https://github.com/cyberpandino,Organization,N/D,Italy,False,196,189.0,7.0,0.037037,1,1.0,0.0,575,562.0,13.0,7.7018,6.8293,0.0,0.8725,2026-11-12
-29,volumio,Volumio Srl,https://github.com/volumio,User,N/D,Firenze - Italia,False,1077,1070.0,7.0,0.006542,137,137.0,0.0,2400,2391.0,9.0,7.4333,6.8293,0.0,0.604,2026-11-12
-30,EtheaDev,Ethea S.r.l.,https://github.com/EtheaDev,Organization,N/D,Italy,False,188,185.0,3.0,0.016216,23,21.0,2.0,2069,2040.0,29.0,7.2731,2.9268,2.4,1.9463,2026-11-12
-31,NethServer,NethServer,https://github.com/NethServer,Organization,N/D,Italy,False,151,151.0,0.0,0.0,308,302.0,6.0,707,706.0,1.0,7.2671,0.0,7.2,0.0671,2026-11-12
-32,netgroup-polito,Netgroup,https://github.com/netgroup-polito,Organization,N/D,"Politecnico di Torino, Turin, Italy",False,41,38.0,3.0,0.078947,101,98.0,3.0,399,389.0,10.0,7.198,2.9268,3.6,0.6711,2026-11-12
-33,SapienzaNLP,Sapienza NLP group,https://github.com/SapienzaNLP,Organization,N/D,"Rome, Italy",False,143,139.0,4.0,0.028777,88,86.0,2.0,1506,1493.0,13.0,7.1749,3.9024,2.4,0.8725,2026-11-12
-34,neuron-core,Neuron,https://github.com/neuron-core,Organization,N/D,Italy,False,88,88.0,0.0,0.0,22,19.0,3.0,2539,2491.0,48.0,6.8215,0.0,3.6,3.2215,2026-11-12
-35,openapi,Openapi®,https://github.com/openapi,Organization,N/D,Home of 🍕,False,86,83.0,3.0,0.036145,31,29.0,2.0,443,422.0,21.0,6.7362,2.9268,2.4,1.4094,2026-11-12
-36,beelzebub-labs,Beelzebub Labs,https://github.com/beelzebub-labs,Organization,N/D,Italy,False,59,55.0,4.0,0.072727,6,6.0,0.0,2359,2317.0,42.0,6.7212,3.9024,0.0,2.8188,2026-11-12
-37,aimagelab,AImageLab,https://github.com/aimagelab,Organization,N/D,"Modena, Italy",False,203,199.0,4.0,0.020101,121,120.0,1.0,5036,5012.0,24.0,6.7132,3.9024,1.2,1.6107,2026-11-12
-38,openforis,Open Foris,https://github.com/openforis,Organization,N/D,"Rome, Italy",False,138,133.0,5.0,0.037594,62,61.0,1.0,635,629.0,6.0,6.4807,4.878,1.2,0.4027,2026-11-12
-39,ondata,onData,https://github.com/ondata,Organization,N/D,Italy,False,147,144.0,3.0,0.020833,145,143.0,2.0,847,833.0,14.0,6.2664,2.9268,2.4,0.9396,2026-11-12
-40,sapienzastudentsnetwork,Sapienza Students Network,https://github.com/sapienzastudentsnetwork,Organization,N/D,Italy,False,330,325.0,5.0,0.015385,31,31.0,0.0,416,409.0,7.0,5.3478,4.878,0.0,0.4698,2026-11-12
-41,Corsinvest,Corsinvest Srl,https://github.com/Corsinvest,Organization,N/D,Italy,False,130,129.0,1.0,0.007752,31,31.0,0.0,3446,3383.0,63.0,5.2038,0.9756,0.0,4.2282,2026-11-12
-42,agentvoiceresponse,Agent Voice Response,https://github.com/agentvoiceresponse,Organization,N/D,Italy,False,234,229.0,5.0,0.021834,45,45.0,0.0,209,205.0,4.0,5.1465,4.878,0.0,0.2685,2026-11-12
-43,polito-informatica, Informatica (Politecnico di Torino),https://github.com/polito-informatica,Organization,N/D,Italy,False,176,171.0,5.0,0.02924,9,9.0,0.0,102,98.0,4.0,5.1465,4.878,0.0,0.2685,2026-11-12
-44,UTEXO-Protocol,Utexo,https://github.com/UTEXO-Protocol,Organization,N/D,Italy,False,164,159.0,5.0,0.031447,52,54.0,0.0,728,793.0,0.0,4.878,4.878,0.0,0.0,2026-11-12
-45,Sapienza-Technology,Sapienza Technology Team,https://github.com/Sapienza-Technology,Organization,N/D,Italy,False,47,42.0,5.0,0.119048,3,3.0,0.0,0,0.0,0.0,4.878,4.878,0.0,0.0,2026-11-12
-46,PoliNetworkOrg,PoliNetwork APS,https://github.com/PoliNetworkOrg,Organization,N/D,Italy,False,50,49.0,1.0,0.020408,40,37.0,3.0,36,34.0,2.0,4.7098,0.9756,3.6,0.1342,2026-11-12
-47,wordlift,WordLift,https://github.com/wordlift,Organization,N/D,Italy,False,39,38.0,1.0,0.026316,65,62.0,3.0,41,39.0,2.0,4.7098,0.9756,3.6,0.1342,2026-11-12
-48,idra-lab, Interdepartmental Robotics Labs (IDRA),https://github.com/idra-lab,Organization,N/D,Italy,False,51,49.0,2.0,0.040816,110,108.0,2.0,294,290.0,4.0,4.6197,1.9512,2.4,0.2685,2026-11-12
-49,defstudio,def:studio,https://github.com/defstudio,Organization,N/D,"Bari, Italy",False,43,41.0,2.0,0.04878,55,53.0,2.0,1325,1322.0,3.0,4.5526,1.9512,2.4,0.2013,2026-11-12
-50,meetecho,Meetecho,https://github.com/meetecho,Organization,N/D,"Napoli, Italy",False,164,161.0,3.0,0.018634,18,18.0,0.0,9878,9854.0,24.0,4.5376,2.9268,0.0,1.6107,2026-11-12
-51,KatharaFramework,Kathará,https://github.com/KatharaFramework,Organization,N/D,Italy,False,103,99.0,4.0,0.040404,16,16.0,0.0,996,987.0,9.0,4.5065,3.9024,0.0,0.604,2026-11-12
-52,commercelayer,Commerce Layer,https://github.com/commercelayer,Organization,N/D,Italy,False,103,102.0,1.0,0.009804,93,91.0,2.0,688,672.0,16.0,4.4494,0.9756,2.4,1.0738,2026-11-12
-53,consiglionazionaledellericerche,The National Research Council (CNR),https://github.com/consiglionazionaledellericerche,Organization,N/D,"Piazzale Aldo Moro, 7 - 00185 Rome, Italy",False,54,52.0,2.0,0.038462,46,44.0,2.0,122,121.0,1.0,4.4183,1.9512,2.4,0.0671,2026-11-12
-54,WEEE-Open,WEEE Open,https://github.com/WEEE-Open,Organization,N/D,"Torino, Italy",False,42,39.0,3.0,0.076923,72,71.0,1.0,134,133.0,1.0,4.1939,2.9268,1.2,0.0671,2026-11-12
-55,DeMaCS-UNICAL,Department of Mathematics and Computer Science,https://github.com/DeMaCS-UNICAL,Organization,N/D,Italy,False,43,40.0,3.0,0.075,71,70.0,1.0,172,174.0,0.0,4.1268,2.9268,1.2,0.0,2026-11-12
-56,downthemall,DownThemAll!,https://github.com/downthemall,Organization,N/D,Italy/Germany,False,51,48.0,3.0,0.0625,9,9.0,0.0,1787,1770.0,17.0,4.0678,2.9268,0.0,1.1409,2026-11-12
-57,langgraph4j,LangGraph4j,https://github.com/langgraph4j,Organization,N/D,Italy,False,87,86.0,1.0,0.011628,19,19.0,0.0,2306,2260.0,46.0,4.0629,0.9756,0.0,3.0872,2026-11-12
-58,sisinflab,Information Systems Lab @ Polytechnic University of Bari,https://github.com/sisinflab,Organization,N/D,"Bari, Italy",False,45,44.0,1.0,0.022727,152,150.0,2.0,1116,1108.0,8.0,3.9125,0.9756,2.4,0.5369,2026-11-12
-59,phuselab,PHUSE Lab,https://github.com/phuselab,Organization,N/D,"Università degli Studi di Milano, Italy",False,40,40.0,0.0,0.0,31,28.0,3.0,908,907.0,1.0,3.6671,0.0,3.6,0.0671,2026-11-12
-60,NON-OS,NØNOS,https://github.com/NON-OS,Organization,N/D,Italy,False,154,228.0,0.0,0.0,20,17.0,3.0,252,338.0,0.0,3.6,0.0,3.6,0.0,2026-11-12
-61,necst,NECSTLab,https://github.com/necst,Organization,N/D,"Milan, Italy",False,57,54.0,3.0,0.055556,132,132.0,0.0,696,688.0,8.0,3.4637,2.9268,0.0,0.5369,2026-11-12
-62,un-fao,Food and Agriculture Organization of the United Nations (FAO),https://github.com/un-fao,Organization,N/D,Italy,False,143,141.0,2.0,0.014184,46,45.0,1.0,90,86.0,4.0,3.4197,1.9512,1.2,0.2685,2026-11-12
-63,agile-lab-dev,Agile Lab,https://github.com/agile-lab-dev,Organization,N/D,"Turin, Italy",False,53,51.0,2.0,0.039216,133,132.0,1.0,414,413.0,1.0,3.2183,1.9512,1.2,0.0671,2026-11-12
-64,italia-opensource,Italia Open-Source,https://github.com/italia-opensource,Organization,N/D,Italy,False,112,109.0,3.0,0.027523,4,4.0,0.0,356,352.0,4.0,3.1953,2.9268,0.0,0.2685,2026-11-12
-65,polito,Politecnico di Torino,https://github.com/polito,Organization,N/D,Italy,False,253,250.0,3.0,0.012,9,9.0,0.0,223,222.0,1.0,2.9939,2.9268,0.0,0.0671,2026-11-12
-66,MAL-TO,MALTO,https://github.com/MAL-TO,Organization,N/D,"Turin, Italy",False,48,45.0,3.0,0.066667,14,14.0,0.0,11,10.0,1.0,2.9939,2.9268,0.0,0.0671,2026-11-12
-67,pagopa,PagoPA S.p.A.,https://github.com/pagopa,Organization,PMI,Italy,True,334,331.0,3.0,0.009063,663,783.0,0.0,1579,1719.0,0.0,2.9268,2.9268,0.0,0.0,2026-11-12
-68,AlmavivA,AlmavivA S.p.A.,https://github.com/AlmavivA,Organization,N/D,"Rome, Italy",False,208,205.0,3.0,0.014634,15,15.0,0.0,2,2.0,0.0,2.9268,2.9268,0.0,0.0,2026-11-12
-69,UniversitaDellaCalabria,Università della Calabria,https://github.com/UniversitaDellaCalabria,Organization,N/D,"Italy, Rende",False,76,73.0,3.0,0.041096,71,71.0,0.0,255,256.0,0.0,2.9268,2.9268,0.0,0.0,2026-11-12
-70,unibo,University of Bologna,https://github.com/unibo,Organization,N/D,"Bologna, Italy",False,71,68.0,3.0,0.044118,8,8.0,0.0,6,6.0,0.0,2.9268,2.9268,0.0,0.0,2026-11-12
-71,Pwnzer0tt1,Pwnzer0tt1,https://github.com/Pwnzer0tt1,Organization,N/D,Italy,False,45,43.0,2.0,0.046512,11,11.0,0.0,253,239.0,14.0,2.8908,1.9512,0.0,0.9396,2026-11-12
-72,event-driven-robotics,Event Driven Perception for Robotics,https://github.com/event-driven-robotics,Organization,N/D,"Genova, Italy",False,48,48.0,0.0,0.0,73,71.0,2.0,199,195.0,4.0,2.6685,0.0,2.4,0.2685,2026-11-12
-73,mesh-iit,MESH,https://github.com/mesh-iit,Organization,N/D,Italy,False,110,109.0,1.0,0.009174,59,58.0,1.0,402,396.0,6.0,2.5783,0.9756,1.2,0.4027,2026-11-12
-74,informatici,Informatici Senza Frontiere,https://github.com/informatici,Organization,N/D,Italy,False,116,114.0,2.0,0.017544,20,20.0,0.0,969,960.0,9.0,2.5552,1.9512,0.0,0.604,2026-11-12
-75,cartabinaria,CartaBinaria,https://github.com/cartabinaria,Organization,N/D,Italy,False,302,300.0,2.0,0.006667,198,198.0,0.0,169,162.0,7.0,2.421,1.9512,0.0,0.4698,2026-11-12
-76,TheWebScrapingClub,The Web Scraping Club,https://github.com/TheWebScrapingClub,Organization,N/D,Italy,False,180,178.0,2.0,0.011236,6,6.0,0.0,2008,2001.0,7.0,2.421,1.9512,0.0,0.4698,2026-11-12
-77,mia-platform,Mia-Platform,https://github.com/mia-platform,Organization,N/D,Italy,False,107,107.0,0.0,0.0,74,72.0,2.0,334,334.0,0.0,2.4,0.0,2.4,0.0,2026-11-12
-78,robotology,Robotology,https://github.com/robotology,Organization,N/D,Italy,False,337,336.0,1.0,0.002976,154,153.0,1.0,2722,2720.0,2.0,2.3098,0.9756,1.2,0.1342,2026-11-12
-79,INGV,Istituto Nazionale di Geofisica e Vulcanologia,https://github.com/INGV,Organization,N/D,"Via di Vigna Murata 605 - 00143, Rome, Italy",False,74,73.0,1.0,0.013699,83,82.0,1.0,151,149.0,2.0,2.3098,0.9756,1.2,0.1342,2026-11-12
-80,istat,istat,https://github.com/istat,Organization,Ricerca,"Via Cesare Balbo 16, 00184 Rome",False,11,10.0,1.0,0.1,13,12.0,1.0,9,7.0,2.0,2.3098,0.9756,1.2,0.1342,2026-11-12
-81,Tiledesk,Tiledesk,https://github.com/Tiledesk,Organization,N/D,Italy,False,455,454.0,1.0,0.002203,29,29.0,0.0,891,872.0,19.0,2.2508,0.9756,0.0,1.2752,2026-11-12
-82,immobiliare,Immobiliare Labs,https://github.com/immobiliare,Organization,N/D,"Rome, Italy",False,89,88.0,1.0,0.011364,40,39.0,1.0,3040,3044.0,0.0,2.1756,0.9756,1.2,0.0,2026-11-12
-83,prometeia-erm,prometeia-erm,https://github.com/prometeia-erm,Organization,N/D,Italy,False,47,46.0,1.0,0.021739,4,3.0,1.0,0,0.0,0.0,2.1756,0.9756,1.2,0.0,2026-11-12
-84,arkemis,Arkemis,https://github.com/arkemis,Organization,N/D,Italy,False,64,62.0,2.0,0.032258,17,17.0,0.0,201,198.0,3.0,2.1526,1.9512,0.0,0.2013,2026-11-12
-85,ShielderSec,Shielder,https://github.com/ShielderSec,Organization,N/D,Italy,False,42,40.0,2.0,0.05,11,11.0,0.0,388,385.0,3.0,2.1526,1.9512,0.0,0.2013,2026-11-12
-86,OctoGramApp,OctoGram,https://github.com/OctoGramApp,Organization,N/D,Italy,False,55,53.0,2.0,0.037736,6,6.0,0.0,450,448.0,2.0,2.0854,1.9512,0.0,0.1342,2026-11-12
-87,teamdigitale,Team Digitale,https://github.com/teamdigitale,Organization,PA,"Rome, Italy",True,159,157.0,2.0,0.012739,155,155.0,0.0,340,339.0,1.0,2.0183,1.9512,0.0,0.0671,2026-11-12
-88,Sisal-Org,Sisal-Org,https://github.com/Sisal-Org,Organization,N/D,Italy,False,202,200.0,2.0,0.01,0,0.0,0.0,0,0.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-89,CompEngMS,Computer Engineering MS - Sapienza,https://github.com/CompEngMS,Organization,N/D,Italy,False,107,105.0,2.0,0.019048,25,25.0,0.0,43,44.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-90,pythonitalia,Python Italia,https://github.com/pythonitalia,Organization,N/D,Italy,False,96,94.0,2.0,0.021277,45,45.0,0.0,267,267.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-91,XENONnT,XENONnT Dark Matter experiment,https://github.com/XENONnT,Organization,N/D,"Gran Sasso, Italy",False,90,88.0,2.0,0.022727,50,50.0,0.0,96,96.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-92,CMCC-Foundation,CMCC Foundation,https://github.com/CMCC-Foundation,Organization,N/D,"Lecce, Italy",False,61,59.0,2.0,0.033898,65,65.0,0.0,28,28.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-93,deltatre-innovation-lab,Deltatre Innovation Lab,https://github.com/deltatre-innovation-lab,Organization,N/D,Italy,False,55,53.0,2.0,0.037736,0,0.0,0.0,0,0.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-94,mhackeroni,mhackeroni,https://github.com/mhackeroni,Organization,N/D,Italy,False,52,50.0,2.0,0.04,3,3.0,0.0,5,5.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-95,datalogic,Datalogic,https://github.com/datalogic,Organization,N/D,"Bologna, Italy",False,50,48.0,2.0,0.041667,86,86.0,0.0,108,108.0,0.0,1.9512,1.9512,0.0,0.0,2026-11-12
-96,geosolutions-it,GeoSolutions,https://github.com/geosolutions-it,Organization,N/D,Italy & US,False,225,225.0,0.0,0.0,149,148.0,1.0,1816,1807.0,9.0,1.804,0.0,1.2,0.604,2026-11-12
-97,polimi-ispl,Image and Sound Processing Lab,https://github.com/polimi-ispl,Organization,N/D,"Milan, Italy",False,97,97.0,0.0,0.0,79,78.0,1.0,938,929.0,9.0,1.804,0.0,1.2,0.604,2026-11-12
-98,mathLab,SISSA mathLab,https://github.com/mathLab,Organization,N/D,"Via Bonomea 265, 34133 Trieste, TS, Italy",False,240,239.0,1.0,0.004184,30,30.0,0.0,1054,1045.0,9.0,1.5796,0.9756,0.0,0.604,2026-11-12
-99,sighupio,SIGHUP,https://github.com/sighupio,Organization,N/D,Italy,False,62,62.0,0.0,0.0,56,55.0,1.0,2363,2358.0,5.0,1.5356,0.0,1.2,0.3356,2026-11-12
-100,ami-iit,Artificial and Mechanical Intelligence ,https://github.com/ami-iit,Organization,N/D,Italy,False,254,253.0,1.0,0.003953,168,168.0,0.0,624,617.0,7.0,1.4454,0.9756,0.0,0.4698,2026-11-12
-101,opencitations,OpenCitations,https://github.com/opencitations,Organization,N/D,"Bologna, Italy",False,110,109.0,1.0,0.009174,86,86.0,0.0,324,317.0,7.0,1.4454,0.9756,0.0,0.4698,2026-11-12
-102,ICTP,International Centre for Theoretical Physics,https://github.com/ICTP,Organization,N/D,Italy,False,54,54.0,0.0,0.0,12,11.0,1.0,86,83.0,3.0,1.4013,0.0,1.2,0.2013,2026-11-12
-103,cheshire-cat-ai,Cheshire Cat AI,https://github.com/cheshire-cat-ai,Organization,N/D,Italy,False,641,640.0,1.0,0.001563,23,23.0,0.0,3434,3428.0,6.0,1.3783,0.9756,0.0,0.4027,2026-11-12
-104,Arubacloud,ArubaCloud,https://github.com/Arubacloud,Organization,N/D,24036 Ponte San Pietro (BG) Italy,False,59,59.0,0.0,0.0,25,24.0,1.0,148,146.0,2.0,1.3342,0.0,1.2,0.1342,2026-11-12
-105,edge-group-polito,EDGE Group - PoliTO,https://github.com/edge-group-polito,Organization,N/D,Italy,False,50,50.0,0.0,0.0,52,51.0,1.0,108,106.0,2.0,1.3342,0.0,1.2,0.1342,2026-11-12
-106,maize-tech,MAIZE,https://github.com/maize-tech,Organization,N/D,Italy,False,38,38.0,0.0,0.0,25,24.0,1.0,1647,1645.0,2.0,1.3342,0.0,1.2,0.1342,2026-11-12
-107,AIRLab-POLIMI,AIRLab@POLIMI,https://github.com/AIRLab-POLIMI,Organization,N/D,"Politecnico di Milano - Piazza Leonardo da Vinci, 32 - Milan - Italy",False,88,87.0,1.0,0.011494,106,106.0,0.0,525,520.0,5.0,1.3112,0.9756,0.0,0.3356,2026-11-12
-108,olimpiadi-informatica,Olimpiadi Italiane di Informatica,https://github.com/olimpiadi-informatica,Organization,N/D,Italy,False,44,43.0,1.0,0.023256,34,34.0,0.0,143,138.0,5.0,1.3112,0.9756,0.0,0.3356,2026-11-12
-109,vira-soft,Vira Software,https://github.com/vira-soft,Organization,N/D,Italy,False,108,108.0,0.0,0.0,3,2.0,1.0,11301,11308.0,0.0,1.2,0.0,1.2,0.0,2026-11-12
-110,g3w-suite,G3W-SUITE,https://github.com/g3w-suite,Organization,N/D,Italy,False,75,75.0,0.0,0.0,36,35.0,1.0,128,129.0,0.0,1.2,0.0,1.2,0.0,2026-11-12
-111,CoralMC-It,CoralMC,https://github.com/CoralMC-It,Organization,N/D,Italy,False,45,45.0,0.0,0.0,7,6.0,1.0,0,0.0,0.0,1.2,0.0,1.2,0.0,2026-11-12
-112,antares-sql,Antares SQL,https://github.com/antares-sql,Organization,N/D,Italy,False,67,66.0,1.0,0.015152,5,5.0,0.0,2703,2700.0,3.0,1.177,0.9756,0.0,0.2013,2026-11-12
-113,ZiggyCreatures,ZiggyCreatures,https://github.com/ZiggyCreatures,Organization,N/D,Italy,False,74,75.0,0.0,0.0,1,1.0,0.0,3953,3936.0,17.0,1.1409,0.0,0.0,1.1409,2026-11-12
-114,virgili0,Virgilio Data Science,https://github.com/virgili0,Organization,N/D,Italy,False,128,127.0,1.0,0.007874,1,1.0,0.0,15005,15003.0,2.0,1.1098,0.9756,0.0,0.1342,2026-11-12
-115,ZapprTV,Zappr,https://github.com/ZapprTV,Organization,N/D,Italy,False,115,114.0,1.0,0.008772,13,13.0,0.0,118,116.0,2.0,1.1098,0.9756,0.0,0.1342,2026-11-12
-116,sftpgo,SFTPGo,https://github.com/sftpgo,Organization,N/D,Italy,False,61,60.0,1.0,0.016667,13,13.0,0.0,90,88.0,2.0,1.1098,0.9756,0.0,0.1342,2026-11-12
-117,Babelscape,Babelscape,https://github.com/Babelscape,Organization,N/D,Italy,False,55,54.0,1.0,0.018519,19,19.0,0.0,1017,1015.0,2.0,1.1098,0.9756,0.0,0.1342,2026-11-12
-118,osservatorionessuno,Osservatorio Nessuno OdV,https://github.com/osservatorionessuno,Organization,N/D,Italy,False,59,58.0,1.0,0.017241,16,16.0,0.0,117,116.0,1.0,1.0427,0.9756,0.0,0.0671,2026-11-12
-119,sna-unipi,Social Network Analysis (& Laboratory) @ University of Pisa,https://github.com/sna-unipi,Organization,N/D,"Pisa, Italy",False,54,53.0,1.0,0.018868,16,16.0,0.0,56,55.0,1.0,1.0427,0.9756,0.0,0.0671,2026-11-12
-120,Master-Data-Management-and-Curation,Master Data Management and Curation,https://github.com/Master-Data-Management-and-Curation,Organization,N/D,Italy,False,43,42.0,1.0,0.02381,13,13.0,0.0,15,14.0,1.0,1.0427,0.9756,0.0,0.0671,2026-11-12
-121,RealityNet,RealityNet,https://github.com/RealityNet,Organization,N/D,Italy,False,114,114.0,0.0,0.0,9,9.0,0.0,1821,1806.0,15.0,1.0067,0.0,0.0,1.0067,2026-11-12
-122,Il-Libro-Open-Source,Il Libro Open Source,https://github.com/Il-Libro-Open-Source,Organization,N/D,Italy,False,210,209.0,1.0,0.004785,4,4.0,0.0,425,425.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-123,cybersecurity-polito,Cybersecurity @ PoliTO,https://github.com/cybersecurity-polito,Organization,N/D,Italy,False,164,163.0,1.0,0.006135,7,7.0,0.0,5,5.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-124,Programmazione-Avanzata-2025-26,Programmazione Avanzata 2025-26,https://github.com/Programmazione-Avanzata-2025-26,Organization,N/D,Italy,False,117,116.0,1.0,0.008621,35,35.0,0.0,5,5.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-125,unicef-drp,Office of Strategy and Evidence Innocenti,https://github.com/unicef-drp,Organization,N/D,Italy,False,109,108.0,1.0,0.009259,56,56.0,0.0,141,141.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-126,ASEM-S-R-L,ASEM S.r.l,https://github.com/ASEM-S-R-L,Organization,N/D,Italy,False,106,105.0,1.0,0.009524,0,0.0,0.0,0,0.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-127,ministero-salute,Ministero della Salute,https://github.com/ministero-salute,Organization,PA,Italy,False,84,83.0,1.0,0.012048,103,103.0,0.0,421,443.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-128,krateoplatformops,Krateo PlatformOps,https://github.com/krateoplatformops,Organization,N/D,Italy,False,80,79.0,1.0,0.012658,212,213.0,0.0,80,342.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-129,FIUP,FIUP,https://github.com/FIUP,Organization,N/D,"Padua, Italy",False,72,71.0,1.0,0.014085,40,40.0,0.0,103,104.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-130,TdP-2023,"Tecniche di Programmazione (2022/23), Politecnico di Torino",https://github.com/TdP-2023,Organization,N/D,Italy,False,66,65.0,1.0,0.015385,29,29.0,0.0,9,9.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-131,md-cs-student-unipi,MD CS Student @ Unipi,https://github.com/md-cs-student-unipi,Organization,N/D,"Pisa, Italy",False,59,58.0,1.0,0.017241,7,7.0,0.0,236,236.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-132,MachineLearningJournalClub,Machine Learning Journal Club,https://github.com/MachineLearningJournalClub,Organization,N/D,"Turin, Italy",False,57,56.0,1.0,0.017857,30,30.0,0.0,116,116.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-133,Security-Cert,SecurityCert,https://github.com/Security-Cert,Organization,N/D,Italy,False,55,54.0,1.0,0.018519,8,8.0,0.0,6,6.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-134,CalcolatoriElettronici,Calcolatori Elettronici,https://github.com/CalcolatoriElettronici,Organization,N/D,Italy,False,52,51.0,1.0,0.019608,0,0.0,0.0,0,0.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-135,newcleo-dev-team,newcleo,https://github.com/newcleo-dev-team,Organization,N/D,Italy,False,52,51.0,1.0,0.019608,9,9.0,0.0,33,33.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-136,squadracorsepolito,Squadra Corse PoliTO,https://github.com/squadracorsepolito,Organization,N/D,Italy,False,52,51.0,1.0,0.019608,38,38.0,0.0,58,58.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-137,satispay-tech,Satispay Tech,https://github.com/satispay-tech,Organization,N/D,Italy,False,49,48.0,1.0,0.020833,0,0.0,0.0,0,0.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-138,aclai-lab,Applied Computational Logic and Artificial Intelligence Laboratory,https://github.com/aclai-lab,Organization,N/D,Italy,False,44,43.0,1.0,0.023256,40,40.0,0.0,217,217.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-139,eml-eda,"Efficient ML @ EDA Group, Politecnico di Torino",https://github.com/eml-eda,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,60,60.0,0.0,273,273.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-140,exaconsrl,Exacon,https://github.com/exaconsrl,Organization,N/D,"Milano, Italy",False,42,41.0,1.0,0.02439,0,0.0,0.0,0,0.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-141,grok-ai,Grok AI,https://github.com/grok-ai,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,5,5.0,0.0,686,687.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-142,RegestaItalia,RegGitHub,https://github.com/RegestaItalia,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,36,37.0,0.0,17,19.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-143,zupit-it,Zupit,https://github.com/zupit-it,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,17,17.0,0.0,6,6.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-144,c-hydro,"CIMA Research Foundation - Departments of Hydrology and Hydraulics, and Drought",https://github.com/c-hydro,Organization,N/D,"Savona, Italy",False,40,39.0,1.0,0.025641,44,44.0,0.0,29,29.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-145,VicidominiLab,Vicidomini Lab,https://github.com/VicidominiLab,Organization,N/D,"Genova, Italy",False,40,39.0,1.0,0.025641,32,32.0,0.0,78,78.0,0.0,0.9756,0.9756,0.0,0.0,2026-11-12
-146,hack-gpon,hack-gpon,https://github.com/hack-gpon,Organization,N/D,Italy,False,73,74.0,0.0,0.0,8,8.0,0.0,391,378.0,13.0,0.8725,0.0,0.0,0.8725,2026-11-12
-147,sparkfabrik,SparkFabrik,https://github.com/sparkfabrik,Organization,N/D,Italy,False,56,56.0,0.0,0.0,119,119.0,0.0,694,681.0,13.0,0.8725,0.0,0.0,0.8725,2026-11-12
-148,open-license-manager,Open License Manager,https://github.com/open-license-manager,Organization,N/D,Italy,False,62,62.0,0.0,0.0,5,5.0,0.0,1401,1389.0,12.0,0.8054,0.0,0.0,0.8054,2026-11-12
-149,monocasual,Monocasual Laboratories,https://github.com/monocasual,Organization,N/D,Italy,False,46,46.0,0.0,0.0,17,17.0,0.0,2156,2145.0,11.0,0.7383,0.0,0.0,0.7383,2026-11-12
-150,sebaubuntu-python,SebaUbuntu's Python projects,https://github.com/sebaubuntu-python,Organization,N/D,Italy,False,55,55.0,0.0,0.0,9,9.0,0.0,643,633.0,10.0,0.6711,0.0,0.0,0.6711,2026-11-12
-151,translate-tools,Translate tools,https://github.com/translate-tools,Organization,N/D,Italy,False,38,38.0,0.0,0.0,6,6.0,0.0,1240,1230.0,10.0,0.6711,0.0,0.0,0.6711,2026-11-12
-152,ChibiOS,ChibiOS,https://github.com/ChibiOS,Organization,N/D,Italy,False,121,121.0,0.0,0.0,4,4.0,0.0,1061,1052.0,9.0,0.604,0.0,0.0,0.604,2026-11-12
-153,pralab,PRALab,https://github.com/pralab,Organization,N/D,"Cagliari, Italy",False,61,61.0,0.0,0.0,31,31.0,0.0,834,827.0,7.0,0.4698,0.0,0.0,0.4698,2026-11-12
-154,unipr-org,unipr-org,https://github.com/unipr-org,Organization,N/D,Italy,False,99,99.0,0.0,0.0,35,35.0,0.0,62,56.0,6.0,0.4027,0.0,0.0,0.4027,2026-11-12
-155,mindedsecurity,IMQ Minded Security,https://github.com/mindedsecurity,Organization,N/D,Italy,False,52,53.0,0.0,0.0,19,19.0,0.0,1842,1837.0,5.0,0.3356,0.0,0.0,0.3356,2026-11-12
-156,Schroedinger-Hat,Schrödinger Hat,https://github.com/Schroedinger-Hat,Organization,N/D,Italy,False,223,223.0,0.0,0.0,33,33.0,0.0,1666,1662.0,4.0,0.2685,0.0,0.0,0.2685,2026-11-12
-157,ECSC2024,ECSC2024,https://github.com/ECSC2024,Organization,N/D,Italy,False,52,52.0,0.0,0.0,3,3.0,0.0,142,138.0,4.0,0.2685,0.0,0.0,0.2685,2026-11-12
-158,CentroEPiaggio,"Bioengineering and Robotics Research Center ""E. Piaggio"" - University of Pisa",https://github.com/CentroEPiaggio,Organization,N/D,"Via Diotisalvi, 2. Pisa, Italy",False,50,50.0,0.0,0.0,169,169.0,0.0,488,484.0,4.0,0.2685,0.0,0.0,0.2685,2026-11-12
-159,MilaNLProc,MilaNLP,https://github.com/MilaNLProc,Organization,N/D,"Milan, Italy",False,81,81.0,0.0,0.0,41,41.0,0.0,1527,1524.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-12
-160,prisma-lab,Prisma Lab,https://github.com/prisma-lab,Organization,N/D,"Naples, Italy",False,54,54.0,0.0,0.0,40,40.0,0.0,145,142.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-12
-161,ventunobtc,Ventuno ,https://github.com/ventunobtc,Organization,N/D,Italy,False,41,41.0,0.0,0.0,11,11.0,0.0,39,36.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-12
-162,HPC-Courses,MOX HPC Courses Repositories,https://github.com/HPC-Courses,Organization,N/D,Italy,False,49,49.0,0.0,0.0,5,5.0,0.0,93,91.0,2.0,0.1342,0.0,0.0,0.1342,2026-11-12
-163,nephila,Nephila,https://github.com/nephila,Organization,N/D,"Italy, United Kingdom, Switzerland",False,95,96.0,0.0,0.0,117,117.0,0.0,1840,1839.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-12
-164,OliCyberIT,Olimpiadi Italiane di Cybersecurity,https://github.com/OliCyberIT,Organization,N/D,Italy,False,69,69.0,0.0,0.0,1,1.0,0.0,73,72.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-12
-165,noi-techpark,NOI Techpark - Südtirol / Alto Adige,https://github.com/noi-techpark,Organization,N/D,"Italy, South Tyrol, 39100 Bolzano/Bozen, Volta street 13/A",False,67,67.0,0.0,0.0,261,261.0,0.0,213,212.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-12
-166,cosmoimd,Cosmo MedTech AI,https://github.com/cosmoimd,Organization,N/D,Italy,False,58,58.0,0.0,0.0,7,7.0,0.0,106,105.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-12
-167,ProjectoOfficial,Projecto,https://github.com/ProjectoOfficial,Organization,N/D,Italy,False,51,51.0,0.0,0.0,19,19.0,0.0,107,106.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-12
-168,orobix,Orobix,https://github.com/orobix,Organization,N/D,"Bergamo, Italy",False,43,43.0,0.0,0.0,20,20.0,0.0,2753,2752.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-12
-169,illustrated-machine-learning,Illustrated Machine Learning,https://github.com/illustrated-machine-learning,Organization,N/D,Italy,False,193,193.0,0.0,0.0,3,3.0,0.0,663,664.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-170,polito-webapp1,Web Applications I / Applicazioni Web I,https://github.com/polito-webapp1,Organization,N/D,Italy,False,167,168.0,0.0,0.0,13,13.0,0.0,79,83.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-171,ElecteSrl,Electe,https://github.com/ElecteSrl,Organization,N/D,Italy,False,142,262.0,0.0,0.0,5,5.0,0.0,5,9.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-172,Home-Assistant-Pro-Team,Home Assistant Pro Team,https://github.com/Home-Assistant-Pro-Team,Organization,N/D,Italy,False,128,128.0,0.0,0.0,10,10.0,0.0,258,258.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-173,mkinf-io,mkinf,https://github.com/mkinf-io,Organization,N/D,Italy,False,111,112.0,0.0,0.0,6,6.0,0.0,167,168.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-174,UNICT-DMI,UNICT Devs,https://github.com/UNICT-DMI,Organization,N/D,Italy,False,109,109.0,0.0,0.0,52,52.0,0.0,317,320.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-175,datocms,DatoCMS,https://github.com/datocms,Organization,N/D,Italy,False,90,90.0,0.0,0.0,98,98.0,0.0,1307,1307.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-176,TdP-2024,"Tecniche di Programmazione (2023/2024), Politecnico di Torino",https://github.com/TdP-2024,Organization,N/D,Italy,False,83,83.0,0.0,0.0,36,36.0,0.0,8,8.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-177,Polito-DS-Python,Data Structures in Python - PoliTo,https://github.com/Polito-DS-Python,Organization,N/D,Italy,False,82,82.0,0.0,0.0,1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-178,ASEM-ApplicationSoftwareEngineers,Application Support Engineers Shared Repo,https://github.com/ASEM-ApplicationSoftwareEngineers,Organization,N/D,Italy,False,77,77.0,0.0,0.0,3,3.0,0.0,7,7.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-179,buildwiththeta,Build with Theta,https://github.com/buildwiththeta,Organization,N/D,Italy,False,74,74.0,0.0,0.0,7,7.0,0.0,291,291.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-180,ReactBricks,React Bricks,https://github.com/ReactBricks,Organization,N/D,"Bergamo, Italy",False,70,71.0,0.0,0.0,35,35.0,0.0,210,210.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-181,builders-garden,builders.garden,https://github.com/builders-garden,Organization,N/D,Italy,False,69,70.0,0.0,0.0,178,178.0,0.0,306,307.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-182,CybersecNatLab,CINI Cybersecurity National Lab,https://github.com/CybersecNatLab,Organization,N/D,Italy,False,68,68.0,0.0,0.0,4,4.0,0.0,153,153.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-183,cegeka,Cegeka,https://github.com/cegeka,Organization,N/D,"Belgium, Netherlands, Romania, Germany, Austria, Italy, Czech Republic",False,67,67.0,0.0,0.0,202,202.0,0.0,131,131.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-184,robotics-knowledgebase-iit,Robotics Knowledge Base at IIT,https://github.com/robotics-knowledgebase-iit,Organization,N/D,Italy,False,67,67.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-185,Sapienza-ACSAI,ACSAI Sapienza,https://github.com/Sapienza-ACSAI,Organization,N/D,Italy,False,65,65.0,0.0,0.0,12,12.0,0.0,7,7.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-186,seceq,Seceq,https://github.com/seceq,Organization,N/D,Italy,False,61,74.0,0.0,0.0,7,7.0,0.0,213,233.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-187,openapi-it,OpenApi,https://github.com/openapi-it,Organization,N/D,Italy,False,60,60.0,0.0,0.0,4,4.0,0.0,3,3.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-188,BocconiStudentsFinancialMarkets,BSFM - Bocconi Students Financial Markets,https://github.com/BocconiStudentsFinancialMarkets,Organization,N/D,"MIlan, Italy",False,59,59.0,0.0,0.0,2,2.0,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-189,xtreamsrl,xtream,https://github.com/xtreamsrl,Organization,N/D,"Milan, Italy",False,58,58.0,0.0,0.0,47,47.0,0.0,473,475.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-190,boolean-it,Boolean IT,https://github.com/boolean-it,Organization,N/D,Italy,False,57,57.0,0.0,0.0,25,25.0,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-191,Cineca,Cineca,https://github.com/Cineca,Organization,N/D,Italy,False,54,54.0,0.0,0.0,8,8.0,0.0,48,48.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-192,nebulab,Nebulab,https://github.com/nebulab,Organization,N/D,Italy,False,53,53.0,0.0,0.0,239,239.0,0.0,1759,1761.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-193,openpolis,Openpolis,https://github.com/openpolis,Organization,Civic tech,"Roma, Italia",False,52,52.0,0.0,0.0,70,70.0,0.0,216,216.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-194,TwentyTwoHW,TwentyTwo Devices,https://github.com/TwentyTwoHW,Organization,N/D,Italy,False,51,51.0,0.0,0.0,7,7.0,0.0,54,55.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-195,AidaDSP,Aida DSP,https://github.com/AidaDSP,Organization,N/D,Turin (Italy),False,50,50.0,0.0,0.0,6,6.0,0.0,406,407.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-196,CyberChallengeIT,CyberChallenge.IT,https://github.com/CyberChallengeIT,Organization,N/D,Italy,False,48,48.0,0.0,0.0,1,1.0,0.0,14,14.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-197,TheSignAcademy,TheSIGN – Comics & Arts Academy,https://github.com/TheSignAcademy,Organization,N/D,Firenze - Italy,False,48,48.0,0.0,0.0,3,3.0,0.0,3,3.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-198,Cyber-HackAdemy-UniNa,Cyber HackAdemy UniNa,https://github.com/Cyber-HackAdemy-UniNa,Organization,N/D,Italy,False,47,47.0,0.0,0.0,5,5.0,0.0,9,9.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-199,Datamasters-it,DataMasters.it,https://github.com/Datamasters-it,Organization,N/D,"Bari, Italy",False,47,47.0,0.0,0.0,11,11.0,0.0,10,10.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
-200,EOS-Solutions,Eos Solutions ,https://github.com/EOS-Solutions,Organization,N/D,Italy,False,47,47.0,0.0,0.0,15,15.0,0.0,50,50.0,0.0,0.0,0.0,0.0,0.0,2026-11-12
+1,OpenIPC,OpenIPC,https://github.com/OpenIPC,Organization,N/D,Italy,False,2420,2387.0,33.0,0.013825,171,161.0,10.0,6843,6602.0,241.0,61.1745,33.0,12.0,16.1745,2026-11-13
+2,singularityos-lab,Singularity OS,https://github.com/singularityos-lab,Organization,N/D,Italy,False,287,259.0,28.0,0.108108,129,104.0,25.0,352,308.0,44.0,60.953,28.0,30.0,2.953,2026-11-13
+3,unitn-drive,UniTN - DISI Drive,https://github.com/unitn-drive,Organization,N/D,Italy,False,923,883.0,40.0,0.0453,5,5.0,0.0,23,22.0,1.0,40.0671,40.0,0.0,0.0671,2026-11-13
+4,refactoringhq,Refactoring,https://github.com/refactoringhq,Organization,N/D,Italy,False,202,194.0,8.0,0.041237,4,4.0,0.0,20713,20266.0,447.0,38.0,8.0,0.0,30.0,2026-11-13
+5,DevExpPlatform,Developer Experience Platform for Eng Group,https://github.com/DevExpPlatform,Organization,N/D,Italy,False,683,646.0,37.0,0.057276,6,6.0,0.0,2,2.0,0.0,37.0,37.0,0.0,0.0,2026-11-13
+6,italia,Developers Italia,https://github.com/italia,Organization,PA,Italy,True,1972,1946.0,26.0,0.013361,439,434.0,5.0,6828,6782.0,46.0,35.0872,26.0,6.0,3.0872,2026-11-13
+7,TabularisDB,Tabularis,https://github.com/TabularisDB,Organization,N/D,Italy,False,69,64.0,5.0,0.078125,34,28.0,6.0,5533,5277.0,256.0,29.3812,5.0,7.2,17.1812,2026-11-13
+8,usbarmory,USB armory,https://github.com/usbarmory,Organization,N/D,Italy,False,208,199.0,9.0,0.045226,37,36.0,1.0,5356,5126.0,230.0,25.6362,9.0,1.2,15.4362,2026-11-13
+9,SPDM-Team,SPDM Team,https://github.com/SPDM-Team,Organization,N/D,Italy,False,483,459.0,24.0,0.052288,3,3.0,0.0,88,93.0,0.0,24.0,24.0,0.0,0.0,2026-11-13
+10,gbionics,Generative Bionics,https://github.com/gbionics,Organization,N/D,Italy,False,131,124.0,7.0,0.056452,78,69.0,9.0,3253,3212.0,41.0,20.5517,7.0,10.8,2.7517,2026-11-13
+11,OpenOSINT,OpenOSINT,https://github.com/OpenOSINT,Organization,N/D,Italy,False,75,68.0,7.0,0.102941,1,1.0,0.0,1930,1751.0,179.0,19.0134,7.0,0.0,12.0134,2026-11-13
+12,typeonce-dev,Typeonce,https://github.com/typeonce-dev,Organization,N/D,Italy,False,106,102.0,4.0,0.039216,16,15.0,1.0,1165,961.0,204.0,18.8913,4.0,1.2,13.6913,2026-11-13
+13,freelensapp,Freelens,https://github.com/freelensapp,Organization,N/D,Italy,False,101,99.0,2.0,0.020202,30,27.0,3.0,6102,5952.0,150.0,15.6671,2.0,3.6,10.0671,2026-11-13
+14,iit-DLSLab,"DLS Lab at Istituto Italiano di Tecnologia, Italy",https://github.com/iit-DLSLab,Organization,N/D,"Genova, Italy",False,245,242.0,3.0,0.012397,82,77.0,5.0,1986,1898.0,88.0,14.906,3.0,6.0,5.906,2026-11-13
+15,BendingSpoons,Bending Spoons,https://github.com/BendingSpoons,Organization,N/D,"Milan, Italy",False,329,315.0,14.0,0.044444,3,3.0,0.0,2945,2949.0,0.0,14.0,14.0,0.0,0.0,2026-11-13
+16,mosaico-labs,mosaico,https://github.com/mosaico-labs,Organization,N/D,Italy,False,90,84.0,6.0,0.071429,11,8.0,3.0,1329,1276.0,53.0,13.157,6.0,3.6,3.557,2026-11-13
+17,Luce-Org,Lucebox AI,https://github.com/Luce-Org,Organization,N/D,Italy,False,98,91.0,7.0,0.076923,3,3.0,0.0,3032,2946.0,86.0,12.7718,7.0,0.0,5.7718,2026-11-13
+18,BitPolito,BitPolito,https://github.com/BitPolito,Organization,N/D," Politecnico di Torino, Turin, Italy",False,74,68.0,6.0,0.088235,27,22.0,5.0,92,90.0,2.0,12.1342,6.0,6.0,0.1342,2026-11-13
+19,unicam-cs-algorithms-lab,Corso di Algoritmi e Strutture Dati ,https://github.com/unicam-cs-algorithms-lab,Organization,N/D,Italy,False,68,69.0,0.0,0.0,21,11.0,10.0,1,1.0,0.0,12.0,0.0,12.0,0.0,2026-11-13
+20,NyarchLinux,Nyarch Linux,https://github.com/NyarchLinux,Organization,N/D,Italy,False,727,717.0,10.0,0.013947,34,34.0,0.0,1981,1967.0,14.0,10.9396,10.0,0.0,0.9396,2026-11-13
+21,ArtisanROM,ArtisanROM,https://github.com/ArtisanROM,Organization,N/D,Italy,False,75,65.0,10.0,0.153846,2,2.0,0.0,231,217.0,14.0,10.9396,10.0,0.0,0.9396,2026-11-13
+22,cnr-isti-vclab,Visual Computing Lab - ISTI - CNR,https://github.com/cnr-isti-vclab,Organization,N/D,Italy,False,312,307.0,5.0,0.016287,45,44.0,1.0,9931,9863.0,68.0,10.7638,5.0,1.2,4.5638,2026-11-13
+23,semitov,SemiTO-V,https://github.com/semitov,Organization,N/D,Italy,False,48,40.0,8.0,0.2,14,13.0,1.0,174,170.0,4.0,9.4685,8.0,1.2,0.2685,2026-11-13
+24,volumio,Volumio Srl,https://github.com/volumio,User,N/D,Firenze - Italia,False,1078,1070.0,8.0,0.007477,137,137.0,0.0,2399,2392.0,7.0,8.4698,8.0,0.0,0.4698,2026-11-13
+25,dataciviclab,DataCivicLab,https://github.com/dataciviclab,Organization,N/D,Italy,False,47,45.0,2.0,0.044444,57,52.0,5.0,52,45.0,7.0,8.4698,2.0,6.0,0.4698,2026-11-13
+26,ondata,onData,https://github.com/ondata,Organization,N/D,Italy,False,150,145.0,5.0,0.034483,145,143.0,2.0,849,834.0,15.0,8.4067,5.0,2.4,1.0067,2026-11-13
+27,neuron-core,Neuron,https://github.com/neuron-core,Organization,N/D,Italy,False,88,88.0,0.0,0.0,23,19.0,4.0,2540,2494.0,46.0,7.8872,0.0,4.8,3.0872,2026-11-13
+28,cyberpandino,Cyberpandino,https://github.com/cyberpandino,Organization,N/D,Italy,False,196,189.0,7.0,0.037037,1,1.0,0.0,575,562.0,13.0,7.8725,7.0,0.0,0.8725,2026-11-13
+29,clastix,Clastix Labs,https://github.com/clastix,Organization,N/D,Italy,False,149,150.0,0.0,0.0,59,55.0,4.0,2518,2478.0,40.0,7.4846,0.0,4.8,2.6846,2026-11-13
+30,netgroup-polito,Netgroup,https://github.com/netgroup-polito,Organization,N/D,"Politecnico di Torino, Turin, Italy",False,41,38.0,3.0,0.078947,101,98.0,3.0,401,389.0,12.0,7.4054,3.0,3.6,0.8054,2026-11-13
+31,NethServer,NethServer,https://github.com/NethServer,Organization,N/D,Italy,False,151,151.0,0.0,0.0,308,302.0,6.0,709,706.0,3.0,7.4013,0.0,7.2,0.2013,2026-11-13
+32,EtheaDev,Ethea S.r.l.,https://github.com/EtheaDev,Organization,N/D,Italy,False,188,185.0,3.0,0.016216,23,21.0,2.0,2070,2042.0,28.0,7.2792,3.0,2.4,1.8792,2026-11-13
+33,SapienzaNLP,Sapienza NLP group,https://github.com/SapienzaNLP,Organization,N/D,"Rome, Italy",False,143,139.0,4.0,0.028777,88,86.0,2.0,1506,1495.0,11.0,7.1383,4.0,2.4,0.7383,2026-11-13
+34,blackswan-quants,BlackswanQuants,https://github.com/blackswan-quants,Organization,N/D,Italy,False,43,42.0,1.0,0.02381,23,18.0,5.0,23,23.0,0.0,7.0,1.0,6.0,0.0,2026-11-13
+35,beelzebub-labs,Beelzebub Labs,https://github.com/beelzebub-labs,Organization,N/D,Italy,False,59,55.0,4.0,0.072727,6,6.0,0.0,2360,2318.0,42.0,6.8188,4.0,0.0,2.8188,2026-11-13
+36,aimagelab,AImageLab,https://github.com/aimagelab,Organization,N/D,"Modena, Italy",False,203,199.0,4.0,0.020101,121,120.0,1.0,5036,5013.0,23.0,6.7436,4.0,1.2,1.5436,2026-11-13
+37,openforis,Open Foris,https://github.com/openforis,Organization,N/D,"Rome, Italy",False,138,133.0,5.0,0.037594,62,61.0,1.0,635,629.0,6.0,6.6027,5.0,1.2,0.4027,2026-11-13
+38,gem,Global Earthquake Model,https://github.com/gem,Organization,N/D,"Pavia, Italy",False,152,147.0,5.0,0.034014,96,96.0,0.0,741,719.0,22.0,6.4765,5.0,0.0,1.4765,2026-11-13
+39,openapi,Openapi®,https://github.com/openapi,Organization,N/D,Home of 🍕,False,87,85.0,2.0,0.023529,31,29.0,2.0,443,422.0,21.0,5.8094,2.0,2.4,1.4094,2026-11-13
+40,meetecho,Meetecho,https://github.com/meetecho,Organization,N/D,"Napoli, Italy",False,164,161.0,3.0,0.018634,19,18.0,1.0,9877,9855.0,22.0,5.6765,3.0,1.2,1.4765,2026-11-13
+41,sapienzastudentsnetwork,Sapienza Students Network,https://github.com/sapienzastudentsnetwork,Organization,N/D,Italy,False,330,325.0,5.0,0.015385,31,31.0,0.0,416,409.0,7.0,5.4698,5.0,0.0,0.4698,2026-11-13
+42,agentvoiceresponse,Agent Voice Response,https://github.com/agentvoiceresponse,Organization,N/D,Italy,False,234,229.0,5.0,0.021834,45,45.0,0.0,209,205.0,4.0,5.2685,5.0,0.0,0.2685,2026-11-13
+43,Corsinvest,Corsinvest Srl,https://github.com/Corsinvest,Organization,N/D,Italy,False,130,129.0,1.0,0.007752,31,31.0,0.0,3447,3384.0,63.0,5.2282,1.0,0.0,4.2282,2026-11-13
+44,UTEXO-Protocol,Utexo,https://github.com/UTEXO-Protocol,Organization,N/D,Italy,False,164,159.0,5.0,0.031447,52,54.0,0.0,728,793.0,0.0,5.0,5.0,0.0,0.0,2026-11-13
+45,Sapienza-Technology,Sapienza Technology Team,https://github.com/Sapienza-Technology,Organization,N/D,Italy,False,47,42.0,5.0,0.119048,3,3.0,0.0,0,0.0,0.0,5.0,5.0,0.0,0.0,2026-11-13
+46,wordlift,WordLift,https://github.com/wordlift,Organization,N/D,Italy,False,39,38.0,1.0,0.026316,65,62.0,3.0,41,39.0,2.0,4.7342,1.0,3.6,0.1342,2026-11-13
+47,KatharaFramework,Kathará,https://github.com/KatharaFramework,Organization,N/D,Italy,False,103,99.0,4.0,0.040404,16,16.0,0.0,996,987.0,9.0,4.604,4.0,0.0,0.604,2026-11-13
+48,defstudio,def:studio,https://github.com/defstudio,Organization,N/D,"Bari, Italy",False,43,41.0,2.0,0.04878,55,53.0,2.0,1325,1322.0,3.0,4.6013,2.0,2.4,0.2013,2026-11-13
+49,commercelayer,Commerce Layer,https://github.com/commercelayer,Organization,N/D,Italy,False,103,102.0,1.0,0.009804,93,91.0,2.0,688,672.0,16.0,4.4738,1.0,2.4,1.0738,2026-11-13
+50,consiglionazionaledellericerche,The National Research Council (CNR),https://github.com/consiglionazionaledellericerche,Organization,N/D,"Piazzale Aldo Moro, 7 - 00185 Rome, Italy",False,54,52.0,2.0,0.038462,46,44.0,2.0,122,121.0,1.0,4.4671,2.0,2.4,0.0671,2026-11-13
+51,WEEE-Open,WEEE Open,https://github.com/WEEE-Open,Organization,N/D,"Torino, Italy",False,42,39.0,3.0,0.076923,72,71.0,1.0,134,133.0,1.0,4.2671,3.0,1.2,0.0671,2026-11-13
+52,polito-informatica, Informatica (Politecnico di Torino),https://github.com/polito-informatica,Organization,N/D,Italy,False,176,172.0,4.0,0.023256,9,9.0,0.0,102,99.0,3.0,4.2013,4.0,0.0,0.2013,2026-11-13
+53,DeMaCS-UNICAL,Department of Mathematics and Computer Science,https://github.com/DeMaCS-UNICAL,Organization,N/D,Italy,False,43,40.0,3.0,0.075,71,70.0,1.0,172,174.0,0.0,4.2,3.0,1.2,0.0,2026-11-13
+54,downthemall,DownThemAll!,https://github.com/downthemall,Organization,N/D,Italy/Germany,False,51,48.0,3.0,0.0625,9,9.0,0.0,1787,1770.0,17.0,4.1409,3.0,0.0,1.1409,2026-11-13
+55,langgraph4j,LangGraph4j,https://github.com/langgraph4j,Organization,N/D,Italy,False,87,86.0,1.0,0.011628,19,19.0,0.0,2306,2260.0,46.0,4.0872,1.0,0.0,3.0872,2026-11-13
+56,sisinflab,Information Systems Lab @ Polytechnic University of Bari,https://github.com/sisinflab,Organization,N/D,"Bari, Italy",False,45,44.0,1.0,0.022727,152,150.0,2.0,1116,1108.0,8.0,3.9369,1.0,2.4,0.5369,2026-11-13
+57,phuselab,PHUSE Lab,https://github.com/phuselab,Organization,N/D,"Università degli Studi di Milano, Italy",False,40,40.0,0.0,0.0,31,28.0,3.0,908,907.0,1.0,3.6671,0.0,3.6,0.0671,2026-11-13
+58,NON-OS,NØNOS,https://github.com/NON-OS,Organization,N/D,Italy,False,154,228.0,0.0,0.0,20,17.0,3.0,252,338.0,0.0,3.6,0.0,3.6,0.0,2026-11-13
+59,mia-platform,Mia-Platform,https://github.com/mia-platform,Organization,N/D,Italy,False,107,107.0,0.0,0.0,75,72.0,3.0,334,334.0,0.0,3.6,0.0,3.6,0.0,2026-11-13
+60,PoliNetworkOrg,PoliNetwork APS,https://github.com/PoliNetworkOrg,Organization,N/D,Italy,False,50,49.0,1.0,0.020408,40,38.0,2.0,36,34.0,2.0,3.5342,1.0,2.4,0.1342,2026-11-13
+61,TheWebScrapingClub,The Web Scraping Club,https://github.com/TheWebScrapingClub,Organization,N/D,Italy,False,181,178.0,3.0,0.016854,6,6.0,0.0,2008,2001.0,7.0,3.4698,3.0,0.0,0.4698,2026-11-13
+62,un-fao,Food and Agriculture Organization of the United Nations (FAO),https://github.com/un-fao,Organization,N/D,Italy,False,143,141.0,2.0,0.014184,46,45.0,1.0,90,86.0,4.0,3.4685,2.0,1.2,0.2685,2026-11-13
+63,idra-lab, Interdepartmental Robotics Labs (IDRA),https://github.com/idra-lab,Organization,N/D,Italy,False,51,49.0,2.0,0.040816,110,109.0,1.0,294,290.0,4.0,3.4685,2.0,1.2,0.2685,2026-11-13
+64,italia-opensource,Italia Open-Source,https://github.com/italia-opensource,Organization,N/D,Italy,False,112,109.0,3.0,0.027523,4,4.0,0.0,356,352.0,4.0,3.2685,3.0,0.0,0.2685,2026-11-13
+65,agile-lab-dev,Agile Lab,https://github.com/agile-lab-dev,Organization,N/D,"Turin, Italy",False,53,51.0,2.0,0.039216,133,132.0,1.0,414,413.0,1.0,3.2671,2.0,1.2,0.0671,2026-11-13
+66,prometeia-erm,prometeia-erm,https://github.com/prometeia-erm,Organization,N/D,Italy,False,48,46.0,2.0,0.043478,4,3.0,1.0,0,0.0,0.0,3.2,2.0,1.2,0.0,2026-11-13
+67,polito,Politecnico di Torino,https://github.com/polito,Organization,N/D,Italy,False,253,250.0,3.0,0.012,9,9.0,0.0,223,222.0,1.0,3.0671,3.0,0.0,0.0671,2026-11-13
+68,MAL-TO,MALTO,https://github.com/MAL-TO,Organization,N/D,"Turin, Italy",False,48,45.0,3.0,0.066667,14,14.0,0.0,11,10.0,1.0,3.0671,3.0,0.0,0.0671,2026-11-13
+69,pagopa,PagoPA S.p.A.,https://github.com/pagopa,Organization,PMI,Italy,True,334,331.0,3.0,0.009063,663,784.0,0.0,1579,1719.0,0.0,3.0,3.0,0.0,0.0,2026-11-13
+70,AlmavivA,AlmavivA S.p.A.,https://github.com/AlmavivA,Organization,N/D,"Rome, Italy",False,208,205.0,3.0,0.014634,15,15.0,0.0,2,2.0,0.0,3.0,3.0,0.0,0.0,2026-11-13
+71,UniversitaDellaCalabria,Università della Calabria,https://github.com/UniversitaDellaCalabria,Organization,N/D,"Italy, Rende",False,76,73.0,3.0,0.041096,71,71.0,0.0,255,256.0,0.0,3.0,3.0,0.0,0.0,2026-11-13
+72,unibo,University of Bologna,https://github.com/unibo,Organization,N/D,"Bologna, Italy",False,71,68.0,3.0,0.044118,8,8.0,0.0,6,6.0,0.0,3.0,3.0,0.0,0.0,2026-11-13
+73,mesh-iit,MESH,https://github.com/mesh-iit,Organization,N/D,Italy,False,110,109.0,1.0,0.009174,59,58.0,1.0,402,396.0,6.0,2.6027,1.0,1.2,0.4027,2026-11-13
+74,event-driven-robotics,Event Driven Perception for Robotics,https://github.com/event-driven-robotics,Organization,N/D,"Genova, Italy",False,48,48.0,0.0,0.0,73,71.0,2.0,199,196.0,3.0,2.6013,0.0,2.4,0.2013,2026-11-13
+75,cartabinaria,CartaBinaria,https://github.com/cartabinaria,Organization,N/D,Italy,False,302,300.0,2.0,0.006667,198,198.0,0.0,170,162.0,8.0,2.5369,2.0,0.0,0.5369,2026-11-13
+76,informatici,Informatici Senza Frontiere,https://github.com/informatici,Organization,N/D,Italy,False,116,114.0,2.0,0.017544,20,20.0,0.0,969,961.0,8.0,2.5369,2.0,0.0,0.5369,2026-11-13
+77,AIRLab-POLIMI,AIRLab@POLIMI,https://github.com/AIRLab-POLIMI,Organization,N/D,"Politecnico di Milano - Piazza Leonardo da Vinci, 32 - Milan - Italy",False,88,87.0,1.0,0.011494,107,106.0,1.0,525,520.0,5.0,2.5356,1.0,1.2,0.3356,2026-11-13
+78,edge-group-polito,EDGE Group - PoliTO,https://github.com/edge-group-polito,Organization,N/D,Italy,False,51,50.0,1.0,0.02,52,51.0,1.0,108,106.0,2.0,2.3342,1.0,1.2,0.1342,2026-11-13
+79,istat,istat,https://github.com/istat,Organization,Ricerca,"Via Cesare Balbo 16, 00184 Rome",False,11,10.0,1.0,0.1,13,12.0,1.0,9,7.0,2.0,2.3342,1.0,1.2,0.1342,2026-11-13
+80,Tiledesk,Tiledesk,https://github.com/Tiledesk,Organization,N/D,Italy,False,455,454.0,1.0,0.002203,29,29.0,0.0,891,872.0,19.0,2.2752,1.0,0.0,1.2752,2026-11-13
+81,robotology,Robotology,https://github.com/robotology,Organization,N/D,Italy,False,337,336.0,1.0,0.002976,154,153.0,1.0,2722,2721.0,1.0,2.2671,1.0,1.2,0.0671,2026-11-13
+82,INGV,Istituto Nazionale di Geofisica e Vulcanologia,https://github.com/INGV,Organization,N/D,"Via di Vigna Murata 605 - 00143, Rome, Italy",False,74,73.0,1.0,0.013699,83,82.0,1.0,151,150.0,1.0,2.2671,1.0,1.2,0.0671,2026-11-13
+83,arkemis,Arkemis,https://github.com/arkemis,Organization,N/D,Italy,False,64,62.0,2.0,0.032258,17,17.0,0.0,201,198.0,3.0,2.2013,2.0,0.0,0.2013,2026-11-13
+84,ShielderSec,Shielder,https://github.com/ShielderSec,Organization,N/D,Italy,False,42,40.0,2.0,0.05,11,11.0,0.0,388,385.0,3.0,2.2013,2.0,0.0,0.2013,2026-11-13
+85,immobiliare,Immobiliare Labs,https://github.com/immobiliare,Organization,N/D,"Rome, Italy",False,89,88.0,1.0,0.011364,40,39.0,1.0,3040,3044.0,0.0,2.2,1.0,1.2,0.0,2026-11-13
+86,ZapprTV,Zappr,https://github.com/ZapprTV,Organization,N/D,Italy,False,115,113.0,2.0,0.017699,13,13.0,0.0,118,116.0,2.0,2.1342,2.0,0.0,0.1342,2026-11-13
+87,OctoGramApp,OctoGram,https://github.com/OctoGramApp,Organization,N/D,Italy,False,55,53.0,2.0,0.037736,6,6.0,0.0,450,449.0,1.0,2.0671,2.0,0.0,0.0671,2026-11-13
+88,Sisal-Org,Sisal-Org,https://github.com/Sisal-Org,Organization,N/D,Italy,False,202,200.0,2.0,0.01,0,0.0,0.0,0,0.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+89,teamdigitale,Team Digitale,https://github.com/teamdigitale,Organization,PA,"Rome, Italy",True,159,157.0,2.0,0.012739,155,155.0,0.0,340,340.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+90,CompEngMS,Computer Engineering MS - Sapienza,https://github.com/CompEngMS,Organization,N/D,Italy,False,107,105.0,2.0,0.019048,25,25.0,0.0,43,44.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+91,pythonitalia,Python Italia,https://github.com/pythonitalia,Organization,N/D,Italy,False,96,94.0,2.0,0.021277,45,45.0,0.0,267,267.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+92,XENONnT,XENONnT Dark Matter experiment,https://github.com/XENONnT,Organization,N/D,"Gran Sasso, Italy",False,90,88.0,2.0,0.022727,50,50.0,0.0,96,96.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+93,CMCC-Foundation,CMCC Foundation,https://github.com/CMCC-Foundation,Organization,N/D,"Lecce, Italy",False,61,59.0,2.0,0.033898,65,65.0,0.0,28,28.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+94,deltatre-innovation-lab,Deltatre Innovation Lab,https://github.com/deltatre-innovation-lab,Organization,N/D,Italy,False,55,53.0,2.0,0.037736,0,0.0,0.0,0,0.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+95,mhackeroni,mhackeroni,https://github.com/mhackeroni,Organization,N/D,Italy,False,52,50.0,2.0,0.04,3,3.0,0.0,5,5.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+96,ProgrammazioneI-UniPG,Bachelor-assignments-UNIPG-Santini,https://github.com/ProgrammazioneI-UniPG,Organization,N/D,"Perugia, Italy",False,46,44.0,2.0,0.045455,259,259.0,0.0,5,5.0,0.0,2.0,2.0,0.0,0.0,2026-11-13
+97,Pwnzer0tt1,Pwnzer0tt1,https://github.com/Pwnzer0tt1,Organization,N/D,Italy,False,45,44.0,1.0,0.022727,11,11.0,0.0,253,239.0,14.0,1.9396,1.0,0.0,0.9396,2026-11-13
+98,geosolutions-it,GeoSolutions,https://github.com/geosolutions-it,Organization,N/D,Italy & US,False,225,225.0,0.0,0.0,149,148.0,1.0,1816,1807.0,9.0,1.804,0.0,1.2,0.604,2026-11-13
+99,polimi-ispl,Image and Sound Processing Lab,https://github.com/polimi-ispl,Organization,N/D,"Milan, Italy",False,97,97.0,0.0,0.0,79,78.0,1.0,938,930.0,8.0,1.7369,0.0,1.2,0.5369,2026-11-13
+100,mathLab,SISSA mathLab,https://github.com/mathLab,Organization,N/D,"Via Bonomea 265, 34133 Trieste, TS, Italy",False,240,239.0,1.0,0.004184,30,30.0,0.0,1054,1046.0,8.0,1.5369,1.0,0.0,0.5369,2026-11-13
+101,sighupio,SIGHUP,https://github.com/sighupio,Organization,N/D,Italy,False,62,62.0,0.0,0.0,56,55.0,1.0,2364,2359.0,5.0,1.5356,0.0,1.2,0.3356,2026-11-13
+102,opencitations,OpenCitations,https://github.com/opencitations,Organization,N/D,"Bologna, Italy",False,110,109.0,1.0,0.009174,86,86.0,0.0,324,317.0,7.0,1.4698,1.0,0.0,0.4698,2026-11-13
+103,ICTP,International Centre for Theoretical Physics,https://github.com/ICTP,Organization,N/D,Italy,False,54,54.0,0.0,0.0,12,11.0,1.0,86,83.0,3.0,1.4013,0.0,1.2,0.2013,2026-11-13
+104,cheshire-cat-ai,Cheshire Cat AI,https://github.com/cheshire-cat-ai,Organization,N/D,Italy,False,641,640.0,1.0,0.001563,23,23.0,0.0,3433,3428.0,5.0,1.3356,1.0,0.0,0.3356,2026-11-13
+105,olimpiadi-informatica,Olimpiadi Italiane di Informatica,https://github.com/olimpiadi-informatica,Organization,N/D,Italy,False,44,43.0,1.0,0.023256,34,34.0,0.0,143,138.0,5.0,1.3356,1.0,0.0,0.3356,2026-11-13
+106,Arubacloud,ArubaCloud,https://github.com/Arubacloud,Organization,N/D,24036 Ponte San Pietro (BG) Italy,False,59,59.0,0.0,0.0,25,24.0,1.0,148,146.0,2.0,1.3342,0.0,1.2,0.1342,2026-11-13
+107,maize-tech,MAIZE,https://github.com/maize-tech,Organization,N/D,Italy,False,38,38.0,0.0,0.0,25,24.0,1.0,1647,1646.0,1.0,1.2671,0.0,1.2,0.0671,2026-11-13
+108,virgili0,Virgilio Data Science,https://github.com/virgili0,Organization,N/D,Italy,False,128,127.0,1.0,0.007874,1,1.0,0.0,15005,15002.0,3.0,1.2013,1.0,0.0,0.2013,2026-11-13
+109,sftpgo,SFTPGo,https://github.com/sftpgo,Organization,N/D,Italy,False,61,60.0,1.0,0.016667,13,13.0,0.0,91,88.0,3.0,1.2013,1.0,0.0,0.2013,2026-11-13
+110,vira-soft,Vira Software,https://github.com/vira-soft,Organization,N/D,Italy,False,108,108.0,0.0,0.0,3,2.0,1.0,11301,11308.0,0.0,1.2,0.0,1.2,0.0,2026-11-13
+111,g3w-suite,G3W-SUITE,https://github.com/g3w-suite,Organization,N/D,Italy,False,75,75.0,0.0,0.0,36,35.0,1.0,128,129.0,0.0,1.2,0.0,1.2,0.0,2026-11-13
+112,CoralMC-It,CoralMC,https://github.com/CoralMC-It,Organization,N/D,Italy,False,45,45.0,0.0,0.0,7,6.0,1.0,0,0.0,0.0,1.2,0.0,1.2,0.0,2026-11-13
+113,ZiggyCreatures,ZiggyCreatures,https://github.com/ZiggyCreatures,Organization,N/D,Italy,False,74,75.0,0.0,0.0,1,1.0,0.0,3954,3937.0,17.0,1.1409,0.0,0.0,1.1409,2026-11-13
+114,osservatorionessuno,Osservatorio Nessuno OdV,https://github.com/osservatorionessuno,Organization,N/D,Italy,False,59,58.0,1.0,0.017241,16,16.0,0.0,117,115.0,2.0,1.1342,1.0,0.0,0.1342,2026-11-13
+115,Babelscape,Babelscape,https://github.com/Babelscape,Organization,N/D,Italy,False,55,54.0,1.0,0.018519,19,19.0,0.0,1017,1015.0,2.0,1.1342,1.0,0.0,0.1342,2026-11-13
+116,Master-Data-Management-and-Curation,Master Data Management and Curation,https://github.com/Master-Data-Management-and-Curation,Organization,N/D,Italy,False,43,42.0,1.0,0.02381,13,13.0,0.0,15,14.0,1.0,1.0671,1.0,0.0,0.0671,2026-11-13
+117,Il-Libro-Open-Source,Il Libro Open Source,https://github.com/Il-Libro-Open-Source,Organization,N/D,Italy,False,210,209.0,1.0,0.004785,4,4.0,0.0,425,425.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+118,cybersecurity-polito,Cybersecurity @ PoliTO,https://github.com/cybersecurity-polito,Organization,N/D,Italy,False,164,163.0,1.0,0.006135,7,7.0,0.0,5,5.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+119,Programmazione-Avanzata-2025-26,Programmazione Avanzata 2025-26,https://github.com/Programmazione-Avanzata-2025-26,Organization,N/D,Italy,False,117,116.0,1.0,0.008621,35,35.0,0.0,5,5.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+120,unicef-drp,Office of Strategy and Evidence Innocenti,https://github.com/unicef-drp,Organization,N/D,Italy,False,109,108.0,1.0,0.009259,56,56.0,0.0,141,141.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+121,ASEM-S-R-L,ASEM S.r.l,https://github.com/ASEM-S-R-L,Organization,N/D,Italy,False,106,105.0,1.0,0.009524,0,0.0,0.0,0,0.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+122,ministero-salute,Ministero della Salute,https://github.com/ministero-salute,Organization,PA,Italy,False,84,83.0,1.0,0.012048,103,103.0,0.0,421,443.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+123,krateoplatformops,Krateo PlatformOps,https://github.com/krateoplatformops,Organization,N/D,Italy,False,80,79.0,1.0,0.012658,212,213.0,0.0,80,342.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+124,FIUP,FIUP,https://github.com/FIUP,Organization,N/D,"Padua, Italy",False,72,71.0,1.0,0.014085,40,40.0,0.0,103,104.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+125,TdP-2023,"Tecniche di Programmazione (2022/23), Politecnico di Torino",https://github.com/TdP-2023,Organization,N/D,Italy,False,66,65.0,1.0,0.015385,29,29.0,0.0,9,9.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+126,md-cs-student-unipi,MD CS Student @ Unipi,https://github.com/md-cs-student-unipi,Organization,N/D,"Pisa, Italy",False,59,58.0,1.0,0.017241,7,7.0,0.0,236,236.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+127,MachineLearningJournalClub,Machine Learning Journal Club,https://github.com/MachineLearningJournalClub,Organization,N/D,"Turin, Italy",False,57,56.0,1.0,0.017857,30,30.0,0.0,116,116.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+128,Security-Cert,SecurityCert,https://github.com/Security-Cert,Organization,N/D,Italy,False,55,54.0,1.0,0.018519,8,8.0,0.0,6,6.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+129,CalcolatoriElettronici,Calcolatori Elettronici,https://github.com/CalcolatoriElettronici,Organization,N/D,Italy,False,52,51.0,1.0,0.019608,0,0.0,0.0,0,0.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+130,newcleo-dev-team,newcleo,https://github.com/newcleo-dev-team,Organization,N/D,Italy,False,52,51.0,1.0,0.019608,9,9.0,0.0,33,33.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+131,squadracorsepolito,Squadra Corse PoliTO,https://github.com/squadracorsepolito,Organization,N/D,Italy,False,52,51.0,1.0,0.019608,38,38.0,0.0,58,58.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+132,datalogic,Datalogic,https://github.com/datalogic,Organization,N/D,"Bologna, Italy",False,50,49.0,1.0,0.020408,86,86.0,0.0,108,108.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+133,satispay-tech,Satispay Tech,https://github.com/satispay-tech,Organization,N/D,Italy,False,49,48.0,1.0,0.020833,0,0.0,0.0,0,0.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+134,eml-eda,"Efficient ML @ EDA Group, Politecnico di Torino",https://github.com/eml-eda,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,60,60.0,0.0,273,273.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+135,exaconsrl,Exacon,https://github.com/exaconsrl,Organization,N/D,"Milano, Italy",False,42,41.0,1.0,0.02439,0,0.0,0.0,0,0.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+136,grok-ai,Grok AI,https://github.com/grok-ai,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,5,5.0,0.0,686,687.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+137,RegestaItalia,RegGitHub,https://github.com/RegestaItalia,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,36,37.0,0.0,17,19.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+138,zupit-it,Zupit,https://github.com/zupit-it,Organization,N/D,Italy,False,42,41.0,1.0,0.02439,17,17.0,0.0,6,6.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+139,c-hydro,"CIMA Research Foundation - Departments of Hydrology and Hydraulics, and Drought",https://github.com/c-hydro,Organization,N/D,"Savona, Italy",False,40,39.0,1.0,0.025641,44,44.0,0.0,29,29.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+140,VicidominiLab,Vicidomini Lab,https://github.com/VicidominiLab,Organization,N/D,"Genova, Italy",False,40,39.0,1.0,0.025641,32,32.0,0.0,78,78.0,0.0,1.0,1.0,0.0,0.0,2026-11-13
+141,RealityNet,RealityNet,https://github.com/RealityNet,Organization,N/D,Italy,False,113,114.0,0.0,0.0,9,9.0,0.0,1821,1807.0,14.0,0.9396,0.0,0.0,0.9396,2026-11-13
+142,hack-gpon,hack-gpon,https://github.com/hack-gpon,Organization,N/D,Italy,False,73,74.0,0.0,0.0,8,8.0,0.0,391,378.0,13.0,0.8725,0.0,0.0,0.8725,2026-11-13
+143,open-license-manager,Open License Manager,https://github.com/open-license-manager,Organization,N/D,Italy,False,62,62.0,0.0,0.0,5,5.0,0.0,1401,1389.0,12.0,0.8054,0.0,0.0,0.8054,2026-11-13
+144,sparkfabrik,SparkFabrik,https://github.com/sparkfabrik,Organization,N/D,Italy,False,56,56.0,0.0,0.0,119,119.0,0.0,694,682.0,12.0,0.8054,0.0,0.0,0.8054,2026-11-13
+145,monocasual,Monocasual Laboratories,https://github.com/monocasual,Organization,N/D,Italy,False,46,46.0,0.0,0.0,17,17.0,0.0,2156,2146.0,10.0,0.6711,0.0,0.0,0.6711,2026-11-13
+146,translate-tools,Translate tools,https://github.com/translate-tools,Organization,N/D,Italy,False,38,38.0,0.0,0.0,6,6.0,0.0,1240,1230.0,10.0,0.6711,0.0,0.0,0.6711,2026-11-13
+147,sebaubuntu-python,SebaUbuntu's Python projects,https://github.com/sebaubuntu-python,Organization,N/D,Italy,False,55,55.0,0.0,0.0,9,9.0,0.0,643,634.0,9.0,0.604,0.0,0.0,0.604,2026-11-13
+148,ChibiOS,ChibiOS,https://github.com/ChibiOS,Organization,N/D,Italy,False,121,122.0,0.0,0.0,4,4.0,0.0,1061,1053.0,8.0,0.5369,0.0,0.0,0.5369,2026-11-13
+149,ami-iit,Artificial and Mechanical Intelligence ,https://github.com/ami-iit,Organization,N/D,Italy,False,254,254.0,0.0,0.0,168,168.0,0.0,624,617.0,7.0,0.4698,0.0,0.0,0.4698,2026-11-13
+150,Schroedinger-Hat,Schrödinger Hat,https://github.com/Schroedinger-Hat,Organization,N/D,Italy,False,223,223.0,0.0,0.0,33,33.0,0.0,1666,1659.0,7.0,0.4698,0.0,0.0,0.4698,2026-11-13
+151,pralab,PRALab,https://github.com/pralab,Organization,N/D,"Cagliari, Italy",False,61,61.0,0.0,0.0,31,31.0,0.0,834,827.0,7.0,0.4698,0.0,0.0,0.4698,2026-11-13
+152,unipr-org,unipr-org,https://github.com/unipr-org,Organization,N/D,Italy,False,99,99.0,0.0,0.0,35,35.0,0.0,62,56.0,6.0,0.4027,0.0,0.0,0.4027,2026-11-13
+153,necst,NECSTLab,https://github.com/necst,Organization,N/D,"Milan, Italy",False,56,56.0,0.0,0.0,132,132.0,0.0,695,690.0,5.0,0.3356,0.0,0.0,0.3356,2026-11-13
+154,mindedsecurity,IMQ Minded Security,https://github.com/mindedsecurity,Organization,N/D,Italy,False,52,53.0,0.0,0.0,19,19.0,0.0,1842,1837.0,5.0,0.3356,0.0,0.0,0.3356,2026-11-13
+155,ECSC2024,ECSC2024,https://github.com/ECSC2024,Organization,N/D,Italy,False,52,52.0,0.0,0.0,3,3.0,0.0,142,138.0,4.0,0.2685,0.0,0.0,0.2685,2026-11-13
+156,antares-sql,Antares SQL,https://github.com/antares-sql,Organization,N/D,Italy,False,66,66.0,0.0,0.0,5,5.0,0.0,2703,2700.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-13
+157,prisma-lab,Prisma Lab,https://github.com/prisma-lab,Organization,N/D,"Naples, Italy",False,54,54.0,0.0,0.0,40,40.0,0.0,145,142.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-13
+158,CentroEPiaggio,"Bioengineering and Robotics Research Center ""E. Piaggio"" - University of Pisa",https://github.com/CentroEPiaggio,Organization,N/D,"Via Diotisalvi, 2. Pisa, Italy",False,50,50.0,0.0,0.0,169,169.0,0.0,488,485.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-13
+159,ventunobtc,Ventuno ,https://github.com/ventunobtc,Organization,N/D,Italy,False,41,41.0,0.0,0.0,11,11.0,0.0,39,36.0,3.0,0.2013,0.0,0.0,0.2013,2026-11-13
+160,MilaNLProc,MilaNLP,https://github.com/MilaNLProc,Organization,N/D,"Milan, Italy",False,81,81.0,0.0,0.0,41,41.0,0.0,1527,1525.0,2.0,0.1342,0.0,0.0,0.1342,2026-11-13
+161,HPC-Courses,MOX HPC Courses Repositories,https://github.com/HPC-Courses,Organization,N/D,Italy,False,49,49.0,0.0,0.0,5,5.0,0.0,93,91.0,2.0,0.1342,0.0,0.0,0.1342,2026-11-13
+162,nephila,Nephila,https://github.com/nephila,Organization,N/D,"Italy, United Kingdom, Switzerland",False,95,96.0,0.0,0.0,117,117.0,0.0,1840,1839.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+163,OliCyberIT,Olimpiadi Italiane di Cybersecurity,https://github.com/OliCyberIT,Organization,N/D,Italy,False,69,69.0,0.0,0.0,1,1.0,0.0,73,72.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+164,noi-techpark,NOI Techpark - Südtirol / Alto Adige,https://github.com/noi-techpark,Organization,N/D,"Italy, South Tyrol, 39100 Bolzano/Bozen, Volta street 13/A",False,67,67.0,0.0,0.0,261,261.0,0.0,213,212.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+165,cosmoimd,Cosmo MedTech AI,https://github.com/cosmoimd,Organization,N/D,Italy,False,58,58.0,0.0,0.0,7,7.0,0.0,106,105.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+166,sna-unipi,Social Network Analysis (& Laboratory) @ University of Pisa,https://github.com/sna-unipi,Organization,N/D,"Pisa, Italy",False,54,54.0,0.0,0.0,16,16.0,0.0,56,55.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+167,ProjectoOfficial,Projecto,https://github.com/ProjectoOfficial,Organization,N/D,Italy,False,51,51.0,0.0,0.0,19,19.0,0.0,107,106.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+168,orobix,Orobix,https://github.com/orobix,Organization,N/D,"Bergamo, Italy",False,43,43.0,0.0,0.0,20,20.0,0.0,2753,2752.0,1.0,0.0671,0.0,0.0,0.0671,2026-11-13
+169,illustrated-machine-learning,Illustrated Machine Learning,https://github.com/illustrated-machine-learning,Organization,N/D,Italy,False,193,193.0,0.0,0.0,3,3.0,0.0,663,664.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+170,polito-webapp1,Web Applications I / Applicazioni Web I,https://github.com/polito-webapp1,Organization,N/D,Italy,False,167,168.0,0.0,0.0,13,13.0,0.0,79,81.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+171,ElecteSrl,Electe,https://github.com/ElecteSrl,Organization,N/D,Italy,False,142,262.0,0.0,0.0,5,5.0,0.0,5,9.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+172,Home-Assistant-Pro-Team,Home Assistant Pro Team,https://github.com/Home-Assistant-Pro-Team,Organization,N/D,Italy,False,128,128.0,0.0,0.0,10,10.0,0.0,258,258.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+173,mkinf-io,mkinf,https://github.com/mkinf-io,Organization,N/D,Italy,False,111,112.0,0.0,0.0,6,6.0,0.0,167,168.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+174,UNICT-DMI,UNICT Devs,https://github.com/UNICT-DMI,Organization,N/D,Italy,False,109,109.0,0.0,0.0,52,52.0,0.0,317,320.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+175,datocms,DatoCMS,https://github.com/datocms,Organization,N/D,Italy,False,90,90.0,0.0,0.0,98,98.0,0.0,1307,1307.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+176,TdP-2024,"Tecniche di Programmazione (2023/2024), Politecnico di Torino",https://github.com/TdP-2024,Organization,N/D,Italy,False,83,83.0,0.0,0.0,36,36.0,0.0,8,8.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+177,Polito-DS-Python,Data Structures in Python - PoliTo,https://github.com/Polito-DS-Python,Organization,N/D,Italy,False,82,82.0,0.0,0.0,1,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+178,ASEM-ApplicationSoftwareEngineers,Application Support Engineers Shared Repo,https://github.com/ASEM-ApplicationSoftwareEngineers,Organization,N/D,Italy,False,77,77.0,0.0,0.0,3,3.0,0.0,7,7.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+179,buildwiththeta,Build with Theta,https://github.com/buildwiththeta,Organization,N/D,Italy,False,74,74.0,0.0,0.0,7,7.0,0.0,291,291.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+180,ReactBricks,React Bricks,https://github.com/ReactBricks,Organization,N/D,"Bergamo, Italy",False,70,71.0,0.0,0.0,35,35.0,0.0,210,210.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+181,builders-garden,builders.garden,https://github.com/builders-garden,Organization,N/D,Italy,False,69,70.0,0.0,0.0,178,178.0,0.0,306,307.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+182,CybersecNatLab,CINI Cybersecurity National Lab,https://github.com/CybersecNatLab,Organization,N/D,Italy,False,68,68.0,0.0,0.0,4,4.0,0.0,153,153.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+183,cegeka,Cegeka,https://github.com/cegeka,Organization,N/D,"Belgium, Netherlands, Romania, Germany, Austria, Italy, Czech Republic",False,67,67.0,0.0,0.0,202,202.0,0.0,131,131.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+184,robotics-knowledgebase-iit,Robotics Knowledge Base at IIT,https://github.com/robotics-knowledgebase-iit,Organization,N/D,Italy,False,67,67.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+185,Sapienza-ACSAI,ACSAI Sapienza,https://github.com/Sapienza-ACSAI,Organization,N/D,Italy,False,65,65.0,0.0,0.0,12,12.0,0.0,7,7.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+186,seceq,Seceq,https://github.com/seceq,Organization,N/D,Italy,False,62,74.0,0.0,0.0,7,7.0,0.0,213,233.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+187,openapi-it,OpenApi,https://github.com/openapi-it,Organization,N/D,Italy,False,60,60.0,0.0,0.0,4,4.0,0.0,3,3.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+188,BocconiStudentsFinancialMarkets,BSFM - Bocconi Students Financial Markets,https://github.com/BocconiStudentsFinancialMarkets,Organization,N/D,"MIlan, Italy",False,59,59.0,0.0,0.0,2,2.0,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+189,xtreamsrl,xtream,https://github.com/xtreamsrl,Organization,N/D,"Milan, Italy",False,58,58.0,0.0,0.0,47,47.0,0.0,473,475.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+190,boolean-it,Boolean IT,https://github.com/boolean-it,Organization,N/D,Italy,False,57,57.0,0.0,0.0,25,25.0,0.0,1,1.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+191,Cineca,Cineca,https://github.com/Cineca,Organization,N/D,Italy,False,54,54.0,0.0,0.0,8,8.0,0.0,48,48.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+192,nebulab,Nebulab,https://github.com/nebulab,Organization,N/D,Italy,False,53,53.0,0.0,0.0,239,239.0,0.0,1759,1761.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+193,openpolis,Openpolis,https://github.com/openpolis,Organization,Civic tech,"Roma, Italia",False,52,52.0,0.0,0.0,70,70.0,0.0,216,216.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+194,TwentyTwoHW,TwentyTwo Devices,https://github.com/TwentyTwoHW,Organization,N/D,Italy,False,51,51.0,0.0,0.0,7,7.0,0.0,54,55.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+195,AidaDSP,Aida DSP,https://github.com/AidaDSP,Organization,N/D,Turin (Italy),False,50,50.0,0.0,0.0,6,6.0,0.0,406,407.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+196,CyberChallengeIT,CyberChallenge.IT,https://github.com/CyberChallengeIT,Organization,N/D,Italy,False,48,48.0,0.0,0.0,1,1.0,0.0,14,14.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+197,TheSignAcademy,TheSIGN – Comics & Arts Academy,https://github.com/TheSignAcademy,Organization,N/D,Firenze - Italy,False,48,48.0,0.0,0.0,3,3.0,0.0,3,3.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+198,Cyber-HackAdemy-UniNa,Cyber HackAdemy UniNa,https://github.com/Cyber-HackAdemy-UniNa,Organization,N/D,Italy,False,47,47.0,0.0,0.0,5,5.0,0.0,9,9.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+199,Datamasters-it,DataMasters.it,https://github.com/Datamasters-it,Organization,N/D,"Bari, Italy",False,47,47.0,0.0,0.0,11,11.0,0.0,10,10.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
+200,EOS-Solutions,Eos Solutions ,https://github.com/EOS-Solutions,Organization,N/D,Italy,False,47,47.0,0.0,0.0,15,15.0,0.0,50,50.0,0.0,0.0,0.0,0.0,0.0,2026-11-13
